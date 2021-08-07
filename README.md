@@ -1,4 +1,4 @@
-# Robot Storytelling
+# Robot Storytelling (Code Excerpt)
 
 Complementary code of the thesis on "*Computational Storytelling as Embodied Robot Performance with Gesture and Spatial Metaphor*". 
 
