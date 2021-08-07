@@ -1,0 +1,619 @@
+action	A (***strong, **medium, *weak)	B (***strong, **medium, *weak)
+stand_up_to	***animations/Stand/BodyTalk/Listening/Listening_2, **animations/Stand/Emotions/Positive/Proud_3, **animations/Stand/Gestures/YouKnowWhat_2	
+are_energized_by	***animations/Stand/BodyTalk/Listening/Listening_2, ***animations/Stand/Emotions/Positive/Enthusiastic_1, **animations/Stand/Emotions/Positive/Proud_2, **animations/Stand/Emotions/Positive/Proud_1, **animations/Stand/Gestures/Enthusiastic_1, **animations/Stand/Gestures/Enthusiastic_5	
+guard	**animations/Stand/BodyTalk/Listening/Listening_2, ***animations/Stand/Emotions/Positive/Sure_1, **animations/Stand/Gestures/Thinking_8, *animations/Stand/Gestures/YouKnowWhat_1, **animations/Stand/Gestures/YouKnowWhat_2	
+defend	**animations/Stand/BodyTalk/Listening/Listening_2, ***animations/Stand/Emotions/Positive/Sure_1, **animations/Stand/Gestures/Thinking_8, *animations/Stand/Gestures/YouKnowWhat_1, **animations/Stand/Gestures/YouKnowWhat_2	
+protect	**animations/Stand/BodyTalk/Listening/Listening_2, ***animations/Stand/Emotions/Positive/Sure_1, **animations/Stand/Gestures/Thinking_8, *animations/Stand/Gestures/YouKnowWhat_1, **animations/Stand/Gestures/YouKnowWhat_2	
+overshadow	**animations/Stand/BodyTalk/Listening/Listening_2, ***animations/Stand/Gestures/Everything_1	
+debate	**animations/Stand/BodyTalk/Listening/Listening_2, **animations/Stand/Emotions/Neutral/Stubborn_1, **animations/Stand/Gestures/Explain_4, ***animations/Stand/Gestures/Explain_3, *animations/Stand/Gestures/Explain_6, **animations/Stand/Gestures/This_4, **animations/Stand/Gestures/WhatSThis_11, *animations/Stand/Gestures/Enthusiastic_2, **animations/Stand/Gestures/This_8, **animations/Stand/Gestures/CountThree_1, **animations/Stand/Gestures/CountFour_1, *animations/Stand/Gestures/HeSays_1, *animations/Stand/Gestures/HeSays_3, *animations/Stand/Gestures/WhatSThis_8, *animations/Stand/Gestures/WhatSThis_10	
+debate_with	**animations/Stand/BodyTalk/Listening/Listening_2, **animations/Stand/Emotions/Neutral/Stubborn_1, **animations/Stand/Gestures/Explain_8, **animations/Stand/Gestures/WhatSThis_14, **animations/Stand/Gestures/Explain_4, ***animations/Stand/Gestures/Explain_3, *animations/Stand/Gestures/Explain_6, **animations/Stand/Gestures/This_4, **animations/Stand/Gestures/WhatSThis_11, *animations/Stand/Gestures/Enthusiastic_2, *animations/Stand/Gestures/Enthusiastic_2, **animations/Stand/Gestures/This_8, **animations/Stand/Gestures/CountThree_1, **animations/Stand/Gestures/CountFour_1, *animations/Stand/Gestures/HeSays_1, *animations/Stand/Gestures/HeSays_3, *animations/Stand/Gestures/WhatSThis_8, *animations/Stand/Gestures/WhatSThis_10, *animations/Stand/Gestures/This_11, **animations/Stand/Gestures/Explain_5	
+argue_with	**animations/Stand/BodyTalk/Listening/Listening_2, **animations/Stand/Emotions/Neutral/Stubborn_1, **animations/Stand/Gestures/Explain_8, **animations/Stand/Gestures/WhatSThis_14, **animations/Stand/Gestures/Explain_4, ***animations/Stand/Gestures/Explain_3, *animations/Stand/Gestures/Explain_6, **animations/Stand/Gestures/This_4, **animations/Stand/Gestures/WhatSThis_11, *animations/Stand/Gestures/Enthusiastic_2, **animations/Stand/Gestures/This_8, *animations/Stand/Gestures/Explain_2, ***animations/Stand/Gestures/CountThree_1, ***animations/Stand/Gestures/CountFour_1, *animations/Stand/Gestures/HeSays_1, *animations/Stand/Gestures/This_14, *animations/Stand/Gestures/Choice_2, *animations/Stand/Gestures/WhatSThis_8, *animations/Stand/Gestures/WhatSThis_10, *animations/Stand/Gestures/This_11, **animations/Stand/Gestures/Explain_5	
+are_guarded_by		**animations/Stand/BodyTalk/Listening/Listening_2, ***animations/Stand/Emotions/Positive/Sure_1, **animations/Stand/Gestures/Thinking_8, *animations/Stand/Gestures/YouKnowWhat_1, **animations/Stand/Gestures/YouKnowWhat_2
+are_defended_by		**animations/Stand/BodyTalk/Listening/Listening_2, ***animations/Stand/Emotions/Positive/Sure_1, **animations/Stand/Gestures/Thinking_8, *animations/Stand/Gestures/YouKnowWhat_1, **animations/Stand/Gestures/YouKnowWhat_2
+are_protected_by		**animations/Stand/BodyTalk/Listening/Listening_2, ***animations/Stand/Emotions/Positive/Sure_1, **animations/Stand/Gestures/Thinking_8, *animations/Stand/Gestures/YouKnowWhat_1, **animations/Stand/Gestures/YouKnowWhat_2
+are_shielded_by	**animations/Stand/Emotions/Positive/Sure_1, *animations/Stand/Gestures/YouKnowWhat_1	**animations/Stand/BodyTalk/Listening/Listening_2, **animations/Stand/Gestures/Thinking_8, **animations/Stand/Gestures/YouKnowWhat_2
+are_overshadowed_by		**animations/Stand/BodyTalk/Listening/Listening_2, ***animations/Stand/Gestures/Everything_1
+are_debated_by	**animations/Stand/Gestures/Explain_4, **animations/Stand/Gestures/This_8	**animations/Stand/BodyTalk/Listening/Listening_2, **animations/Stand/Emotions/Neutral/Stubborn_1, ***animations/Stand/Gestures/Explain_3, *animations/Stand/Gestures/Explain_6, **animations/Stand/Gestures/This_4, **animations/Stand/Gestures/WhatSThis_11, **animations/Stand/Gestures/CountThree_1, **animations/Stand/Gestures/CountFour_1, *animations/Stand/Gestures/HeSays_1, *animations/Stand/Gestures/HeSays_3, *animations/Stand/Gestures/WhatSThis_8, *animations/Stand/Gestures/WhatSThis_10
+condescend_to	***iconic_actions-4373e0/condescend,*animations/Stand/BodyTalk/Listening/Listening_2, *animations/Stand/Gestures/No_4	
+condescend	***iconic_actions-4373e0/condescend	
+model_for	***animations/Stand/BodyTalk/Listening/ListeningLeft_1, ***animations/Stand/BodyTalk/Listening/ListeningRight_1, **animations/Stand/Emotions/Positive/Proud_2, **animations/Stand/Emotions/Positive/Proud_1, ***animations/Stand/Waiting/ShowMuscles_3, *animations/Stand/Gestures/Thinking_5	
+pose_for	***animations/Stand/BodyTalk/Listening/ListeningLeft_1, ***animations/Stand/BodyTalk/Listening/ListeningRight_1, **animations/Stand/Emotions/Positive/Proud_2, **animations/Stand/Emotions/Positive/Proud_1, ***animations/Stand/Waiting/ShowMuscles_3, *animations/Stand/Gestures/Thinking_5	
+resist	**animations/Stand/BodyTalk/Listening/ListeningLeft_1, **animations/Stand/BodyTalk/Listening/ListeningRight_1, ***animations/Stand/Emotions/Positive/Proud_3, **animations/Stand/Gestures/Thinking_8, **animations/Stand/Gestures/YouKnowWhat_2, *animations/Stand/Gestures/Angry_1	
+are_resisted_by		**animations/Stand/BodyTalk/Listening/ListeningLeft_1, **animations/Stand/BodyTalk/Listening/ListeningRight_1, ***animations/Stand/Emotions/Positive/Proud_3, **animations/Stand/Gestures/Thinking_8, **animations/Stand/Gestures/YouKnowWhat_2, *animations/Stand/Gestures/Angry_1
+surrender_to	**animations/Stand/BodyTalk/Listening/ListeningRight_3, **animations/Stand/BodyTalk/Listening/ListeningLeft_3, ***animations/Stand/BodyTalk/Speaking/BodyTalk_17, **animations/Stand/Reactions/SeeSomething_4	
+confess_to	*animations/Stand/BodyTalk/Listening/ListeningRight_3, *animations/Stand/BodyTalk/Listening/ListeningLeft_3, **animations/Stand/Reactions/BumperRight_1, **animations/Stand/Reactions/EthernetOff_1, **animations/Stand/Reactions/SeeSomething_6, **animations/Stand/Reactions/BumperLeft_1, **animations/Stand/Reactions/Bumpers_1, **animations/Stand/Reactions/Bumpers_3, **animations/Stand/Reactions/Bumpers_2, ***animations/Stand/Waiting/Innocent_1, **animations/Stand/Gestures/WhatSThis_6, *animations/Stand/Gestures/IDontKnow_6, ***animations/Stand/Gestures/Please_1, *animations/Stand/Gestures/Give_5	
+pick	***animations/Stand/BodyTalk/Thinking/Remember_3, **animations/Stand/BodyTalk/Thinking/Remember_1, ***animations/Stand/Gestures/You_1, ***animations/Stand/Gestures/You_2, **animations/Stand/Gestures/You_3, **animations/Stand/Gestures/You_4	
+select	***animations/Stand/BodyTalk/Thinking/Remember_3, **animations/Stand/BodyTalk/Thinking/Remember_1, ***animations/Stand/Gestures/You_1, ***animations/Stand/Gestures/You_2, **animations/Stand/Gestures/You_3, **animations/Stand/Gestures/You_4	
+are_picked_by	***animations/Stand/Gestures/You_1, ***animations/Stand/Gestures/You_2	***animations/Stand/BodyTalk/Thinking/Remember_3, **animations/Stand/BodyTalk/Thinking/Remember_1, **animations/Stand/Gestures/You_3, **animations/Stand/Gestures/You_4
+are_selected_by		***animations/Stand/BodyTalk/Thinking/Remember_3, **animations/Stand/BodyTalk/Thinking/Remember_1, ***animations/Stand/Gestures/You_1, ***animations/Stand/Gestures/You_2, **animations/Stand/Gestures/You_3, **animations/Stand/Gestures/You_4
+condemn	**animations/Stand/BodyTalk/Thinking/Remember_3	
+remember	**animations/Stand/BodyTalk/Thinking/Remember_3, ***animations/Stand/Waiting/ScratchHead_1	
+recall	**animations/Stand/BodyTalk/Thinking/Remember_3, ***animations/Stand/Waiting/ScratchHead_1	
+deliver_for	***animations/Stand/BodyTalk/Thinking/Remember_2, ***animations/Stand/BodyTalk/Speaking/BodyTalk_6, **animations/Stand/Gestures/WhatSThis_6, **animations/Stand/Gestures/Give_4, **animations/Stand/Gestures/Caress_2, **animations/Stand/Gestures/WhatSThis_3, ***animations/Stand/Gestures/Enthusiastic_5, **animations/Stand/Gestures/WhatSThis_2, ***animations/Stand/Gestures/Give_1, **animations/Stand/Gestures/Joy_1, ***animations/Stand/Gestures/Give_5, *animations/Stand/Gestures/This_10	
+deliver_to	***animations/Stand/BodyTalk/Thinking/Remember_2, ***animations/Stand/BodyTalk/Speaking/BodyTalk_6, **animations/Stand/BodyTalk/Speaking/BodyTalk_20, *animations/Stand/Gestures/IDontKnow_6, **animations/Stand/Gestures/Thinking_7, ***animations/Stand/Gestures/Give_4, **animations/Stand/Gestures/WhatSThis_3, ***animations/Stand/Gestures/Enthusiastic_5, **animations/Stand/Gestures/WhatSThis_2, ***animations/Stand/Gestures/Give_1, **animations/Stand/Gestures/Joy_1, **animations/Stand/Gestures/Give_6, ***animations/Stand/Gestures/Give_5	
+send	**animations/Stand/BodyTalk/Thinking/Remember_2, *animations/Stand/Gestures/Give_4, ***animations/Stand/Gestures/Caress_2, *animations/Stand/Gestures/ShowSky_2, ***animations/Stand/Gestures/You_5, *animations/Stand/Gestures/Give_1	
+build_for	**animations/Stand/BodyTalk/Thinking/Remember_2, **animations/Stand/Gestures/ShowSky_7, *animations/Stand/Gestures/WhatSThis_3, **animations/Stand/Gestures/Follow_1	
+pick_up	**animations/Stand/BodyTalk/Thinking/Remember_2, **animations/Stand/BodyTalk/Speaking/BodyTalk_8, *animations/Stand/Waiting/Fitness_3, *animations/Stand/Gestures/CountTwo_1	
+carry_for	**animations/Stand/BodyTalk/Thinking/Remember_2, **animations/Stand/BodyTalk/Speaking/BodyTalk_6, ***animations/Stand/BodyTalk/Speaking/BodyTalk_20, *animations/Stand/Gestures/Explain_6, **animations/Stand/Gestures/Give_1	
+dispatch	**animations/Stand/BodyTalk/Thinking/Remember_1, ***animations/Stand/Gestures/Reject_5	
+are_dispatched_by		**animations/Stand/BodyTalk/Thinking/Remember_1, ***animations/Stand/Gestures/Reject_5
+steal_from	***iconic_actions-4373e0/steal,*animations/Stand/BodyTalk/Thinking/Remember_1, **animations/Stand/BodyTalk/Speaking/BodyTalk_15, *animations/Stand/Reactions/SeeColor_3, *animations/Stand/Gestures/Me_7, *animations/Stand/Gestures/Me_1, *animations/Stand/Gestures/Me_8, *animations/Stand/Gestures/CatchFly_2, *animations/Stand/Gestures/Take_1, *animations/Stand/Gestures/Great_1	
+rob	***iconic_actions-4373e0/steal,*animations/Stand/BodyTalk/Thinking/Remember_1, **animations/Stand/BodyTalk/Speaking/BodyTalk_15, *animations/Stand/Reactions/SeeColor_3, *animations/Stand/Gestures/Me_7, *animations/Stand/Gestures/Me_1, *animations/Stand/Gestures/Me_8, *animations/Stand/Gestures/CatchFly_2, *animations/Stand/Gestures/Take_1, *animations/Stand/Gestures/Great_1	
+are_robbed_by		***iconic_actions-4373e0/steal,*animations/Stand/BodyTalk/Thinking/Remember_1, **animations/Stand/BodyTalk/Speaking/BodyTalk_15, *animations/Stand/Reactions/SeeColor_3, *animations/Stand/Gestures/Me_7, *animations/Stand/Gestures/Me_1, *animations/Stand/Gestures/Me_8, *animations/Stand/Gestures/CatchFly_2, *animations/Stand/Gestures/Take_1, *animations/Stand/Gestures/Great_1
+reach_out_to	*animations/Stand/BodyTalk/Speaking/BodyTalk_19, ***animations/Stand/Gestures/Hey_7, *animations/Stand/Gestures/CatchFly_1	
+sell_to	*animations/Stand/BodyTalk/Speaking/BodyTalk_19, **animations/Stand/Gestures/WhatSThis_6, *animations/Stand/Gestures/WhatSThis_2, **animations/Stand/Gestures/Give_1, **animations/Stand/Gestures/Joy_1, **animations/Stand/Gestures/Give_6	
+buy_from		*animations/Stand/BodyTalk/Speaking/BodyTalk_19
+sell_through	*animations/Stand/BodyTalk/Speaking/BodyTalk_19	
+sell_via	*animations/Stand/BodyTalk/Speaking/BodyTalk_19	
+resemble	***animations/Stand/BodyTalk/Speaking/BodyTalk_17, **animations/Stand/BodyTalk/Speaking/BodyTalk_4	
+are_defeated_by	**animations/Stand/BodyTalk/Speaking/BodyTalk_17, ***animations/Stand/Reactions/Heat_2, ***animations/Stand/Reactions/Heat_1, *animations/Stand/Gestures/Everything_1	
+defeat	*animations/Stand/Gestures/Nothing_1, *animations/Stand/Gestures/Everything_1	**animations/Stand/BodyTalk/Speaking/BodyTalk_17, ***animations/Stand/Reactions/Heat_2, ***animations/Stand/Reactions/Heat_1
+lose_to	**animations/Stand/BodyTalk/Speaking/BodyTalk_17, ***animations/Stand/Reactions/Heat_2, ***animations/Stand/Reactions/Heat_1, *animations/Stand/Gestures/Nothing_1, *animations/Stand/Gestures/Everything_1	
+are_released_by	**animations/Stand/BodyTalk/Speaking/BodyTalk_17, ***animations/Stand/Waiting/HideHands_1, **animations/Stand/Gestures/Give_3, **animations/Stand/Gestures/Confused_1	
+release	**animations/Stand/Gestures/WhatSThis_6, **animations/Stand/Gestures/Give_1, ***animations/Stand/Gestures/Joy_1, ***animations/Stand/Gestures/CountMore_2, *animations/Stand/Gestures/No_7, **animations/Stand/Gestures/ShowFloor_5, **animations/Stand/Gestures/ShowFloor_1	**animations/Stand/BodyTalk/Speaking/BodyTalk_17, ***animations/Stand/Waiting/HideHands_1, **animations/Stand/Gestures/Give_3, **animations/Stand/Gestures/Confused_1
+break_free_of	**animations/Stand/BodyTalk/Speaking/BodyTalk_17, ***animations/Stand/Waiting/HideHands_1	
+free	**animations/Stand/Gestures/Give_1, ***animations/Stand/Gestures/Joy_1, ***animations/Stand/Gestures/CountMore_2, **animations/Stand/Gestures/ShowFloor_5, **animations/Stand/Gestures/ShowFloor_1	**animations/Stand/BodyTalk/Speaking/BodyTalk_17, ***animations/Stand/Waiting/HideHands_1, **animations/Stand/Gestures/Give_3, **animations/Stand/Gestures/Confused_1
+are_freed_by	**animations/Stand/BodyTalk/Speaking/BodyTalk_17, ***animations/Stand/Waiting/HideHands_1, **animations/Stand/Gestures/Give_3, **animations/Stand/Gestures/Confused_1	
+cast_off	**animations/Stand/Gestures/Give_1, ***animations/Stand/Gestures/Joy_1	**animations/Stand/BodyTalk/Speaking/BodyTalk_17
+vote_for	*animations/Stand/BodyTalk/Speaking/BodyTalk_22, *animations/Stand/Gestures/This_3	
+lose_control_over	**animations/Stand/BodyTalk/Speaking/BodyTalk_12, *animations/Stand/Gestures/WhatSThis_6	
+refuse_to_pay	*animations/Stand/BodyTalk/Speaking/BodyTalk_12, ***animations/Stand/BodyTalk/Speaking/BodyTalk_18, *animations/Stand/Gestures/Everything_4, *animations/Stand/Gestures/No_9, **animations/Stand/Gestures/Everything_1	
+are_refused_payment_by	**animations/Stand/Gestures/Everything_1	*animations/Stand/BodyTalk/Speaking/BodyTalk_12, ***animations/Stand/BodyTalk/Speaking/BodyTalk_18, *animations/Stand/Gestures/Everything_4, *animations/Stand/Gestures/No_9
+withold_payment_from	*animations/Stand/BodyTalk/Speaking/BodyTalk_12, ***animations/Stand/BodyTalk/Speaking/BodyTalk_18, *animations/Stand/Gestures/Everything_4, *animations/Stand/Gestures/No_9	
+withhold_payment_from	*animations/Stand/BodyTalk/Speaking/BodyTalk_12, ***animations/Stand/BodyTalk/Speaking/BodyTalk_18, *animations/Stand/Gestures/Everything_4, *animations/Stand/Gestures/No_9	
+beautify	***animations/Stand/BodyTalk/Speaking/BodyTalk_4	
+enhance	***animations/Stand/BodyTalk/Speaking/BodyTalk_4, *animations/Stand/Gestures/ShowSky_7	
+admire	***animations/Stand/BodyTalk/Speaking/BodyTalk_4	
+are_admired_by		***animations/Stand/BodyTalk/Speaking/BodyTalk_4
+charm	***animations/Stand/BodyTalk/Speaking/BodyTalk_4	
+are_charmed_by		***animations/Stand/BodyTalk/Speaking/BodyTalk_4
+sing_with	***iconic_actions-4373e0/sing,**animations/Stand/BodyTalk/Speaking/BodyTalk_4, *animations/Stand/Emotions/Positive/Interested_1, **animations/Stand/Gestures/ShowSky_12, *animations/Stand/Gestures/Shy_1, *animations/Stand/Gestures/Enthusiastic_4	
+are_judged_by		**animations/Stand/BodyTalk/Speaking/BodyTalk_4, *animations/Stand/Gestures/Yes_2, ***animations/Stand/Gestures/This_7, ***animations/Stand/Gestures/This_6, **animations/Stand/Gestures/You_3
+talk_through	**animations/Stand/BodyTalk/Speaking/BodyTalk_4, *animations/Stand/Gestures/Explain_8, **animations/Stand/Gestures/This_1, *animations/Stand/Gestures/HeSays_2	
+act_via	**animations/Stand/BodyTalk/Speaking/BodyTalk_4	
+praise	**animations/Stand/BodyTalk/Speaking/BodyTalk_4, ***sound:animations/Stand/Emotions/Positive/Happy_1, *sound:animations/Stand/Emotions/Positive/Winner_2, **sound:animations/Stand/Emotions/Positive/Happy_3, **animations/Stand/Waiting/Relaxation_2, **animations/Stand/Gestures/IDontKnow_6, ***animations/Stand/Gestures/ShowSky_8, **animations/Stand/Gestures/ShowSky_9, **animations/Stand/Gestures/ShowSky_4, **animations/Stand/Gestures/ShowSky_11, **animations/Stand/Gestures/ShowSky_1, **animations/Stand/Gestures/ShowSky_10	
+create_for	*animations/Stand/BodyTalk/Speaking/BodyTalk_4, **animations/Stand/BodyTalk/Speaking/BodyTalk_2, **animations/Stand/BodyTalk/Speaking/BodyTalk_3, *animations/Stand/Waiting/ScratchHand_1, ***animations/Stand/Waiting/PlayHands_1, ***animations/Stand/Waiting/PlayHands_3, ***animations/Stand/Waiting/PlayHands_2, *animations/Stand/Gestures/ShowSky_7, ***animations/Stand/Gestures/JointHands_1	
+silence	***animations/Stand/BodyTalk/Speaking/BodyTalk_18, **animations/Stand/Emotions/Positive/Peaceful_1, ***animations/Stand/Gestures/Everything_4, **animations/Stand/Gestures/CalmDown_6, *animations/Stand/Gestures/Wings_4, **animations/Stand/Gestures/Hey_7, *animations/Stand/Gestures/No_1, **animations/Stand/Gestures/OnTheEvening_4, *animations/Stand/Gestures/Wings_2, *animations/Stand/Gestures/CalmDown_2, *animations/Stand/Gestures/Wings_5, **animations/Stand/Gestures/CalmDown_5, *animations/Stand/Gestures/OnTheEvening_5, **animations/Stand/Gestures/CalmDown_4, **animations/Stand/Gestures/CalmDown_1, **animations/Stand/Gestures/Everything_6, **animations/Stand/Gestures/CalmDown_3, *animations/Stand/Gestures/Nothing_1, **animations/Stand/Gestures/Nothing_2, **animations/Stand/Gestures/Everything_1, **animations/Stand/Gestures/Claw_1, *animations/Stand/Gestures/OnTheEvening_3, *animations/Stand/Gestures/Everything_2	
+are_silenced_by	**animations/Stand/Emotions/Neutral/Innocent_1, **animations/Stand/Emotions/Neutral/Lonely_1, ***animations/Stand/Gestures/Everything_4, **animations/Stand/Gestures/OnTheEvening_4, **animations/Stand/Gestures/Everything_6, **animations/Stand/Gestures/CalmDown_3	***animations/Stand/BodyTalk/Speaking/BodyTalk_18, **animations/Stand/Emotions/Positive/Peaceful_1, **animations/Stand/Gestures/CalmDown_6, *animations/Stand/Gestures/Wings_4, **animations/Stand/Gestures/Hey_7, *animations/Stand/Gestures/No_1, *animations/Stand/Gestures/Wings_2, *animations/Stand/Gestures/CalmDown_2, *animations/Stand/Gestures/Wings_5, **animations/Stand/Gestures/CalmDown_5, *animations/Stand/Gestures/OnTheEvening_5, **animations/Stand/Gestures/CalmDown_4, **animations/Stand/Gestures/CalmDown_1, *animations/Stand/Gestures/Nothing_1, **animations/Stand/Gestures/Nothing_2, **animations/Stand/Gestures/Everything_1, **animations/Stand/Gestures/Claw_1, *animations/Stand/Gestures/OnTheEvening_3, *animations/Stand/Gestures/Everything_2
+undermine	***animations/Stand/BodyTalk/Speaking/BodyTalk_18	
+are_undermined_by		***animations/Stand/BodyTalk/Speaking/BodyTalk_18
+appease	***animations/Stand/BodyTalk/Speaking/BodyTalk_18, **animations/Stand/Reactions/SeeSomething_8, ***animations/Stand/Gestures/Wings_4, **animations/Stand/Gestures/OnTheEvening_2, **animations/Stand/Gestures/Wings_2, **animations/Stand/Gestures/CalmDown_2, **animations/Stand/Gestures/Wings_5, **animations/Stand/Gestures/ShowFloor_2, ***animations/Stand/Gestures/CalmDown_5, **animations/Stand/Gestures/OnTheEvening_5, ***animations/Stand/Gestures/CalmDown_4, ***animations/Stand/Gestures/CalmDown_1, ***animations/Stand/Gestures/Everything_6, ***animations/Stand/Gestures/CalmDown_3, ***animations/Stand/Gestures/Claw_1, **animations/Stand/Gestures/OnTheEvening_3, **animations/Stand/Gestures/Everything_2	
+are_disappointed_by	**animations/Stand/BodyTalk/Speaking/BodyTalk_18, ***animations/Stand/Reactions/TouchHead_1, **animations/Stand/Emotions/Negative/Bored_1, *animations/Stand/Emotions/Negative/Sad_2, **animations/Stand/Emotions/Negative/Disappointed_1, **animations/Stand/Emotions/Negative/Bored_2, **sound:animations/Stand/Emotions/Negative/Exhausted_2, **animations/Stand/Emotions/Negative/Exhausted_1, ***sound:animations/Stand/Emotions/Negative/Frustrated_1, *animations/Stand/Emotions/Neutral/Annoyed_1, ***animations/Stand/Emotions/Neutral/Lonely_1, *animations/Stand/Gestures/Enthusiastic_3, ***animations/Stand/Gestures/Angry_3, **animations/Stand/Gestures/Desperate_2, **animations/Stand/Gestures/Desperate_4, **animations/Stand/Gestures/WhatSThis_7, **animations/Stand/Gestures/WhatSThis_9, **animations/Stand/Gestures/WhatSThis_1, *animations/Stand/Gestures/WhatSThis_8, *animations/Stand/Gestures/No_8, *animations/Stand/Gestures/WhatSThis_10, ***animations/Stand/Gestures/No_6, **animations/Stand/Gestures/IDontKnow_4, ***animations/Stand/Gestures/Desperate_5, ***animations/Stand/Gestures/Desperate_1, ***animations/Stand/Gestures/Desperate_3	
+disappoint		**animations/Stand/BodyTalk/Speaking/BodyTalk_18, ***animations/Stand/Reactions/TouchHead_1, **animations/Stand/Emotions/Negative/Bored_1, *animations/Stand/Emotions/Negative/Sad_2, **animations/Stand/Emotions/Negative/Disappointed_1, **animations/Stand/Emotions/Negative/Bored_2, **sound:animations/Stand/Emotions/Negative/Exhausted_2, **animations/Stand/Emotions/Negative/Exhausted_1, ***sound:animations/Stand/Emotions/Negative/Frustrated_1, *animations/Stand/Emotions/Neutral/Annoyed_1, ***animations/Stand/Emotions/Neutral/Lonely_1, *animations/Stand/Gestures/Enthusiastic_3, ***animations/Stand/Gestures/Angry_3, **animations/Stand/Gestures/Desperate_2, **animations/Stand/Gestures/Desperate_4, **animations/Stand/Gestures/WhatSThis_7, **animations/Stand/Gestures/WhatSThis_9, **animations/Stand/Gestures/WhatSThis_1, *animations/Stand/Gestures/No_8, ***animations/Stand/Gestures/No_6, **animations/Stand/Gestures/IDontKnow_4, ***animations/Stand/Gestures/Desperate_5, ***animations/Stand/Gestures/Desperate_1, ***animations/Stand/Gestures/Desperate_3
+lose_faith_in	**animations/Stand/BodyTalk/Speaking/BodyTalk_18, **sound:animations/Stand/Emotions/Negative/Exhausted_2, **animations/Stand/Emotions/Negative/Exhausted_1, *animations/Stand/Gestures/Enthusiastic_3, **animations/Stand/Gestures/Desperate_2, **animations/Stand/Gestures/Desperate_4, *animations/Stand/Gestures/No_8, ***animations/Stand/Gestures/No_6, ***animations/Stand/Gestures/Desperate_5, ***animations/Stand/Gestures/Desperate_1, ***animations/Stand/Gestures/Desperate_3	
+are_pushed_too_far_by	**animations/Stand/BodyTalk/Speaking/BodyTalk_18, **sound:animations/Stand/Emotions/Negative/Exhausted_2, **animations/Stand/Emotions/Negative/Exhausted_1, **animations/Stand/Gestures/Everything_1	
+lay_a_trap_for	**animations/Stand/BodyTalk/Speaking/BodyTalk_18, ***animations/Stand/Emotions/Neutral/Mischievous_1, *animations/Stand/Gestures/JointHands_3	
+operate_on	*animations/Stand/BodyTalk/Speaking/BodyTalk_9, **animations/Stand/Waiting/ScratchLeg_1, **animations/Stand/Gestures/Please_3, *animations/Stand/Gestures/No_5, *animations/Stand/Gestures/WhatSThis_3	
+propose_to	***iconic_actions-4373e0/propose,*animations/Stand/BodyTalk/Speaking/BodyTalk_9, *sound:animations/Stand/Emotions/Positive/Interested_2, **animations/Stand/Waiting/LoveYou_1, **animations/Stand/Gestures/ShowSky_12, *animations/Stand/Gestures/ShowSky_3, *animations/Stand/Gestures/This_1, *animations/Stand/Gestures/WhatSThis_11, *animations/Stand/Gestures/This_14, *animations/Stand/Gestures/Choice_2	
+marry	***iconic_actions-4373e0/propose,*animations/Stand/BodyTalk/Speaking/BodyTalk_9, *sound:animations/Stand/Emotions/Positive/Interested_2, **animations/Stand/Waiting/LoveYou_1, **animations/Stand/Gestures/ShowSky_12, *animations/Stand/Gestures/ShowSky_3, *animations/Stand/Gestures/This_1, *animations/Stand/Gestures/WhatSThis_11, *animations/Stand/Gestures/This_14, *animations/Stand/Gestures/Choice_2	
+consort_with	*animations/Stand/BodyTalk/Speaking/BodyTalk_10, **animations/Stand/BodyTalk/Speaking/BodyTalk_1	
+are_snatched_by	**animations/Stand/Gestures/Coaxing_1	***animations/Stand/BodyTalk/Speaking/BodyTalk_15, **sound:animations/Stand/Emotions/Positive/Happy_2, ***animations/Stand/Gestures/Me_1, ***animations/Stand/Gestures/CatchFly_2, ***animations/Stand/Gestures/CatchFly_1, *animations/Stand/Gestures/Enthusiastic_4, **animations/Stand/Gestures/Great_1
+snatch	***animations/Stand/BodyTalk/Speaking/BodyTalk_15, **sound:animations/Stand/Emotions/Positive/Happy_2, ***animations/Stand/Gestures/Me_1, ***animations/Stand/Gestures/CatchFly_2, **animations/Stand/Gestures/Coaxing_1, ***animations/Stand/Gestures/CatchFly_1, *animations/Stand/Gestures/Enthusiastic_4, **animations/Stand/Gestures/Great_1	
+catch	***animations/Stand/BodyTalk/Speaking/BodyTalk_15, **sound:animations/Stand/Emotions/Positive/Happy_2, ***animations/Stand/Gestures/Me_1, ***animations/Stand/Gestures/CatchFly_2, **animations/Stand/Gestures/Coaxing_1, ***animations/Stand/Gestures/CatchFly_1, *animations/Stand/Gestures/Enthusiastic_4, *animations/Stand/Gestures/Me_5, *animations/Stand/Gestures/Me_4, **animations/Stand/Gestures/Coaxing_2	
+are_caught_by		***animations/Stand/BodyTalk/Speaking/BodyTalk_15, **sound:animations/Stand/Emotions/Positive/Happy_2, ***animations/Stand/Gestures/Me_1, ***animations/Stand/Gestures/CatchFly_2, **animations/Stand/Gestures/Coaxing_1, ***animations/Stand/Gestures/CatchFly_1, *animations/Stand/Gestures/Enthusiastic_4, *animations/Stand/Gestures/Me_5, *animations/Stand/Gestures/Me_4, **animations/Stand/Gestures/Coaxing_2
+capture	***animations/Stand/BodyTalk/Speaking/BodyTalk_15, **sound:animations/Stand/Emotions/Positive/Happy_2, ***animations/Stand/Gestures/Me_1, ***animations/Stand/Gestures/CatchFly_2, ***animations/Stand/Gestures/CatchFly_1, *animations/Stand/Gestures/Enthusiastic_4, *animations/Stand/Gestures/Me_5, *animations/Stand/Gestures/Me_4, *animations/Stand/Gestures/Coaxing_2	
+are_captured_by	***animations/Stand/Gestures/Me_1, ***animations/Stand/Gestures/CatchFly_2	***animations/Stand/BodyTalk/Speaking/BodyTalk_15, **sound:animations/Stand/Emotions/Positive/Happy_2, ***animations/Stand/Gestures/CatchFly_1, *animations/Stand/Gestures/Enthusiastic_4, *animations/Stand/Gestures/Me_5, *animations/Stand/Gestures/Me_4, *animations/Stand/Gestures/Coaxing_2
+export_from	***animations/Stand/BodyTalk/Speaking/BodyTalk_6	
+borrow_from	**animations/Stand/Gestures/Me_7, **animations/Stand/Gestures/Thinking_7, *animations/Stand/Gestures/Me_8	***animations/Stand/BodyTalk/Speaking/BodyTalk_6, **animations/Stand/Gestures/Give_2, **animations/Stand/Gestures/Give_5
+lend_to	***animations/Stand/BodyTalk/Speaking/BodyTalk_6, **animations/Stand/Gestures/Thinking_7, *animations/Stand/Gestures/This_15, **animations/Stand/Gestures/WhatSThis_2, **animations/Stand/Gestures/Give_2, ***animations/Stand/Gestures/Give_5	
+deploy	***animations/Stand/BodyTalk/Speaking/BodyTalk_6, ***animations/Stand/Gestures/Reject_5	
+are_deployed_by		***animations/Stand/BodyTalk/Speaking/BodyTalk_6, ***animations/Stand/Gestures/Reject_5
+are_fielded_by		***animations/Stand/BodyTalk/Speaking/BodyTalk_6, ***animations/Stand/Gestures/Reject_5
+translate_for	**animations/Stand/BodyTalk/Speaking/BodyTalk_6, *animations/Stand/Waiting/ScratchHand_1, **animations/Stand/Gestures/Claw_2, **animations/Stand/Gestures/HeSays_2, **animations/Stand/Gestures/CountThree_1, **animations/Stand/Gestures/CountFour_1	
+fail_to_deliver_for	*animations/Stand/BodyTalk/Speaking/BodyTalk_6, **animations/Stand/Gestures/WhatSThis_5, ***animations/Stand/Gestures/IDontKnow_1	
+disrespect	***animations/Stand/BodyTalk/Speaking/BodyTalk_13, **animations/Stand/Gestures/But_1	
+are_disrespected_by	**animations/Stand/Gestures/Angry_3	***animations/Stand/BodyTalk/Speaking/BodyTalk_13, **animations/Stand/Gestures/But_1
+offend	***animations/Stand/BodyTalk/Speaking/BodyTalk_13, **animations/Stand/Gestures/But_1	
+are_offended_by	**animations/Stand/Gestures/Angry_3	***animations/Stand/BodyTalk/Speaking/BodyTalk_13, **animations/Stand/Gestures/But_1
+insult	***animations/Stand/BodyTalk/Speaking/BodyTalk_13	
+are_insulted_by		***animations/Stand/BodyTalk/Speaking/BodyTalk_13
+mock	***animations/Stand/BodyTalk/Speaking/BodyTalk_13	
+are_mocked_by		***animations/Stand/BodyTalk/Speaking/BodyTalk_13
+unleash	***animations/Stand/BodyTalk/Speaking/BodyTalk_21, **animations/Stand/BodyTalk/Speaking/BodyTalk_2, **animations/Stand/BodyTalk/Speaking/BodyTalk_3, *animations/Stand/Gestures/Give_4, *animations/Stand/Gestures/Explain_10, *animations/Stand/Gestures/WhatSThis_16	
+give_birth_to	**animations/Stand/BodyTalk/Speaking/BodyTalk_21, **animations/Stand/Gestures/Yum_1	
+receive	**animations/Stand/BodyTalk/Speaking/BodyTalk_21, **animations/Stand/Gestures/Yum_1	
+are_received_by		**animations/Stand/BodyTalk/Speaking/BodyTalk_21, **animations/Stand/Gestures/Yum_1
+pitch_at	**animations/Stand/BodyTalk/Speaking/BodyTalk_21, **animations/Stand/Gestures/ShowSky_3, **animations/Stand/Gestures/Far_2, **animations/Stand/Gestures/Give_6	
+cater_to	*animations/Stand/BodyTalk/Speaking/BodyTalk_21, *animations/Stand/Gestures/WhatSThis_2	
+cede_power_to	*animations/Stand/BodyTalk/Speaking/BodyTalk_21, *animations/Stand/Waiting/Waddle_1, *animations/Stand/Gestures/Explain_10, **animations/Stand/Gestures/OnTheEvening_2, *animations/Stand/Gestures/WhatSThis_4, *animations/Stand/Gestures/CountOne_2	
+spread_lies_about	*animations/Stand/BodyTalk/Speaking/BodyTalk_21, ***animations/Stand/Gestures/OnTheEvening_2, **animations/Stand/Gestures/Mime_2, **animations/Stand/Gestures/CalmDown_4, *animations/Stand/Gestures/Excited_1, *animations/Stand/Gestures/CountMore_2	
+enlist	***animations/Stand/BodyTalk/Speaking/BodyTalk_5	
+are_enlisted_by		***animations/Stand/BodyTalk/Speaking/BodyTalk_5
+are_lectured_by		***iconic_actions-4373e0/lecture,*animations/Stand/BodyTalk/Speaking/BodyTalk_5, *animations/Stand/Gestures/This_7, *animations/Stand/Gestures/This_6, **animations/Stand/Gestures/CountFive_1, *animations/Stand/Gestures/CountFour_1, **animations/Stand/Gestures/CountFive_2, *animations/Stand/Gestures/HeSays_3, *animations/Stand/Gestures/CountTwo_2, *animations/Stand/Gestures/CountThree_2, *animations/Stand/Gestures/YouKnowWhat_6
+lecture_to	***iconic_actions-4373e0/lecture,*animations/Stand/BodyTalk/Speaking/BodyTalk_5, *animations/Stand/Gestures/This_7, *animations/Stand/Gestures/This_6, **animations/Stand/Gestures/CountFive_1, *animations/Stand/Gestures/CountFour_1, **animations/Stand/Gestures/CountFive_2, *animations/Stand/Gestures/HeSays_3, *animations/Stand/Gestures/CountTwo_2, *animations/Stand/Gestures/CountThree_2, *animations/Stand/Gestures/YouKnowWhat_6	
+coach	***iconic_actions-4373e0/lecture,*animations/Stand/BodyTalk/Speaking/BodyTalk_5, *animations/Stand/Gestures/This_7, *animations/Stand/Gestures/This_6, *animations/Stand/Gestures/CountFive_1, *animations/Stand/Gestures/CountFive_2, *animations/Stand/Gestures/CountTwo_2, *animations/Stand/Gestures/CountThree_2, *animations/Stand/Gestures/YouKnowWhat_6	
+are_coached_by		***iconic_actions-4373e0/lecture,*animations/Stand/BodyTalk/Speaking/BodyTalk_5, *animations/Stand/Gestures/This_7, *animations/Stand/Gestures/This_6, *animations/Stand/Gestures/CountFive_1, *animations/Stand/Gestures/CountFive_2, *animations/Stand/Gestures/CountTwo_2, *animations/Stand/Gestures/CountThree_2, *animations/Stand/Gestures/YouKnowWhat_6
+teach	***iconic_actions-4373e0/lecture,*animations/Stand/BodyTalk/Speaking/BodyTalk_5, **animations/Stand/Gestures/CountFive_1, *animations/Stand/Gestures/IDontKnow_5, *animations/Stand/Gestures/CountFour_1, **animations/Stand/Gestures/CountFive_2, *animations/Stand/Gestures/HeSays_3, *animations/Stand/Gestures/CountTwo_2, *animations/Stand/Gestures/CountThree_2, *animations/Stand/Gestures/YouKnowWhat_6	
+are_taught_by		***iconic_actions-4373e0/lecture,*animations/Stand/BodyTalk/Speaking/BodyTalk_5, **animations/Stand/Gestures/CountFive_1, *animations/Stand/Gestures/IDontKnow_5, *animations/Stand/Gestures/CountFour_1, **animations/Stand/Gestures/CountFive_2, *animations/Stand/Gestures/HeSays_3, *animations/Stand/Gestures/CountTwo_2, *animations/Stand/Gestures/CountThree_2, *animations/Stand/Gestures/YouKnowWhat_6
+mentor	***iconic_actions-4373e0/lecture,*animations/Stand/BodyTalk/Speaking/BodyTalk_5, *animations/Stand/Gestures/CountFive_1, *animations/Stand/Gestures/CountFive_2, *animations/Stand/Gestures/CountTwo_2, *animations/Stand/Gestures/CountThree_2, *animations/Stand/Gestures/YouKnowWhat_6	
+are_mentored_by		***iconic_actions-4373e0/lecture,*animations/Stand/BodyTalk/Speaking/BodyTalk_5, *animations/Stand/Gestures/CountFive_1, *animations/Stand/Gestures/CountFive_2, *animations/Stand/Gestures/CountTwo_2, *animations/Stand/Gestures/CountThree_2, *animations/Stand/Gestures/YouKnowWhat_6
+are_tutored_by		***iconic_actions-4373e0/lecture,*animations/Stand/BodyTalk/Speaking/BodyTalk_5, *animations/Stand/Gestures/CountFive_1, *animations/Stand/Gestures/CountFive_2, *animations/Stand/Gestures/CountTwo_2, *animations/Stand/Gestures/CountThree_2, *animations/Stand/Gestures/YouKnowWhat_6
+educate	***iconic_actions-4373e0/lecture,*animations/Stand/BodyTalk/Speaking/BodyTalk_5, *animations/Stand/Gestures/CountFive_1, *animations/Stand/Gestures/CountFour_1, *animations/Stand/Gestures/CountFive_2, *animations/Stand/Gestures/HeSays_3, *animations/Stand/Gestures/CountTwo_2, *animations/Stand/Gestures/CountThree_2, *animations/Stand/Gestures/YouKnowWhat_6	
+are_educated_by		***iconic_actions-4373e0/lecture,*animations/Stand/BodyTalk/Speaking/BodyTalk_5, *animations/Stand/Gestures/CountFive_1, *animations/Stand/Gestures/CountFour_1, *animations/Stand/Gestures/CountFive_2, *animations/Stand/Gestures/HeSays_3, *animations/Stand/Gestures/CountTwo_2, *animations/Stand/Gestures/CountThree_2, *animations/Stand/Gestures/YouKnowWhat_6
+instruct	***iconic_actions-4373e0/lecture,*animations/Stand/BodyTalk/Speaking/BodyTalk_5, *animations/Stand/Gestures/This_7, *animations/Stand/Gestures/This_6, **animations/Stand/Gestures/CountFive_1, **animations/Stand/Gestures/CountFour_2, *animations/Stand/Gestures/CountFour_1, **animations/Stand/Gestures/CountFive_2, *animations/Stand/Gestures/HeSays_3, *animations/Stand/Gestures/CountTwo_2, *animations/Stand/Gestures/CountThree_2, *animations/Stand/Gestures/YouKnowWhat_6	
+are_instructed_by		***iconic_actions-4373e0/lecture,*animations/Stand/BodyTalk/Speaking/BodyTalk_5, *animations/Stand/Gestures/This_7, *animations/Stand/Gestures/This_6, **animations/Stand/Gestures/CountFive_1, **animations/Stand/Gestures/CountFour_2, *animations/Stand/Gestures/CountFour_1, **animations/Stand/Gestures/CountFive_2, *animations/Stand/Gestures/HeSays_3, *animations/Stand/Gestures/CountTwo_2, *animations/Stand/Gestures/CountThree_2, *animations/Stand/Gestures/YouKnowWhat_6
+study_under		***iconic_actions-4373e0/lecture,*animations/Stand/BodyTalk/Speaking/BodyTalk_5, *animations/Stand/Gestures/CountFive_1, *animations/Stand/Gestures/CountFive_2, *animations/Stand/Gestures/CountTwo_2, *animations/Stand/Gestures/CountThree_2, *animations/Stand/Gestures/YouKnowWhat_6
+evaluate	**animations/Stand/BodyTalk/Speaking/BodyTalk_5, **animations/Stand/Gestures/CountFive_1, **animations/Stand/Gestures/Choice_1, **animations/Stand/Gestures/CountFive_2, **animations/Stand/Gestures/CountTwo_2, **animations/Stand/Gestures/CountThree_2, **animations/Stand/Gestures/YouKnowWhat_6	
+evaluate_with	**animations/Stand/BodyTalk/Speaking/BodyTalk_5, **animations/Stand/Gestures/CountFive_1, **animations/Stand/Gestures/Choice_1, **animations/Stand/Gestures/CountFive_2, **animations/Stand/Gestures/CountTwo_2, **animations/Stand/Gestures/CountThree_2, **animations/Stand/Gestures/YouKnowWhat_6	
+are_evaluated_by		**animations/Stand/BodyTalk/Speaking/BodyTalk_5, **animations/Stand/Gestures/CountFive_1, **animations/Stand/Gestures/Choice_1, **animations/Stand/Gestures/CountFive_2, **animations/Stand/Gestures/CountTwo_2, **animations/Stand/Gestures/CountThree_2, **animations/Stand/Gestures/YouKnowWhat_6
+compose_with	**animations/Stand/BodyTalk/Speaking/BodyTalk_11, *animations/Stand/Gestures/Claw_2, **animations/Stand/Gestures/Wings_3, **animations/Stand/Gestures/CountFour_2	
+convert	*animations/Stand/BodyTalk/Speaking/BodyTalk_11, **animations/Stand/Gestures/CountThree_1, **animations/Stand/Gestures/CountFour_1	
+are_converted_by		*animations/Stand/BodyTalk/Speaking/BodyTalk_11, **animations/Stand/Gestures/CountThree_1, **animations/Stand/Gestures/CountFour_1
+consult	***animations/Stand/BodyTalk/Speaking/BodyTalk_1, *animations/Stand/Gestures/HeSays_1	
+consult_with	***animations/Stand/BodyTalk/Speaking/BodyTalk_1, *animations/Stand/Gestures/HeSays_1	
+persuade	***animations/Stand/BodyTalk/Speaking/BodyTalk_1, *animations/Stand/Gestures/Thinking_1	
+are_persuaded_by		***animations/Stand/BodyTalk/Speaking/BodyTalk_1, *animations/Stand/Gestures/Thinking_1
+advise	***animations/Stand/BodyTalk/Speaking/BodyTalk_1, ***animations/Stand/Gestures/Explain_9, *animations/Stand/Gestures/This_12, **animations/Stand/Gestures/This_4, *animations/Stand/Gestures/Explain_1, *animations/Stand/Gestures/Explain_7, *animations/Stand/Gestures/Explain_2	
+are_advised_by		***animations/Stand/BodyTalk/Speaking/BodyTalk_1, ***animations/Stand/Gestures/Explain_9, *animations/Stand/Gestures/This_12, **animations/Stand/Gestures/This_4, *animations/Stand/Gestures/Explain_1, *animations/Stand/Gestures/Explain_7, *animations/Stand/Gestures/Explain_2
+counsel	***animations/Stand/BodyTalk/Speaking/BodyTalk_1, ***animations/Stand/Gestures/Explain_9, **animations/Stand/Gestures/This_4	
+are_counseled_by		***animations/Stand/BodyTalk/Speaking/BodyTalk_1, ***animations/Stand/Gestures/Explain_9, **animations/Stand/Gestures/This_4
+are_counselled_by		***animations/Stand/BodyTalk/Speaking/BodyTalk_1, ***animations/Stand/Gestures/Explain_9, **animations/Stand/Gestures/This_4
+are_probed_by		**animations/Stand/BodyTalk/Speaking/BodyTalk_1
+negotiate_with	*animations/Stand/BodyTalk/Speaking/BodyTalk_1, **animations/Stand/Gestures/Explain_8, **animations/Stand/Gestures/WhatSThis_14, **animations/Stand/Gestures/Explain_4, *animations/Stand/Gestures/Explain_1, *animations/Stand/Gestures/Explain_7, **animations/Stand/Gestures/Excited_1, ***animations/Stand/Gestures/Choice_1, *animations/Stand/Gestures/Explain_2, ***animations/Stand/Gestures/CountThree_1, ***animations/Stand/Gestures/CountFour_1, *animations/Stand/Gestures/CountTwo_2	
+negotiate_for	*animations/Stand/BodyTalk/Speaking/BodyTalk_1, **animations/Stand/Gestures/Explain_4, *animations/Stand/Gestures/Explain_1, *animations/Stand/Gestures/Explain_7, **animations/Stand/Gestures/Excited_1, ***animations/Stand/Gestures/Choice_1, *animations/Stand/Gestures/Explain_2, ***animations/Stand/Gestures/CountThree_1, ***animations/Stand/Gestures/CountFour_1, *animations/Stand/Gestures/CountTwo_2	
+interpret_for	*animations/Stand/BodyTalk/Speaking/BodyTalk_14, *animations/Stand/Gestures/ShowSky_7	
+interact_with	*animations/Stand/BodyTalk/Speaking/BodyTalk_14, *animations/Stand/Gestures/This_15	
+are_hardened_by	*animations/Stand/Waiting/ShowMuscles_1	*animations/Stand/BodyTalk/Speaking/BodyTalk_8
+harden_toward	*animations/Stand/BodyTalk/Speaking/BodyTalk_8	
+perform_for	**animations/Stand/BodyTalk/Speaking/BodyTalk_2, **animations/Stand/BodyTalk/Speaking/BodyTalk_3, ***animations/Stand/Gestures/ShowSky_12, **animations/Stand/Gestures/Wings_1, *animations/Stand/Gestures/Wings_3	
+perform_with	**animations/Stand/BodyTalk/Speaking/BodyTalk_2, **animations/Stand/BodyTalk/Speaking/BodyTalk_3, ***animations/Stand/Gestures/ShowSky_12, *animations/Stand/Gestures/Wings_1, *animations/Stand/Gestures/Wings_3	
+search_for	***animations/Stand/Reactions/SeeSomething_5, ***animations/Stand/Waiting/Binoculars_1, **animations/Stand/Gestures/Thinking_2	
+look_for	***animations/Stand/Reactions/SeeSomething_5, ***animations/Stand/Waiting/Binoculars_1, ***animations/Stand/Gestures/Thinking_2, **animations/Stand/Gestures/Look_1	
+are_sought_by		***animations/Stand/Reactions/SeeSomething_5, ***animations/Stand/Waiting/Binoculars_1, **animations/Stand/Gestures/Thinking_2
+seek	***animations/Stand/Reactions/SeeSomething_5, ***animations/Stand/Waiting/Binoculars_1, **animations/Stand/Gestures/Thinking_2	
+are_tracked_by		***animations/Stand/Reactions/SeeSomething_5, *animations/Stand/Gestures/Thinking_2
+track_down	**animations/Stand/Reactions/SeeSomething_5, ***animations/Stand/Reactions/SeeSomething_1, ***animations/Stand/Reactions/SeeSomething_3	
+hunt	**animations/Stand/Reactions/SeeSomething_5, ***animations/Stand/Waiting/Binoculars_1	
+are_hunted_by	*sound:animations/Stand/Waiting/Helicopter_1	**animations/Stand/Reactions/SeeSomething_5, ***animations/Stand/Waiting/Binoculars_1
+fear	***animations/Stand/Reactions/LightShine_2, ***animations/Stand/Reactions/LightShine_1, ***animations/Stand/Reactions/LightShine_4, ***animations/Stand/Emotions/Negative/Fearful_1, ***sound:animations/Stand/Emotions/Negative/Fear_1, ***sound:animations/Stand/Emotions/Negative/Surprise_3, ***sound:animations/Stand/Emotions/Negative/Surprise_2, ***animations/Stand/Emotions/Negative/Anxious_1, *animations/Stand/Emotions/Neutral/Innocent_1, **sound:animations/Stand/Waiting/Monster_1, **animations/Stand/Gestures/Look_1, **animations/Stand/Gestures/Please_2, **animations/Stand/Gestures/Look_2	
+are_feared_by	**animations/Stand/Gestures/Please_2	***animations/Stand/Reactions/LightShine_2, ***animations/Stand/Reactions/LightShine_1, ***animations/Stand/Reactions/LightShine_4, ***animations/Stand/Emotions/Negative/Fearful_1, ***sound:animations/Stand/Emotions/Negative/Fear_1, ***sound:animations/Stand/Emotions/Negative/Surprise_3, ***sound:animations/Stand/Emotions/Negative/Surprise_2, ***animations/Stand/Emotions/Negative/Anxious_1, *animations/Stand/Emotions/Neutral/Innocent_1, **sound:animations/Stand/Waiting/Monster_1, **animations/Stand/Gestures/Look_1, **animations/Stand/Gestures/Look_2
+are_disgusted_by	***animations/Stand/Reactions/LightShine_2, **animations/Stand/Reactions/BumperRight_1, ***animations/Stand/Reactions/LightShine_1, **animations/Stand/Reactions/SeeSomething_6, **animations/Stand/Reactions/BumperLeft_1, **animations/Stand/Reactions/Bumpers_1, **animations/Stand/Reactions/Bumpers_3, ***animations/Stand/Reactions/LightShine_4, **animations/Stand/Reactions/Bumpers_2, ***animations/Stand/Emotions/Negative/Fearful_1, **sound:animations/Stand/Emotions/Positive/Hungry_1	
+disgust		***animations/Stand/Reactions/LightShine_2, **animations/Stand/Reactions/BumperRight_1, ***animations/Stand/Reactions/LightShine_1, **animations/Stand/Reactions/SeeSomething_6, **animations/Stand/Reactions/BumperLeft_1, **animations/Stand/Reactions/Bumpers_1, **animations/Stand/Reactions/Bumpers_3, ***animations/Stand/Reactions/LightShine_4, **animations/Stand/Reactions/Bumpers_2, ***animations/Stand/Emotions/Negative/Fearful_1, **sound:animations/Stand/Emotions/Positive/Hungry_1
+are_shocked_by	**animations/Stand/Reactions/LightShine_2, **animations/Stand/Reactions/LightShine_1, **animations/Stand/Reactions/ShakeBody_3, **animations/Stand/Reactions/LightShine_4, ***sound:animations/Stand/Emotions/Negative/Fear_2, **animations/Stand/Emotions/Negative/Fearful_1, ***animations/Stand/Emotions/Negative/Shocked_1, ***sound:animations/Stand/Emotions/Negative/Surprise_1, ***sound:animations/Stand/Emotions/Negative/Fear_1, ***sound:animations/Stand/Emotions/Negative/Surprise_3, ***sound:animations/Stand/Emotions/Negative/Surprise_2, *animations/Stand/Gestures/Surprised_1, *animations/Stand/Gestures/WhatSThis_13	
+are_haunted_by	**animations/Stand/Reactions/LightShine_2, **animations/Stand/Reactions/LightShine_1, **animations/Stand/Reactions/LightShine_4, **animations/Stand/Emotions/Negative/Fearful_1, ***animations/Stand/Emotions/Negative/Anxious_1, ***animations/Stand/Gestures/Freeze_1	
+haunt		**animations/Stand/Reactions/LightShine_2, **animations/Stand/Reactions/LightShine_1, **animations/Stand/Reactions/LightShine_4, **animations/Stand/Emotions/Negative/Fearful_1, ***animations/Stand/Emotions/Negative/Anxious_1, ***animations/Stand/Gestures/Freeze_1
+terrorize		**animations/Stand/Reactions/LightShine_2, **animations/Stand/Reactions/LightShine_1, **animations/Stand/Reactions/LightShine_4, **animations/Stand/Emotions/Negative/Fearful_1, *animations/Stand/Emotions/Negative/Hurt_1, *sound:animations/Stand/Emotions/Negative/Angry_1
+are_hurt_by	**animations/Stand/Reactions/LightShine_2, **animations/Stand/Reactions/LightShine_1, **animations/Stand/Reactions/LightShine_4, **animations/Stand/Emotions/Negative/Fearful_1	
+hurt		**animations/Stand/Reactions/LightShine_2, **animations/Stand/Reactions/LightShine_1, **animations/Stand/Reactions/LightShine_4, **animations/Stand/Emotions/Negative/Fearful_1
+blow_up	*animations/Stand/Reactions/LightShine_2, *animations/Stand/Reactions/LightShine_1, *animations/Stand/Reactions/LightShine_4, *animations/Stand/Emotions/Negative/Fearful_1, ***animations/Stand/Gestures/ShowSky_8, **animations/Stand/Gestures/Everything_3	
+are_investigated_by		**animations/Stand/Reactions/SeeSomething_1, **animations/Stand/Reactions/SeeSomething_3, **animations/Stand/Reactions/SeeColor_1, **animations/Stand/Reactions/SeeColor_2, **animations/Stand/Emotions/Neutral/Puzzled_1, **animations/Stand/Waiting/Think_4, *animations/Stand/Waiting/Think_4, **animations/Stand/Waiting/Think_1, *animations/Stand/Waiting/Think_1, **animations/Stand/Waiting/Think_3, **animations/Stand/Waiting/Think_2
+examine	**animations/Stand/Reactions/SeeSomething_1, **animations/Stand/Reactions/SeeSomething_3, **animations/Stand/Reactions/SeeColor_1, **animations/Stand/Reactions/SeeColor_2, **animations/Stand/Emotions/Neutral/Puzzled_1, **animations/Stand/Waiting/Think_4, *animations/Stand/Waiting/Think_4, **animations/Stand/Waiting/Think_1, *animations/Stand/Waiting/Think_1, **animations/Stand/Waiting/Think_3, **animations/Stand/Waiting/Think_2	
+are_examined_by	**animations/Stand/Reactions/SeeSomething_1, **animations/Stand/Reactions/SeeSomething_3	
+are_manipulated_by	***animations/Stand/Reactions/TouchHead_3, ***animations/Stand/Reactions/TouchHead_2	
+manipulate	*animations/Stand/Emotions/Neutral/Stubborn_1, ***animations/Stand/Emotions/Neutral/Mischievous_1, **animations/Stand/Gestures/JointHands_3	***animations/Stand/Reactions/TouchHead_3, ***animations/Stand/Reactions/TouchHead_2
+are_brainwashed_by	***animations/Stand/Reactions/TouchHead_3, ***animations/Stand/Reactions/TouchHead_2, *animations/Stand/Waiting/Zombie_1	
+brainwash	**animations/Stand/Emotions/Neutral/Mischievous_1, *animations/Stand/Waiting/Zombie_1	***animations/Stand/Reactions/TouchHead_3, ***animations/Stand/Reactions/TouchHead_2
+abet		***animations/Stand/Reactions/TouchHead_3, ***animations/Stand/Reactions/TouchHead_2
+baptise	***iconic_actions-4373e0/baptize	
+baptize	***iconic_actions-4373e0/baptize	
+point	***iconic_actions-4373e0/point	
+are_baptized_by		***iconic_actions-4373e0/baptize
+are_influenced_by	***animations/Stand/Reactions/TouchHead_3, ***animations/Stand/Reactions/TouchHead_2	
+hit	***iconic_actions-4373e0/whip	
+whip	***iconic_actions-4373e0/whip	
+are_whipped_by		***iconic_actions-4373e0/whip
+influence	**animations/Stand/Emotions/Neutral/Mischievous_1	***animations/Stand/Reactions/TouchHead_3, ***animations/Stand/Reactions/TouchHead_2
+indoctrinate	**animations/Stand/Emotions/Neutral/Mischievous_1, **animations/Stand/Gestures/JointHands_3	***animations/Stand/Reactions/TouchHead_3, ***animations/Stand/Reactions/TouchHead_2
+are_indoctrinated_by	***animations/Stand/Reactions/TouchHead_3, ***animations/Stand/Reactions/TouchHead_2	
+are_traumatized_by	***animations/Stand/Reactions/TouchHead_3, ***animations/Stand/Reactions/TouchHead_2, **animations/Stand/Reactions/ShakeBody_3, *animations/Stand/Reactions/EthernetOn_1, *animations/Stand/Reactions/Heat_2, *animations/Stand/Reactions/Heat_1, *animations/Stand/Reactions/TouchHead_4, ***sound:animations/Stand/Emotions/Negative/Hurt_2	
+delegate_to	**animations/Stand/Reactions/SeeSomething_8, ***animations/Stand/Emotions/Neutral/Determined_1, *animations/Stand/Gestures/This_10	
+watch_over	**animations/Stand/Reactions/SeeSomething_8, ***animations/Stand/Waiting/Binoculars_1	
+look_after	**animations/Stand/Reactions/SeeSomething_8, ***animations/Stand/Waiting/Binoculars_1	
+_supervise	**animations/Stand/Reactions/SeeSomething_8	
+are_supervised_by		**animations/Stand/Reactions/SeeSomething_8
+monitor	**animations/Stand/Reactions/SeeSomething_8	
+are_monitored_by		**animations/Stand/Reactions/SeeSomething_8
+are_overlooked_by	**animations/Stand/Reactions/LightShine_3, ***animations/Stand/Waiting/HideEyes_1	**animations/Stand/Reactions/BumperRight_1, **animations/Stand/Reactions/SeeSomething_6, **animations/Stand/Reactions/BumperLeft_1, **animations/Stand/Reactions/Bumpers_1, **animations/Stand/Reactions/Bumpers_3, **animations/Stand/Reactions/Bumpers_2
+show_loyalty_to	***animations/Stand/Reactions/EthernetOff_1, *animations/Stand/Emotions/Positive/Excited_3, ***animations/Stand/Gestures/Salute_1, **animations/Stand/Gestures/BowShort_1, ***animations/Stand/Gestures/Salute_2	
+bow_down_to	**animations/Stand/Reactions/EthernetOff_1, **animations/Stand/Reactions/SeeSomething_4, **animations/Stand/Waiting/Stretch_1, ***animations/Stand/Gestures/Salute_1, ***animations/Stand/Gestures/BowShort_1, **animations/Stand/Gestures/Salute_2	
+obey	**animations/Stand/Reactions/EthernetOff_1, ***animations/Stand/Gestures/Salute_3, *animations/Stand/Gestures/Look_2	
+are_obeyed_by		**animations/Stand/Reactions/EthernetOff_1, ***animations/Stand/Gestures/Salute_3, *animations/Stand/Gestures/Look_2
+are_disillusioned_by	*animations/Stand/Reactions/EthernetOff_1, *sound:animations/Stand/Emotions/Negative/Exhausted_2, *animations/Stand/Emotions/Negative/Exhausted_1, *animations/Stand/Gestures/Angry_3, *animations/Stand/Gestures/WhatSThis_13	
+disillusion	**animations/Stand/Gestures/Hey_6	*animations/Stand/Reactions/EthernetOff_1, *sound:animations/Stand/Emotions/Negative/Exhausted_2, *animations/Stand/Emotions/Negative/Exhausted_1, *animations/Stand/Gestures/Angry_3, *animations/Stand/Gestures/WhatSThis_13
+are_frustrated_by	**animations/Stand/Reactions/LightShine_3, **sound:animations/Stand/Emotions/Negative/Angry_3, *animations/Stand/Emotions/Negative/Disappointed_1	
+are_overwhelmed_by	*animations/Stand/Reactions/LightShine_3, **animations/Stand/Reactions/ShakeBody_2, ***sound:animations/Stand/Emotions/Negative/Hurt_2, *animations/Stand/Gestures/Applause_1	
+are_embarrassed_by	***animations/Stand/Reactions/SeeSomething_7, **animations/Stand/Emotions/Negative/Bored_1, *animations/Stand/Emotions/Negative/Sad_2, **animations/Stand/Emotions/Negative/Disappointed_1, **animations/Stand/Emotions/Negative/Bored_2, **animations/Stand/Emotions/Neutral/Innocent_1, **animations/Stand/Emotions/Neutral/Lonely_1, ***animations/Stand/Emotions/Neutral/Embarrassed_1	
+embarrass		***animations/Stand/Reactions/SeeSomething_7, **animations/Stand/Emotions/Negative/Bored_1, *animations/Stand/Emotions/Negative/Sad_2, **animations/Stand/Emotions/Negative/Disappointed_1, **animations/Stand/Emotions/Negative/Bored_2, **animations/Stand/Emotions/Neutral/Innocent_1, **animations/Stand/Emotions/Neutral/Lonely_1
+are_rebuffed_by	**animations/Stand/Reactions/SeeSomething_7, *animations/Stand/Gestures/Angry_3, **animations/Stand/Gestures/No_9	
+rebuff	**animations/Stand/Gestures/No_1, **animations/Stand/Gestures/This_13, **animations/Stand/Gestures/No_3, **animations/Stand/Gestures/No_9, ***animations/Stand/Gestures/Reject_4	**animations/Stand/Reactions/SeeSomething_7, *animations/Stand/Gestures/Angry_3
+are_rebuked_by	**animations/Stand/Reactions/SeeSomething_7	
+are_enslaved_by	***animations/Stand/Reactions/SeeSomething_4, *animations/Stand/Waiting/BackRubs_1	
+enslave		***animations/Stand/Reactions/SeeSomething_4, *animations/Stand/Waiting/BackRubs_1
+are_imprisoned_by	***animations/Stand/Reactions/SeeSomething_4	
+imprison		***animations/Stand/Reactions/SeeSomething_4
+are_detained_by	***animations/Stand/Reactions/SeeSomething_4	
+detain		***animations/Stand/Reactions/SeeSomething_4
+take_as_prisoner		***animations/Stand/Reactions/SeeSomething_4
+arrest		***animations/Stand/Reactions/SeeSomething_4
+decapitate	***iconic_actions-4373e0/kill	
+murder	***iconic_actions-4373e0/kill	
+kill_for	***iconic_actions-4373e0/kill	
+kill	***iconic_actions-4373e0/kill	
+are_killed_by		***iconic_actions-4373e0/kill
+are_arrested_for_killing	***animations/Stand/Reactions/SeeSomething_4	
+are_arrested_for_hurting	***animations/Stand/Reactions/SeeSomething_4	
+are_ennobled_by	***animations/Stand/Reactions/SeeSomething_4, ***animations/Stand/Gestures/Salute_3, ***animations/Stand/Gestures/Salute_1, ***animations/Stand/Gestures/Salute_2	
+are_evicted_by	**animations/Stand/Reactions/SeeSomething_4	
+evict		**animations/Stand/Reactions/SeeSomething_4
+are_inspired_by	***animations/Stand/Reactions/SeeColor_1, *animations/Stand/Reactions/EthernetOn_1, ***animations/Stand/Reactions/SeeColor_2, *animations/Stand/Reactions/TouchHead_4, ***animations/Stand/Emotions/Neutral/Puzzled_1, **animations/Stand/Waiting/LookHand_1, **animations/Stand/Waiting/Think_4, **animations/Stand/Waiting/LookHand_2, ***animations/Stand/Waiting/Think_3, ***animations/Stand/Waiting/Think_2	
+inspire	**animations/Stand/Waiting/ShowSky_2, **animations/Stand/Waiting/ShowSky_1, **animations/Stand/Gestures/ShowSky_8, **animations/Stand/Gestures/Hey_6	***animations/Stand/Reactions/SeeColor_1, *animations/Stand/Reactions/EthernetOn_1, ***animations/Stand/Reactions/SeeColor_2, *animations/Stand/Reactions/TouchHead_4, ***animations/Stand/Emotions/Neutral/Puzzled_1, **animations/Stand/Waiting/LookHand_1, **animations/Stand/Waiting/Think_4, **animations/Stand/Waiting/LookHand_2, **animations/Stand/Waiting/Think_1, ***animations/Stand/Waiting/Think_3, ***animations/Stand/Waiting/Think_2
+grow_suspicious_of	***animations/Stand/Reactions/SeeColor_1, ***animations/Stand/Reactions/SeeColor_2, *sound:animations/Stand/Emotions/Neutral/Hesitation_1, ***animations/Stand/Emotions/Neutral/Cautious_1, **animations/Stand/Emotions/Neutral/Suspicious_1, ***animations/Stand/Emotions/Neutral/Puzzled_1, **animations/Stand/Waiting/Think_4, **animations/Stand/Waiting/Think_1, ***animations/Stand/Waiting/Think_3, ***animations/Stand/Waiting/Think_2	
+are_impressed_by	**animations/Stand/Reactions/SeeColor_1, *animations/Stand/Reactions/ShakeBody_3, **animations/Stand/Reactions/SeeColor_2, ***animations/Stand/Emotions/Negative/Shocked_1, **animations/Stand/Emotions/Positive/Ecstatic_1, ***animations/Stand/Emotions/Positive/Excited_3, **animations/Stand/Emotions/Positive/Excited_1, **animations/Stand/Emotions/Neutral/Puzzled_1, **animations/Stand/Emotions/Neutral/Alienated_1, **animations/Stand/Waiting/Think_4, *animations/Stand/Waiting/Think_4, **animations/Stand/Waiting/Think_1, *animations/Stand/Waiting/Think_1, **animations/Stand/Waiting/Think_3, **animations/Stand/Waiting/Think_2, **animations/Stand/Gestures/YouKnowWhat_1, **animations/Stand/Gestures/Confused_1, **animations/Stand/Gestures/Stretch_2	
+impress	**animations/Stand/Gestures/ShowSky_4	**animations/Stand/Reactions/SeeColor_1, *animations/Stand/Reactions/ShakeBody_3, **animations/Stand/Reactions/SeeColor_2, ***animations/Stand/Emotions/Negative/Shocked_1, **animations/Stand/Emotions/Positive/Ecstatic_1, ***animations/Stand/Emotions/Positive/Excited_3, **animations/Stand/Emotions/Positive/Excited_1, **animations/Stand/Emotions/Neutral/Puzzled_1, **animations/Stand/Emotions/Neutral/Alienated_1, **animations/Stand/Waiting/Think_4, *animations/Stand/Waiting/Think_4, **animations/Stand/Waiting/Think_1, *animations/Stand/Waiting/Think_1, **animations/Stand/Waiting/Think_3, **animations/Stand/Waiting/Think_2, **animations/Stand/Gestures/YouKnowWhat_1, **animations/Stand/Gestures/Confused_1, **animations/Stand/Gestures/Stretch_2
+are_examined_by	**animations/Stand/Reactions/SeeSomething_1, **animations/Stand/Reactions/SeeSomething_3	**animations/Stand/Reactions/SeeColor_1, **animations/Stand/Reactions/SeeColor_2, **animations/Stand/Emotions/Neutral/Puzzled_1, **animations/Stand/Waiting/Think_4, *animations/Stand/Waiting/Think_4, *animations/Stand/Waiting/Think_1, **animations/Stand/Waiting/Think_3, **animations/Stand/Waiting/Think_2
+disagree_with	***animations/Stand/Reactions/TouchHead_1, ***animations/Stand/Reactions/ShakeBody_1, *sound:animations/Stand/Emotions/Neutral/AskForAttention_3, *sound:animations/Stand/Emotions/Neutral/AskForAttention_1, **animations/Stand/Emotions/Neutral/Annoyed_1, ***animations/Stand/Gestures/No_2, *animations/Stand/Gestures/Explain_4, ***animations/Stand/Gestures/Enthusiastic_3, *animations/Stand/Gestures/No_5, **animations/Stand/Gestures/Explain_3, ***animations/Stand/Gestures/No_1, **animations/Stand/Gestures/CalmDown_2, *animations/Stand/Gestures/This_4, **animations/Stand/Gestures/YouKnowWhat_5, ***animations/Stand/Gestures/No_3, ***animations/Stand/Gestures/No_9, *animations/Stand/Gestures/Nothing_2, *animations/Stand/Gestures/No_7, **animations/Stand/Gestures/YouKnowWhat_3, ***animations/Stand/Gestures/No_8, **animations/Stand/Gestures/No_6, **animations/Stand/Gestures/IDontKnow_4, **animations/Stand/Gestures/Desperate_3	
+are_disqualified_by		**animations/Stand/Reactions/TouchHead_1, **animations/Stand/Reactions/ShakeBody_1, **animations/Stand/Gestures/No_1
+disqualify	**animations/Stand/Reactions/TouchHead_1, **animations/Stand/Reactions/ShakeBody_1, **animations/Stand/Gestures/No_1	
+are_driven_mad_by	**animations/Stand/Reactions/ShakeBody_3, ***sound:animations/Stand/Emotions/Negative/Angry_2, ***sound:animations/Stand/Emotions/Negative/Angry_4, ***animations/Stand/Emotions/Negative/Hurt_1, ***sound:animations/Stand/Emotions/Negative/Hurt_2, ***sound:animations/Stand/Emotions/Negative/Angry_1, ***animations/Stand/Emotions/Neutral/Confused_1	
+alienate	*animations/Stand/Reactions/ShakeBody_3	
+are_exploited_by	**animations/Stand/Reactions/Heat_2, **animations/Stand/Reactions/Heat_1	
+exploit		**animations/Stand/Reactions/Heat_2, **animations/Stand/Reactions/Heat_1
+are_abused_by	**animations/Stand/Reactions/Heat_2, **animations/Stand/Reactions/Heat_1	
+abuse		**animations/Stand/Reactions/Heat_2, **animations/Stand/Reactions/Heat_1
+prey_on		**animations/Stand/Reactions/Heat_2, **animations/Stand/Reactions/Heat_1
+coerce		**animations/Stand/Reactions/Heat_2, **animations/Stand/Reactions/Heat_1
+are_humiliated_by	**animations/Stand/Reactions/Heat_2, **animations/Stand/Reactions/Heat_1, ***animations/Stand/Emotions/Negative/Bored_1, ***animations/Stand/Emotions/Negative/Bored_2, **sound:animations/Stand/Emotions/Negative/Exhausted_2, **animations/Stand/Emotions/Negative/Exhausted_1	
+humiliate	**sound:animations/Stand/Emotions/Positive/Laugh_1, *sound:animations/Stand/Emotions/Positive/Laugh_3	**animations/Stand/Reactions/Heat_2, **animations/Stand/Reactions/Heat_1, ***animations/Stand/Emotions/Negative/Bored_1, ***animations/Stand/Emotions/Negative/Bored_2, **sound:animations/Stand/Emotions/Negative/Exhausted_2, **animations/Stand/Emotions/Negative/Exhausted_1
+are_denounced_by	**animations/Stand/Reactions/Heat_2, **animations/Stand/Reactions/Heat_1, ***animations/Stand/Emotions/Negative/Bored_1, ***animations/Stand/Emotions/Negative/Bored_2, **sound:animations/Stand/Emotions/Negative/Exhausted_2, **animations/Stand/Emotions/Negative/Exhausted_1	
+denounce	**animations/Stand/Gestures/No_4	**animations/Stand/Reactions/Heat_2, **animations/Stand/Reactions/Heat_1, ***animations/Stand/Emotions/Negative/Bored_1, ***animations/Stand/Emotions/Negative/Bored_2, **sound:animations/Stand/Emotions/Negative/Exhausted_2, **animations/Stand/Emotions/Negative/Exhausted_1
+are_taunted_by	**animations/Stand/Reactions/Heat_2, **animations/Stand/Reactions/Heat_1, **animations/Stand/Waiting/ShowMuscles_5, **sound:animations/Stand/Waiting/ShowMuscles_4	
+taunt	**animations/Stand/Waiting/ShowMuscles_5, **sound:animations/Stand/Waiting/ShowMuscles_4	**animations/Stand/Reactions/Heat_2, **animations/Stand/Reactions/Heat_1
+laugh_at	***sound:animations/Stand/Emotions/Positive/Laugh_2, ***sound:animations/Stand/Emotions/Positive/Mocker_1, **sound:animations/Stand/Emotions/Positive/Amused_1, ***sound:animations/Stand/Emotions/Positive/Laugh_1, **sound:animations/Stand/Emotions/Positive/Laugh_3	**animations/Stand/Reactions/Heat_2, **animations/Stand/Reactions/Heat_1
+are_overrun_by	*animations/Stand/Reactions/Heat_2, *animations/Stand/Reactions/Heat_1, **sound:animations/Stand/Emotions/Negative/Hurt_2, *animations/Stand/Gestures/Everything_5	
+mourn_for	**animations/Stand/Reactions/ShakeBody_2, ***sound:animations/Stand/Emotions/Negative/Sad_1, *animations/Stand/Gestures/Please_2	
+are_contradicted_by	***animations/Stand/Gestures/No_9, *animations/Stand/Gestures/Nothing_2	***animations/Stand/Reactions/ShakeBody_1, ***animations/Stand/Gestures/No_2, *animations/Stand/Gestures/No_5, ***animations/Stand/Gestures/No_3, **animations/Stand/Gestures/No_8
+dislike	**animations/Stand/Reactions/ShakeBody_1, **animations/Stand/Emotions/Negative/Humiliated_1, **animations/Stand/Gestures/Enthusiastic_3, **animations/Stand/Gestures/No_1, ***animations/Stand/Gestures/No_8, **animations/Stand/Gestures/No_6, **animations/Stand/Gestures/Desperate_5, **animations/Stand/Gestures/Desperate_1, ***animations/Stand/Gestures/Desperate_3	
+are_uncovered_by	**sound:animations/Stand/Emotions/Negative/Fear_2, **sound:animations/Stand/Emotions/Negative/Surprise_1, *sound:animations/Stand/Emotions/Negative/Fear_1, *sound:animations/Stand/Emotions/Negative/Surprise_3, *sound:animations/Stand/Emotions/Negative/Surprise_2, **animations/Stand/Emotions/Neutral/Cautious_1, *animations/Stand/Gestures/Everything_3	
+wait_on	***animations/Stand/Emotions/Negative/Late_1, *animations/Stand/Waiting/Waddle_2, *animations/Stand/Gestures/Thinking_6, *animations/Stand/Gestures/Thinking_5, **animations/Stand/Gestures/YouKnowWhat_4	
+are_waited_upon_by		***animations/Stand/Emotions/Negative/Late_1, *animations/Stand/Waiting/Waddle_2, *animations/Stand/Gestures/Thinking_6, *animations/Stand/Gestures/Thinking_5, **animations/Stand/Gestures/YouKnowWhat_4
+paint	***iconic_actions-4373e0/paint	
+are_painted_by		***iconic_actions-4373e0/paint
+beg_forgiveness_from	**animations/Stand/Emotions/Negative/Sorry_1, **animations/Stand/Waiting/Innocent_1, ***animations/Stand/Gestures/Please_1, *animations/Stand/Gestures/JointHands_2, **animations/Stand/Gestures/Please_2, *animations/Stand/Gestures/Confused_2	
+are_begged_by	*animations/Stand/Gestures/Confused_2	**animations/Stand/Emotions/Negative/Sorry_1, **animations/Stand/Waiting/Innocent_1, ***animations/Stand/Gestures/Please_1, *animations/Stand/Gestures/JointHands_2, **animations/Stand/Gestures/Please_2
+seek_forgiveness_from	**animations/Stand/Emotions/Negative/Sorry_1, **animations/Stand/Waiting/Innocent_1, ***animations/Stand/Gestures/Please_1, *animations/Stand/Gestures/JointHands_2, **animations/Stand/Gestures/Please_2, *animations/Stand/Gestures/Confused_2	
+are_cut_off_by	**animations/Stand/Gestures/No_3	*sound:animations/Stand/Emotions/Negative/Angry_3, **sound:animations/Stand/Emotions/Neutral/AskForAttention_3, **sound:animations/Stand/Emotions/Neutral/AskForAttention_1, *animations/Stand/Gestures/No_1, **animations/Stand/Gestures/OnTheEvening_4, *animations/Stand/Gestures/CalmDown_2
+are_bored_by	***animations/Stand/Emotions/Negative/Bored_1, ***animations/Stand/Emotions/Negative/Bored_2, **sound:animations/Stand/Emotions/Negative/Exhausted_2, **animations/Stand/Emotions/Negative/Exhausted_1, *animations/Stand/Waiting/ScratchEye_1, *animations/Stand/Waiting/ScratchBottom_1, *animations/Stand/Waiting/Relaxation_4, *animations/Stand/Gestures/Maybe_1, **animations/Stand/Gestures/Desperate_4, *animations/Stand/Gestures/Thinking_3, *animations/Stand/Gestures/IDontKnow_3	
+are_bored_with	***animations/Stand/Emotions/Negative/Bored_1, ***animations/Stand/Emotions/Negative/Bored_2, **sound:animations/Stand/Emotions/Negative/Exhausted_2, **animations/Stand/Emotions/Negative/Exhausted_1, *animations/Stand/Waiting/ScratchEye_1, *animations/Stand/Waiting/ScratchBottom_1, *animations/Stand/Waiting/Relaxation_4, *animations/Stand/Gestures/Maybe_1, **animations/Stand/Gestures/Desperate_4, *animations/Stand/Gestures/Thinking_3, *animations/Stand/Gestures/IDontKnow_3	
+are_unimpressed_by	**animations/Stand/Emotions/Negative/Bored_1, *animations/Stand/Emotions/Negative/Sad_2, **animations/Stand/Emotions/Negative/Disappointed_1, **animations/Stand/Emotions/Negative/Bored_2, ***sound:animations/Stand/Emotions/Negative/Frustrated_1, **animations/Stand/Waiting/Waddle_2, *animations/Stand/Waiting/ScratchBottom_1, *animations/Stand/Waiting/Relaxation_4, **animations/Stand/Gestures/Maybe_1, *animations/Stand/Gestures/Desperate_4, *animations/Stand/Gestures/IDontKnow_2, **animations/Stand/Gestures/WhatSThis_12, **animations/Stand/Gestures/WhatSThis_13, *animations/Stand/Gestures/WhatSThis_16, *animations/Stand/Gestures/YouKnowWhat_4, *animations/Stand/Gestures/IDontKnow_3	
+are_unimpressed_with	***sound:animations/Stand/Emotions/Negative/Frustrated_1, **animations/Stand/Waiting/Waddle_2, *animations/Stand/Waiting/ScratchBottom_1, *animations/Stand/Waiting/Relaxation_4, **animations/Stand/Gestures/Maybe_1, *animations/Stand/Gestures/Desperate_4, *animations/Stand/Gestures/IDontKnow_2, **animations/Stand/Gestures/WhatSThis_12, **animations/Stand/Gestures/WhatSThis_13, *animations/Stand/Gestures/WhatSThis_16, *animations/Stand/Gestures/YouKnowWhat_4, *animations/Stand/Gestures/IDontKnow_3	**animations/Stand/Emotions/Negative/Bored_1, *animations/Stand/Emotions/Negative/Sad_2, **animations/Stand/Emotions/Negative/Disappointed_1, **animations/Stand/Emotions/Negative/Bored_2
+fail_to_impress		**animations/Stand/Emotions/Negative/Bored_1, *animations/Stand/Emotions/Negative/Sad_2, **animations/Stand/Emotions/Negative/Disappointed_1, **animations/Stand/Emotions/Negative/Bored_2, ***sound:animations/Stand/Emotions/Negative/Frustrated_1, **animations/Stand/Waiting/Waddle_2, **animations/Stand/Gestures/Maybe_1, *animations/Stand/Gestures/Desperate_4, *animations/Stand/Gestures/IDontKnow_2, **animations/Stand/Gestures/WhatSThis_12, **animations/Stand/Gestures/No_6, *animations/Stand/Gestures/IDontKnow_3, **animations/Stand/Gestures/IDontKnow_1, **animations/Stand/Gestures/Desperate_3
+cry_for	***sound:animations/Stand/Emotions/Negative/Sad_1, **animations/Stand/Waiting/Binoculars_1	
+are_abandoned_by	**sound:animations/Stand/Emotions/Negative/Sad_1, **animations/Stand/Emotions/Neutral/Innocent_1, ***animations/Stand/Emotions/Neutral/Lonely_1	
+abandon	**animations/Stand/Gestures/IDontKnow_4	**sound:animations/Stand/Emotions/Negative/Sad_1, **animations/Stand/Emotions/Neutral/Innocent_1, ***animations/Stand/Emotions/Neutral/Lonely_1
+anger	***sound:animations/Stand/Emotions/Negative/Angry_2, ***sound:animations/Stand/Emotions/Negative/Angry_4, ***animations/Stand/Emotions/Negative/Hurt_1, ***sound:animations/Stand/Emotions/Negative/Angry_1	
+cause_trouble_for		*sound:animations/Stand/Emotions/Negative/Angry_2, *animations/Stand/Emotions/Negative/Hurt_1, *sound:animations/Stand/Emotions/Negative/Angry_1, **animations/Stand/Emotions/Neutral/Confused_1
+campaign_against	***sound:animations/Stand/Emotions/Negative/Angry_4, **sound:animations/Stand/Emotions/Positive/Winner_1, **animations/Stand/Waiting/Headbang_1	
+rise_against	***sound:animations/Stand/Emotions/Negative/Angry_4, **animations/Stand/Waiting/Headbang_1	
+rebel_against	***sound:animations/Stand/Emotions/Negative/Angry_4, ***animations/Stand/Waiting/Headbang_1	
+are_booed_by	***animations/Stand/Emotions/Positive/Shy_1, ***animations/Stand/Emotions/Positive/Shy_2	***sound:animations/Stand/Emotions/Negative/Angry_4
+overthrow	**sound:animations/Stand/Emotions/Negative/Angry_4, *animations/Stand/Gestures/This_2	
+are_overthrown_by	*animations/Stand/Waiting/Relaxation_3	**sound:animations/Stand/Emotions/Negative/Angry_4, *animations/Stand/Gestures/This_2
+are_deposed_by		**sound:animations/Stand/Emotions/Negative/Angry_4
+fight	***iconic_actions-4373e0/attack,*sound:animations/Stand/Emotions/Negative/Angry_4, **animations/Stand/Waiting/ShowMuscles_5, **sound:animations/Stand/Waiting/ShowMuscles_4, **animations/Stand/Waiting/Knight_1	
+are_fought_by		***iconic_actions-4373e0/attack,*sound:animations/Stand/Emotions/Negative/Angry_4, **animations/Stand/Waiting/ShowMuscles_5, **sound:animations/Stand/Waiting/ShowMuscles_4, **animations/Stand/Waiting/Knight_1
+fight_with	***iconic_actions-4373e0/attack,*sound:animations/Stand/Emotions/Negative/Angry_4, **animations/Stand/Waiting/ShowMuscles_5, **sound:animations/Stand/Waiting/ShowMuscles_4, **animations/Stand/Waiting/Knight_1	
+fight_against	***iconic_actions-4373e0/attack,*sound:animations/Stand/Emotions/Negative/Angry_4, **animations/Stand/Waiting/ShowMuscles_5, **sound:animations/Stand/Waiting/ShowMuscles_4, *animations/Stand/Waiting/Knight_1	
+are_intimidated_by	**animations/Stand/Emotions/Negative/Humiliated_1, **animations/Stand/Emotions/Negative/Anxious_1, ***animations/Stand/Emotions/Positive/Shy_1, ***animations/Stand/Emotions/Positive/Shy_2, ***animations/Stand/Emotions/Neutral/Innocent_1, **animations/Stand/Gestures/Surprised_1, **animations/Stand/Gestures/Shy_1	
+intimidate		**animations/Stand/Emotions/Negative/Humiliated_1, **animations/Stand/Emotions/Negative/Anxious_1, ***animations/Stand/Emotions/Positive/Shy_1, ***animations/Stand/Emotions/Positive/Shy_2, ***animations/Stand/Emotions/Neutral/Innocent_1, **animations/Stand/Gestures/Surprised_1, **animations/Stand/Gestures/Shy_1
+intimidate_with	**animations/Stand/Emotions/Negative/Anxious_1	**animations/Stand/Emotions/Negative/Humiliated_1, ***animations/Stand/Emotions/Positive/Shy_1, ***animations/Stand/Emotions/Positive/Shy_2, **animations/Stand/Gestures/Surprised_1
+threaten_with	**animations/Stand/Gestures/No_4	**animations/Stand/Emotions/Negative/Humiliated_1, ***animations/Stand/Emotions/Positive/Shy_1, ***animations/Stand/Emotions/Positive/Shy_2, **animations/Stand/Gestures/Surprised_1
+threaten	**sound:animations/Stand/Waiting/Monster_1, **animations/Stand/Gestures/No_4	**animations/Stand/Emotions/Negative/Humiliated_1, **animations/Stand/Emotions/Negative/Anxious_1, ***animations/Stand/Emotions/Positive/Shy_1, ***animations/Stand/Emotions/Positive/Shy_2, **animations/Stand/Gestures/Surprised_1, **animations/Stand/Gestures/Shy_1
+are_threatened_by	**animations/Stand/Emotions/Negative/Humiliated_1, **animations/Stand/Emotions/Negative/Anxious_1, ***animations/Stand/Emotions/Positive/Shy_1, ***animations/Stand/Emotions/Positive/Shy_2, **animations/Stand/Gestures/Surprised_1, **animations/Stand/Gestures/Shy_1	
+reject	*animations/Stand/Emotions/Negative/Humiliated_1, **animations/Stand/Gestures/No_2, *animations/Stand/Gestures/OnTheEvening_1, *animations/Stand/Gestures/Give_3, **animations/Stand/Gestures/No_1, **animations/Stand/Gestures/Reject_1, ***animations/Stand/Gestures/Reject_3, **animations/Stand/Gestures/Reject_4, *animations/Stand/Gestures/WhatSThis_16, *animations/Stand/Gestures/Reject_2, ***animations/Stand/Gestures/Reject_6	
+are_rejected_by	**sound:animations/Stand/Emotions/Negative/Frustrated_1	*animations/Stand/Emotions/Negative/Humiliated_1, **animations/Stand/Gestures/No_2, *animations/Stand/Gestures/OnTheEvening_1, *animations/Stand/Gestures/Give_3, **animations/Stand/Gestures/No_1, **animations/Stand/Gestures/Reject_1, ***animations/Stand/Gestures/Reject_3, **animations/Stand/Gestures/Reject_4, *animations/Stand/Gestures/WhatSThis_16, *animations/Stand/Gestures/Reject_2, ***animations/Stand/Gestures/Reject_6
+are_excommunicated_by	*sound:animations/Stand/Emotions/Negative/Exhausted_2, *animations/Stand/Emotions/Negative/Exhausted_1	
+excommunicate		*sound:animations/Stand/Emotions/Negative/Exhausted_2, *animations/Stand/Emotions/Negative/Exhausted_1
+are_defrocked_by	*sound:animations/Stand/Emotions/Negative/Exhausted_2, *animations/Stand/Emotions/Negative/Exhausted_1	
+reject	*animations/Stand/Emotions/Negative/Humiliated_1, **animations/Stand/Gestures/No_2, *animations/Stand/Gestures/OnTheEvening_1, *animations/Stand/Gestures/Give_3, **animations/Stand/Gestures/No_1, **animations/Stand/Gestures/Reject_1, ***animations/Stand/Gestures/Reject_3, **animations/Stand/Gestures/Reject_4, *animations/Stand/Gestures/WhatSThis_16, *animations/Stand/Gestures/Reject_2, ***animations/Stand/Gestures/Reject_6	**sound:animations/Stand/Emotions/Negative/Frustrated_1
+are_intrigued_by	**animations/Stand/Emotions/Negative/Anxious_1	
+leave_behind	*animations/Stand/Emotions/Positive/Peaceful_1, *animations/Stand/Gestures/WhatSThis_4, **animations/Stand/Gestures/Reject_3	
+are_drilled_by	**animations/Stand/Emotions/Positive/Enthusiastic_1, **animations/Stand/Waiting/Fitness_2	
+agree_with	***animations/Stand/Emotions/Positive/Happy_4, ***animations/Stand/Emotions/Positive/Confident_1, ***animations/Stand/Emotions/Positive/Optimistic_1, *sound:animations/Stand/Emotions/Positive/Happy_2, **animations/Stand/Waiting/Rest_1, **animations/Stand/Gestures/Yes_1, **animations/Stand/Gestures/Yes_2, *animations/Stand/Gestures/Next_1, **animations/Stand/Gestures/CountOne_1, **animations/Stand/Gestures/Yes_3, **animations/Stand/Gestures/Enthusiastic_2, **animations/Stand/Gestures/Thinking_1, *animations/Stand/Gestures/Great_1, *animations/Stand/Gestures/Explain_5	
+encourage	***animations/Stand/Emotions/Positive/Happy_4, **animations/Stand/Emotions/Positive/Hysterical_1, **animations/Stand/Gestures/WhatSThis_15, *animations/Stand/Gestures/JointHands_2	
+are_encouraged_by	*animations/Stand/Gestures/JointHands_2	***animations/Stand/Emotions/Positive/Happy_4, **animations/Stand/Emotions/Positive/Hysterical_1, **animations/Stand/Gestures/WhatSThis_15
+sweat_for	***animations/Stand/Emotions/Positive/Relieved_1, *animations/Stand/Waiting/ScratchEye_1	
+are_saved_by	**animations/Stand/Emotions/Positive/Relieved_1	
+save		**animations/Stand/Emotions/Positive/Relieved_1
+rescue		**animations/Stand/Emotions/Positive/Relieved_1
+are_rescued_by	**animations/Stand/Emotions/Positive/Relieved_1	
+are_helped_by	**animations/Stand/Emotions/Positive/Relieved_1	
+help		**animations/Stand/Emotions/Positive/Relieved_1
+joke_about	***sound:animations/Stand/Emotions/Positive/Laugh_2, ***sound:animations/Stand/Emotions/Positive/Mocker_1, **sound:animations/Stand/Emotions/Positive/Amused_1, ***sound:animations/Stand/Emotions/Positive/Laugh_1, **sound:animations/Stand/Emotions/Positive/Laugh_3, *animations/Stand/Waiting/FunnySlide_1	
+promote	***animations/Stand/Emotions/Positive/Excited_2, **animations/Stand/Gestures/ShowSky_11, *animations/Stand/Gestures/ShowSky_1	
+are_promoted_by	**animations/Stand/Gestures/Salute_1	***animations/Stand/Emotions/Positive/Excited_2, **animations/Stand/Gestures/ShowSky_11, *animations/Stand/Gestures/ShowSky_1
+are_entertained_by	***animations/Stand/Emotions/Positive/Excited_2, **animations/Stand/Gestures/Applause_1	
+entertain	***animations/Stand/Emotions/Positive/Hysterical_1, **animations/Stand/Waiting/FunnySlide_1, **animations/Stand/Gestures/Stretch_1	***animations/Stand/Emotions/Positive/Excited_2, **animations/Stand/Gestures/Applause_1
+popularize	***animations/Stand/Emotions/Positive/Excited_2, ***sound:animations/Stand/Emotions/Positive/Winner_2, **sound:animations/Stand/Emotions/Positive/Happy_3, **animations/Stand/Gestures/Applause_1	
+are_popularized_by	***sound:animations/Stand/Emotions/Positive/Winner_2, **sound:animations/Stand/Emotions/Positive/Happy_3	***animations/Stand/Emotions/Positive/Excited_2, **animations/Stand/Gestures/Applause_1
+lead_astray	***sound:animations/Stand/Emotions/Positive/Mocker_1, **animations/Stand/Gestures/Far_3, *animations/Stand/Gestures/Stretch_1	
+lead	***sound:animations/Stand/Emotions/Positive/Mocker_1, ***animations/Stand/Gestures/Far_3, ***animations/Stand/Gestures/You_5, **animations/Stand/Gestures/You_1, ***animations/Stand/Gestures/ShowSky_5, **animations/Stand/Gestures/You_2, ***animations/Stand/Gestures/ShowSky_6, *animations/Stand/Gestures/This_11	
+are_led_by	***animations/Stand/Gestures/ShowSky_5	***sound:animations/Stand/Emotions/Positive/Mocker_1, ***animations/Stand/Gestures/Far_3, ***animations/Stand/Gestures/You_5, **animations/Stand/Gestures/You_1, **animations/Stand/Gestures/You_2, ***animations/Stand/Gestures/ShowSky_6, *animations/Stand/Gestures/This_11
+guide	***sound:animations/Stand/Emotions/Positive/Mocker_1, **animations/Stand/Gestures/Far_3, ***animations/Stand/Gestures/You_5, **animations/Stand/Gestures/You_1, ***animations/Stand/Gestures/ShowSky_5, **animations/Stand/Gestures/You_2, ***animations/Stand/Gestures/ShowSky_6, *animations/Stand/Gestures/This_11	
+are_guided_by		***sound:animations/Stand/Emotions/Positive/Mocker_1, **animations/Stand/Gestures/Far_3, ***animations/Stand/Gestures/You_5, **animations/Stand/Gestures/You_1, ***animations/Stand/Gestures/ShowSky_5, **animations/Stand/Gestures/You_2, ***animations/Stand/Gestures/ShowSky_6, *animations/Stand/Gestures/This_11
+support	***animations/Stand/Emotions/Positive/Confident_1	
+are_supported_by		***animations/Stand/Emotions/Positive/Confident_1
+are_appreciated_by	*animations/Stand/Gestures/Great_1	**animations/Stand/Emotions/Positive/Confident_1, *animations/Stand/Gestures/Yes_3, **animations/Stand/Gestures/CountMore_1
+profit_from	**animations/Stand/Emotions/Positive/Excited_3	
+are_thanked_by	*animations/Stand/Gestures/WhatSThis_15, *animations/Stand/Gestures/Applause_1	*animations/Stand/Emotions/Positive/Excited_3
+are_entertained_by	***animations/Stand/Emotions/Positive/Excited_2, **animations/Stand/Gestures/Applause_1	***animations/Stand/Emotions/Positive/Hysterical_1, **animations/Stand/Waiting/FunnySlide_1, **animations/Stand/Gestures/Stretch_1
+are_overrun_by	*animations/Stand/Reactions/Heat_2, *animations/Stand/Reactions/Heat_1, **sound:animations/Stand/Emotions/Negative/Hurt_2, *animations/Stand/Gestures/Everything_5	**animations/Stand/Emotions/Positive/Hysterical_1
+trust	**animations/Stand/Emotions/Positive/Optimistic_1, *animations/Stand/Gestures/Me_7, **animations/Stand/Gestures/Me_2, *animations/Stand/Gestures/Me_6	
+are_trusted_by		**animations/Stand/Emotions/Positive/Optimistic_1, *animations/Stand/Gestures/Me_7, **animations/Stand/Gestures/Me_2, *animations/Stand/Gestures/Me_6
+believe_in	**animations/Stand/Emotions/Positive/Optimistic_1, *animations/Stand/Gestures/Me_7	
+confide_in	**animations/Stand/Emotions/Positive/Optimistic_1, *animations/Stand/Gestures/Me_7	
+rely_on	**animations/Stand/Emotions/Positive/Optimistic_1, *animations/Stand/Gestures/Me_7	
+are_moved_by	**animations/Stand/Emotions/Positive/Optimistic_1	
+feel_sorry_for	**animations/Stand/Emotions/Positive/Optimistic_1, *animations/Stand/Gestures/WhatSThis_1	
+are_humiliated_by	**animations/Stand/Reactions/Heat_2, **animations/Stand/Reactions/Heat_1, ***animations/Stand/Emotions/Negative/Bored_1, ***animations/Stand/Emotions/Negative/Bored_2, **sound:animations/Stand/Emotions/Negative/Exhausted_2, **animations/Stand/Emotions/Negative/Exhausted_1	**sound:animations/Stand/Emotions/Positive/Laugh_1, *sound:animations/Stand/Emotions/Positive/Laugh_3
+champion	***sound:animations/Stand/Emotions/Positive/Winner_2, ***sound:animations/Stand/Emotions/Positive/Winner_1	
+are_championed_by	***sound:animations/Stand/Emotions/Positive/Winner_1, ***animations/Stand/Waiting/ShowMuscles_3	***sound:animations/Stand/Emotions/Positive/Winner_2
+are_elected_by	**sound:animations/Stand/Emotions/Positive/Winner_2	
+elect		**sound:animations/Stand/Emotions/Positive/Winner_2
+are_summoned_by	***animations/Stand/Emotions/Positive/Proud_3	
+summon		***animations/Stand/Emotions/Positive/Proud_3
+ignore	*animations/Stand/Emotions/Positive/Proud_3, **animations/Stand/Gestures/Enthusiastic_3, **animations/Stand/Gestures/Thinking_3, **animations/Stand/Gestures/Hide_1	
+are_ignored_by		*animations/Stand/Emotions/Positive/Proud_3, **animations/Stand/Gestures/Enthusiastic_3, **animations/Stand/Gestures/Thinking_3, **animations/Stand/Gestures/Hide_1
+tune_out	*animations/Stand/Emotions/Positive/Proud_3, **animations/Stand/Gestures/Hide_1	
+attend_to	***sound:animations/Stand/Emotions/Positive/Interested_2	
+are_attended_by		***sound:animations/Stand/Emotions/Positive/Interested_2
+attend	***sound:animations/Stand/Emotions/Positive/Interested_2	
+serve	***sound:animations/Stand/Emotions/Positive/Interested_2	
+are_served_by		***sound:animations/Stand/Emotions/Positive/Interested_2
+minister_to	**sound:animations/Stand/Emotions/Positive/Interested_2	
+abduct	**sound:animations/Stand/Emotions/Positive/Happy_2, ***animations/Stand/Gestures/Coaxing_1	
+are_abducted_by		**sound:animations/Stand/Emotions/Positive/Happy_2, ***animations/Stand/Gestures/Coaxing_1
+assault	***iconic_actions-4373e0/attack	
+are_assaulted_by		***iconic_actions-4373e0/attack
+attack	***iconic_actions-4373e0/attack	
+are_attacked_by		***iconic_actions-4373e0/attack
+kidnap	**sound:animations/Stand/Emotions/Positive/Happy_2, ***animations/Stand/Gestures/Coaxing_1	
+are_kidnapped_by		**sound:animations/Stand/Emotions/Positive/Happy_2, ***animations/Stand/Gestures/Coaxing_1
+campaign_for	**sound:animations/Stand/Emotions/Positive/Happy_3, ***sound:animations/Stand/Emotions/Positive/Winner_1, *animations/Stand/Gestures/Far_1, **animations/Stand/Gestures/ShowSky_4	
+propagandize_for	**sound:animations/Stand/Emotions/Positive/Happy_3, ***sound:animations/Stand/Emotions/Positive/Winner_1, **animations/Stand/Gestures/Far_1, **animations/Stand/Gestures/ShowSky_4	
+welcome	***animations/Stand/Emotions/Neutral/Hello_1, ***sound:animations/Stand/Emotions/Neutral/AskForAttention_2, **animations/Stand/Waiting/Relaxation_1, **animations/Stand/Gestures/Salute_3, ***animations/Stand/Gestures/Hey_3, ***animations/Stand/Gestures/Hey_1, ***animations/Stand/Gestures/Hey_5, ***animations/Stand/Gestures/Joy_1, ***animations/Stand/Gestures/Hey_2, **animations/Stand/Gestures/CountMore_1, **animations/Stand/Gestures/Salute_1, **animations/Stand/Gestures/CountMore_2, **animations/Stand/Gestures/Salute_2, ***animations/Stand/Gestures/Hey_4	
+are_welcomed_by		***animations/Stand/Emotions/Neutral/Hello_1, ***sound:animations/Stand/Emotions/Neutral/AskForAttention_2, **animations/Stand/Waiting/Relaxation_1, **animations/Stand/Gestures/Salute_3, ***animations/Stand/Gestures/Hey_3, ***animations/Stand/Gestures/Hey_1, ***animations/Stand/Gestures/Hey_5, ***animations/Stand/Gestures/Joy_1, ***animations/Stand/Gestures/Hey_2, **animations/Stand/Gestures/CountMore_1, **animations/Stand/Gestures/Salute_1, **animations/Stand/Gestures/CountMore_2, **animations/Stand/Gestures/Salute_2, ***animations/Stand/Gestures/Hey_4
+are_greeted_by		***animations/Stand/Emotions/Neutral/Hello_1, ***sound:animations/Stand/Emotions/Neutral/AskForAttention_2, **animations/Stand/Waiting/Relaxation_1, **animations/Stand/Gestures/Salute_3, ***animations/Stand/Gestures/Hey_3, ***animations/Stand/Gestures/Hey_1, ***animations/Stand/Gestures/Hey_5, ***animations/Stand/Gestures/Hey_2, ***animations/Stand/Gestures/Hey_4
+heckle	***sound:animations/Stand/Emotions/Neutral/AskForAttention_3, ***sound:animations/Stand/Emotions/Neutral/AskForAttention_1, ***sound:animations/Stand/Emotions/Neutral/AskForAttention_2, **sound:animations/Stand/Waiting/Taxi_1, ***animations/Stand/Gestures/Hey_7, **animations/Stand/Gestures/Wings_5	
+are_heckled_by		***sound:animations/Stand/Emotions/Neutral/AskForAttention_3, ***sound:animations/Stand/Emotions/Neutral/AskForAttention_1, ***sound:animations/Stand/Emotions/Neutral/AskForAttention_2, ***animations/Stand/Gestures/Hey_7, **animations/Stand/Gestures/Wings_5
+confer_with	*sound:animations/Stand/Emotions/Neutral/AskForAttention_3, *sound:animations/Stand/Emotions/Neutral/AskForAttention_1, **animations/Stand/Gestures/Explain_8, **animations/Stand/Gestures/Explain_4, *animations/Stand/Gestures/No_5, ***animations/Stand/Gestures/Choice_1, ***animations/Stand/Gestures/CountThree_1, ***animations/Stand/Gestures/CountFour_1, *animations/Stand/Gestures/Nothing_2	
+alienate	*animations/Stand/Reactions/ShakeBody_3	**animations/Stand/Emotions/Neutral/Innocent_1, ***animations/Stand/Emotions/Neutral/Alienated_1
+silence	***animations/Stand/BodyTalk/Speaking/BodyTalk_18, **animations/Stand/Emotions/Positive/Peaceful_1, ***animations/Stand/Gestures/Everything_4, **animations/Stand/Gestures/CalmDown_6, *animations/Stand/Gestures/Wings_4, **animations/Stand/Gestures/Hey_7, *animations/Stand/Gestures/No_1, **animations/Stand/Gestures/OnTheEvening_4, *animations/Stand/Gestures/Wings_2, *animations/Stand/Gestures/CalmDown_2, *animations/Stand/Gestures/Wings_5, **animations/Stand/Gestures/CalmDown_5, *animations/Stand/Gestures/OnTheEvening_5, **animations/Stand/Gestures/CalmDown_4, **animations/Stand/Gestures/CalmDown_1, **animations/Stand/Gestures/Everything_6, **animations/Stand/Gestures/CalmDown_3, *animations/Stand/Gestures/Nothing_1, **animations/Stand/Gestures/Nothing_2, **animations/Stand/Gestures/Everything_1, **animations/Stand/Gestures/Claw_1, *animations/Stand/Gestures/OnTheEvening_3, *animations/Stand/Gestures/Everything_2	**animations/Stand/Emotions/Neutral/Innocent_1, **animations/Stand/Emotions/Neutral/Lonely_1
+listen_to	*animations/Stand/Emotions/Neutral/Innocent_1	
+	**animations/Stand/Emotions/Neutral/Confused_1, *animations/Stand/Gestures/WhatSThis_6, ***animations/Stand/Gestures/Hey_3, **animations/Stand/Gestures/YouKnowWhat_1, **animations/Stand/Gestures/CalmDown_2	
+are_sickened_by	**sound:animations/Stand/Emotions/Neutral/Sneeze, ***animations/Stand/Gestures/Hungry_1	
+control	**animations/Stand/Emotions/Neutral/Determined_1	
+are_controlled_by	**animations/Stand/Waiting/Zombie_1	**animations/Stand/Emotions/Neutral/Determined_1
+command	**animations/Stand/Emotions/Neutral/Determined_1, *animations/Stand/Waiting/Bandmaster_1, ***animations/Stand/Gestures/Far_3, **animations/Stand/Gestures/You_5, **animations/Stand/Gestures/CountFour_2, **animations/Stand/Gestures/ShowSky_5, ***animations/Stand/Gestures/ShowSky_6	
+are_commanded_by	**animations/Stand/Gestures/CountFour_2	**animations/Stand/Emotions/Neutral/Determined_1, *animations/Stand/Waiting/Bandmaster_1, ***animations/Stand/Gestures/Far_3, **animations/Stand/Gestures/You_5, **animations/Stand/Gestures/ShowSky_5, ***animations/Stand/Gestures/ShowSky_6
+leave_behind	*animations/Stand/Emotions/Positive/Peaceful_1, *animations/Stand/Gestures/WhatSThis_4, **animations/Stand/Gestures/Reject_3	***animations/Stand/Emotions/Neutral/Lonely_1
+are_manipulated_by	***animations/Stand/Reactions/TouchHead_3, ***animations/Stand/Reactions/TouchHead_2	*animations/Stand/Emotions/Neutral/Stubborn_1, ***animations/Stand/Emotions/Neutral/Mischievous_1, **animations/Stand/Gestures/JointHands_3
+mystify	**animations/Stand/Emotions/Neutral/Suspicious_1, ***sound:animations/Stand/Waiting/MysticalPower_1, *animations/Stand/Gestures/Hide_1	
+are_mystified_by		**animations/Stand/Emotions/Neutral/Suspicious_1, ***sound:animations/Stand/Waiting/MysticalPower_1, *animations/Stand/Gestures/Hide_1
+hide_from	**animations/Stand/Emotions/Neutral/Suspicious_1, **animations/Stand/Waiting/HideEyes_1, **animations/Stand/Gestures/Surprised_1, **animations/Stand/Gestures/Please_2, **animations/Stand/Gestures/Look_2	
+are_lured_by		***iconic_actions-4373e0/seduce,**animations/Stand/Emotions/Neutral/Mischievous_1, **sound:animations/Stand/Waiting/CallSomeone_1
+seduce	***iconic_actions-4373e0/seduce,**animations/Stand/Emotions/Neutral/Mischievous_1	
+are_seduced_by		***iconic_actions-4373e0/seduce,**animations/Stand/Emotions/Neutral/Mischievous_1
+are_brainwashed_by	***animations/Stand/Reactions/TouchHead_3, ***animations/Stand/Reactions/TouchHead_2, *animations/Stand/Waiting/Zombie_1	**animations/Stand/Emotions/Neutral/Mischievous_1
+are_influenced_by	***animations/Stand/Reactions/TouchHead_3, ***animations/Stand/Reactions/TouchHead_2	**animations/Stand/Emotions/Neutral/Mischievous_1
+are_indoctrinated_by	***animations/Stand/Reactions/TouchHead_3, ***animations/Stand/Reactions/TouchHead_2	**animations/Stand/Emotions/Neutral/Mischievous_1, **animations/Stand/Gestures/JointHands_3
+embarass		***animations/Stand/Emotions/Neutral/Embarrassed_1
+overthrow	**sound:animations/Stand/Emotions/Negative/Angry_4, *animations/Stand/Gestures/This_2	*animations/Stand/Waiting/Relaxation_3
+breastfeed	**animations/Stand/Waiting/ScratchTorso_1, ***animations/Stand/Gestures/Thinking_7, *animations/Stand/Gestures/Shy_1	
+impersonate	**animations/Stand/Waiting/ScratchTorso_1, *animations/Stand/Gestures/Mime_1, *animations/Stand/Gestures/Mime_2, **animations/Stand/Gestures/Me_6	
+are_impersonated_by		**animations/Stand/Waiting/ScratchTorso_1, *animations/Stand/Gestures/Mime_1, *animations/Stand/Gestures/Mime_2, **animations/Stand/Gestures/Me_6
+enchant		**animations/Stand/Waiting/LookHand_1, **animations/Stand/Waiting/LookHand_2
+are_enchanted_by	**animations/Stand/Waiting/LookHand_1, **animations/Stand/Waiting/LookHand_2	
+are_healed_by	*sound:animations/Stand/Waiting/WakeUp_1, *animations/Stand/Gestures/Yum_1	
+heal		*sound:animations/Stand/Waiting/WakeUp_1, *animations/Stand/Gestures/Yum_1
+cure		*sound:animations/Stand/Waiting/WakeUp_1, *animations/Stand/Gestures/Yum_1
+share_stories_with	***animations/Stand/Waiting/Relaxation_2, **animations/Stand/Gestures/Explain_4, *animations/Stand/Gestures/WhatSThis_2	
+are_usurped_by		**animations/Stand/Waiting/Waddle_1
+conspire_with	*animations/Stand/Waiting/ScratchBack_1, ***animations/Stand/Gestures/JointHands_3, **animations/Stand/Gestures/JointHands_1, *animations/Stand/Gestures/Look_2	
+collude_with	*animations/Stand/Waiting/ScratchBack_1, ***animations/Stand/Gestures/JointHands_3, **animations/Stand/Gestures/JointHands_1, *animations/Stand/Gestures/Look_2	
+photograph	***sound:animations/Stand/Waiting/TakePicture_1	
+are_photographed_by		***sound:animations/Stand/Waiting/TakePicture_1
+mimic	**animations/Stand/Waiting/FunnyDancer_1, **animations/Stand/Gestures/Mime_1, **animations/Stand/Gestures/Wings_1, **animations/Stand/Gestures/Mime_2	
+are_driven_around_by		***sound:animations/Stand/Waiting/DriveCar_1
+are_driven_by		***sound:animations/Stand/Waiting/DriveCar_1
+drive_for	***sound:animations/Stand/Waiting/DriveCar_1	
+look_up_to	***animations/Stand/Waiting/ShowSky_2, ***animations/Stand/Waiting/ShowSky_1, **animations/Stand/Gestures/ShowSky_9, **animations/Stand/Gestures/ShowSky_11, **animations/Stand/Gestures/ShowSky_1, **animations/Stand/Gestures/ShowSky_10	
+are_inspired_by	***animations/Stand/Reactions/SeeColor_1, *animations/Stand/Reactions/EthernetOn_1, ***animations/Stand/Reactions/SeeColor_2, *animations/Stand/Reactions/TouchHead_4, ***animations/Stand/Emotions/Neutral/Puzzled_1, **animations/Stand/Waiting/LookHand_1, **animations/Stand/Waiting/Think_4, **animations/Stand/Waiting/LookHand_2, ***animations/Stand/Waiting/Think_3, ***animations/Stand/Waiting/Think_2	**animations/Stand/Waiting/ShowSky_2, **animations/Stand/Waiting/ShowSky_1, **animations/Stand/Gestures/ShowSky_8, **animations/Stand/Gestures/Hey_6
+are_examined_byare_inspired_by		**animations/Stand/Waiting/Think_1
+fight_for	**animations/Stand/Waiting/Knight_1, *animations/Stand/Gestures/CountOne_1	
+train		***animations/Stand/Waiting/Fitness_2, ***animations/Stand/Waiting/ShowMuscles_2, ***animations/Stand/Waiting/Fitness_1, **animations/Stand/Waiting/Stretch_2
+are_trained_by	***animations/Stand/Waiting/Fitness_2, ***animations/Stand/Waiting/ShowMuscles_2, ***animations/Stand/Waiting/Fitness_1, **animations/Stand/Waiting/Stretch_2	
+train_with	***animations/Stand/Waiting/Fitness_2, ***animations/Stand/Waiting/ShowMuscles_2, ***animations/Stand/Waiting/Fitness_1, **animations/Stand/Waiting/Stretch_2, **animations/Stand/Gestures/CountTwo_1	
+write_for	*animations/Stand/Waiting/ScratchHand_1, **animations/Stand/Gestures/Claw_2, ***animations/Stand/Gestures/Follow_1	
+champion	***sound:animations/Stand/Emotions/Positive/Winner_2, ***sound:animations/Stand/Emotions/Positive/Winner_1	***animations/Stand/Waiting/ShowMuscles_3
+are_toppled_by	*animations/Stand/Waiting/Stretch_3, **animations/Stand/Gestures/This_2	
+topple	**animations/Stand/Gestures/Take_1, **animations/Stand/Gestures/This_2	*animations/Stand/Waiting/Stretch_3
+are_threatened_by	**animations/Stand/Emotions/Negative/Humiliated_1, **animations/Stand/Emotions/Negative/Anxious_1, ***animations/Stand/Emotions/Positive/Shy_1, ***animations/Stand/Emotions/Positive/Shy_2, **animations/Stand/Gestures/Surprised_1, **animations/Stand/Gestures/Shy_1	**sound:animations/Stand/Waiting/Monster_1, **animations/Stand/Gestures/No_4
+hunt	**animations/Stand/Reactions/SeeSomething_5, ***animations/Stand/Waiting/Binoculars_1	*sound:animations/Stand/Waiting/Helicopter_1
+control	**animations/Stand/Emotions/Neutral/Determined_1	**animations/Stand/Waiting/Zombie_1
+fall_in_love_with	***animations/Stand/Waiting/LoveYou_1	
+love	***animations/Stand/Waiting/LoveYou_1, *animations/Stand/Gestures/Enthusiastic_4	
+are_loved_by		***animations/Stand/Waiting/LoveYou_1, *animations/Stand/Gestures/Enthusiastic_4
+manage	**animations/Stand/Waiting/Bandmaster_1	
+are_managed_by		**animations/Stand/Waiting/Bandmaster_1
+are_ruined_by	**sound:animations/Stand/Waiting/KnockEye_1	
+are_corrupted_by	**sound:animations/Stand/Waiting/KnockEye_1	
+corrupt		**sound:animations/Stand/Waiting/KnockEye_1
+are_remembered_by	***animations/Stand/Waiting/ScratchHead_1	
+are_recalled_by		***animations/Stand/Waiting/ScratchHead_1
+drink_with	***animations/Stand/Waiting/Drink_1	
+challenge	**animations/Stand/Waiting/KungFu_1, *animations/Stand/Gestures/Thinking_4	
+are_challenged_by	**animations/Stand/Waiting/KungFu_1	
+are_venerated_by		***animations/Stand/Waiting/ShowSky_1, ***animations/Stand/Gestures/ShowSky_12
+_are_heckled_by	**sound:animations/Stand/Waiting/Taxi_1	
+identify_with	***animations/Stand/Gestures/Me_7, *animations/Stand/Gestures/Me_1, **animations/Stand/Gestures/Me_8, ***animations/Stand/Gestures/Me_2, ***animations/Stand/Gestures/Me_6	
+lend_to	***animations/Stand/BodyTalk/Speaking/BodyTalk_6, **animations/Stand/Gestures/Thinking_7, *animations/Stand/Gestures/This_15, **animations/Stand/Gestures/WhatSThis_2, **animations/Stand/Gestures/Give_2, ***animations/Stand/Gestures/Give_5	**animations/Stand/Gestures/Me_7, *animations/Stand/Gestures/Me_8
+fool	*animations/Stand/Gestures/JointHands_3	
+are_released_by	**animations/Stand/BodyTalk/Speaking/BodyTalk_17, ***animations/Stand/Waiting/HideHands_1, **animations/Stand/Gestures/Give_3, **animations/Stand/Gestures/Confused_1	**animations/Stand/Gestures/WhatSThis_6, **animations/Stand/Gestures/Give_1, ***animations/Stand/Gestures/Joy_1, ***animations/Stand/Gestures/CountMore_2, *animations/Stand/Gestures/No_7, **animations/Stand/Gestures/ShowFloor_5, **animations/Stand/Gestures/ShowFloor_1
+sacrifice_to	*animations/Stand/Gestures/WhatSThis_6, **animations/Stand/Gestures/ShowSky_2, **animations/Stand/Gestures/WhatSThis_2, *animations/Stand/Gestures/This_10	
+appeal_to	**animations/Stand/Gestures/ShowSky_12, **animations/Stand/Gestures/WhatSThis_14, **animations/Stand/Gestures/Explain_4, **animations/Stand/Gestures/ShowSky_3, *animations/Stand/Gestures/ShowSky_2, **animations/Stand/Gestures/Explain_1, *animations/Stand/Gestures/This_3, **animations/Stand/Gestures/Explain_7	
+speak_through	**animations/Stand/Gestures/ShowSky_12, **animations/Stand/Gestures/This_1	
+settle_with	***animations/Stand/Gestures/Everything_4, ***animations/Stand/Gestures/CalmDown_4, ***animations/Stand/Gestures/CalmDown_1, ***animations/Stand/Gestures/Everything_6, ***animations/Stand/Gestures/CalmDown_3, *animations/Stand/Gestures/Everything_1, ***animations/Stand/Gestures/Claw_1, **animations/Stand/Gestures/Everything_5	
+dismiss	**animations/Stand/Gestures/Everything_4, **animations/Stand/Gestures/No_1, *animations/Stand/Gestures/Reject_1, **animations/Stand/Gestures/This_13, **animations/Stand/Gestures/No_3, *animations/Stand/Gestures/Everything_6, **animations/Stand/Gestures/No_9, *animations/Stand/Gestures/Nothing_2, **animations/Stand/Gestures/Everything_1, ***animations/Stand/Gestures/Reject_6	
+are_dismissed_by	***animations/Stand/Gestures/Reject_6	**animations/Stand/Gestures/Everything_4, **animations/Stand/Gestures/No_1, *animations/Stand/Gestures/Reject_1, **animations/Stand/Gestures/This_13, **animations/Stand/Gestures/No_3, *animations/Stand/Gestures/Everything_6, **animations/Stand/Gestures/No_9, *animations/Stand/Gestures/Nothing_2, **animations/Stand/Gestures/Everything_1
+seek_advice_from	*animations/Stand/Gestures/Explain_11, *animations/Stand/Gestures/WhatSThis_14, **animations/Stand/Gestures/ShowSky_3, **animations/Stand/Gestures/Confused_2	
+complain_to	*animations/Stand/Gestures/Explain_11, *animations/Stand/Gestures/WhatSThis_15	
+mate_with	*animations/Stand/Gestures/Yum_1, ***animations/Stand/Gestures/Angry_2	
+sleep_with	*animations/Stand/Gestures/Yum_1, ***animations/Stand/Gestures/Angry_2	
+are_deflowered_by	*animations/Stand/Gestures/Yum_1	
+conquer	*animations/Stand/Gestures/Far_3, **animations/Stand/Gestures/ShowSky_5	
+are_conquered_by		*animations/Stand/Gestures/Far_3, **animations/Stand/Gestures/ShowSky_5
+argue_before	**animations/Stand/Gestures/Explain_8, **animations/Stand/Gestures/WhatSThis_14, **animations/Stand/Gestures/This_8, *animations/Stand/Gestures/This_14, *animations/Stand/Gestures/Choice_2	
+communicate_through	*animations/Stand/Gestures/Explain_8, **animations/Stand/Gestures/This_1	
+communicate_via	*animations/Stand/Gestures/Explain_8, **animations/Stand/Gestures/This_1	
+eject	**animations/Stand/Gestures/Reject_5, **animations/Stand/Gestures/Give_4	
+are_ejected_by		**animations/Stand/Gestures/Reject_5, **animations/Stand/Gestures/Give_4
+supplant	**animations/Stand/Gestures/Reject_5	
+are_supplanted_by		**animations/Stand/Gestures/Reject_5
+inherit_from	*animations/Stand/Gestures/Reject_5, *animations/Stand/Gestures/Next_1, *animations/Stand/Gestures/Give_5, **animations/Stand/Gestures/CountThree_1, **animations/Stand/Gestures/CountThree_2	
+take_aim_at	*animations/Stand/Gestures/CalmDown_6, *animations/Stand/Gestures/You_1, *animations/Stand/Gestures/You_2	
+target	*animations/Stand/Gestures/CalmDown_6, *animations/Stand/Gestures/You_1, *animations/Stand/Gestures/You_2	
+are_targeted_by		*animations/Stand/Gestures/CalmDown_6, *animations/Stand/Gestures/You_1, *animations/Stand/Gestures/You_2
+respect	**animations/Stand/Gestures/Salute_3, **animations/Stand/Gestures/WhatSThis_1, *animations/Stand/Gestures/BowShort_1	
+are_respected_by	**animations/Stand/Gestures/WhatSThis_1	**animations/Stand/Gestures/Salute_3, *animations/Stand/Gestures/BowShort_1
+owe	*animations/Stand/Gestures/Thinking_7, ***animations/Stand/Gestures/Coaxing_1, **animations/Stand/Gestures/Me_6, ***animations/Stand/Gestures/Me_5, ***animations/Stand/Gestures/Me_4	
+are_owed_by		*animations/Stand/Gestures/Thinking_7, ***animations/Stand/Gestures/Coaxing_1, **animations/Stand/Gestures/Me_6, ***animations/Stand/Gestures/Me_5, ***animations/Stand/Gestures/Me_4
+are_spurned_by		***iconic_actions-4373e0/spurn
+spurn	***iconic_actions-4373e0/spurn	
+are_blessed_by		***animations/Stand/Gestures/ShowSky_8, *animations/Stand/Gestures/ShowSky_4
+design_for	**animations/Stand/Gestures/ShowSky_8	
+starve	***iconic_actions-4373e0/starve	**animations/Stand/Gestures/Hungry_1, **animations/Stand/Gestures/Freeze_1
+kiss_up_to	***iconic_actions-4373e0/kiss,***animations/Stand/Gestures/Kisses_1	
+are_kissed_by		***iconic_actions-4373e0/kiss,***animations/Stand/Gestures/Kisses_1
+massage	**animations/Stand/Gestures/Please_3, **animations/Stand/Gestures/Caress_2, ***animations/Stand/Gestures/Claw_2, *animations/Stand/Gestures/Caress_1	
+are_scripted_by		*animations/Stand/Gestures/Please_3, ***animations/Stand/Gestures/Claw_2
+are_introduced_by	**animations/Stand/Gestures/Hey_5, **animations/Stand/Gestures/Hey_2, **animations/Stand/Gestures/Me_3, **animations/Stand/Gestures/Hey_4	***animations/Stand/Gestures/Far_1, **animations/Stand/Gestures/Far_2, *animations/Stand/Gestures/This_12, **animations/Stand/Gestures/WhatSThis_1
+spy_on	**animations/Stand/Gestures/Surprised_1, **animations/Stand/Gestures/Look_2	
+export_to	***animations/Stand/Gestures/Give_4	
+travel_with	*animations/Stand/Gestures/Wings_4	
+imitate	**animations/Stand/Gestures/Mime_1, **animations/Stand/Gestures/Wings_1, **animations/Stand/Gestures/Mime_2	
+are_imitated_by		**animations/Stand/Gestures/Mime_1, **animations/Stand/Gestures/Wings_1, **animations/Stand/Gestures/Mime_2
+listen_to	*animations/Stand/Emotions/Neutral/Innocent_1	**animations/Stand/Gestures/Explain_4
+talk_to	**animations/Stand/Gestures/Explain_4	
+speak_with	**animations/Stand/Gestures/Explain_4	
+communicate_with	**animations/Stand/Gestures/Explain_4	
+speak_to	**animations/Stand/Gestures/Explain_4	
+debrief	**animations/Stand/Gestures/Explain_4	
+chat_with	**animations/Stand/Gestures/Explain_4	
+reward	*animations/Stand/Gestures/ShowSky_3	
+are_rewarded_by		*animations/Stand/Gestures/ShowSky_3
+disrespect	***animations/Stand/BodyTalk/Speaking/BodyTalk_13, **animations/Stand/Gestures/But_1	**animations/Stand/Gestures/Angry_3
+offend	***animations/Stand/BodyTalk/Speaking/BodyTalk_13, **animations/Stand/Gestures/But_1	**animations/Stand/Gestures/Angry_3
+struggle_against	**animations/Stand/Gestures/Angry_3	
+struggle_with	**animations/Stand/Gestures/Angry_3	
+are_dumped_by	*animations/Stand/Gestures/Angry_3, *animations/Stand/Gestures/This_9, *animations/Stand/Gestures/Angry_1	
+dump	*animations/Stand/Gestures/This_9, **animations/Stand/Gestures/Reject_1, ***animations/Stand/Gestures/Reject_4, **animations/Stand/Gestures/Reject_6, *animations/Stand/Gestures/Angry_1	*animations/Stand/Gestures/Angry_3
+dress		**animations/Stand/Gestures/Wings_1
+speak_for	**animations/Stand/Gestures/This_1	
+are_named_by	***animations/Stand/Gestures/Me_3	*animations/Stand/Gestures/This_1
+farm_for	*animations/Stand/Gestures/CountTwo_1	
+let_go_of	**animations/Stand/Gestures/This_9, *animations/Stand/Gestures/Desperate_2, **animations/Stand/Gestures/WhatSThis_4, **animations/Stand/Gestures/No_3, **animations/Stand/Gestures/WhatSThis_5, **animations/Stand/Gestures/WhatSThis_1, *animations/Stand/Gestures/No_7, *animations/Stand/Gestures/This_10, **animations/Stand/Gestures/ShowFloor_5, **animations/Stand/Gestures/Reject_6, **animations/Stand/Gestures/ShowFloor_1	
+advocate_for	*animations/Stand/Gestures/Far_2, **animations/Stand/Gestures/Explain_9	
+represent	***animations/Stand/Gestures/Me_2, ***animations/Stand/Gestures/Me_6, **animations/Stand/Gestures/Me_5, **animations/Stand/Gestures/Me_4	
+are_represented_by		***animations/Stand/Gestures/Me_2, ***animations/Stand/Gestures/Me_6, **animations/Stand/Gestures/Me_5, **animations/Stand/Gestures/Me_4
+cast_out	**animations/Stand/Gestures/Caress_2, ***animations/Stand/Gestures/Reject_4, **animations/Stand/Gestures/ShowSky_6	
+write_about	**animations/Stand/Gestures/Claw_2, ***animations/Stand/Gestures/Follow_1	
+are_published_by		**animations/Stand/Gestures/Claw_2
+write_to	**animations/Stand/Gestures/Claw_2, ***animations/Stand/Gestures/Follow_1	
+are_toppled_by	*animations/Stand/Waiting/Stretch_3, **animations/Stand/Gestures/This_2	**animations/Stand/Gestures/Take_1
+subdue	**animations/Stand/Gestures/Take_1	
+are_subdued_by		**animations/Stand/Gestures/Take_1
+despise	**animations/Stand/Gestures/Thinking_3, *animations/Stand/Gestures/YouKnowWhat_2, **animations/Stand/Gestures/No_6, **animations/Stand/Gestures/Desperate_5, **animations/Stand/Gestures/Desperate_1, ***animations/Stand/Gestures/Desperate_3	
+are_despised_by		**animations/Stand/Gestures/Thinking_3, *animations/Stand/Gestures/YouKnowWhat_2, **animations/Stand/Gestures/No_6, **animations/Stand/Gestures/Desperate_5, **animations/Stand/Gestures/Desperate_1, ***animations/Stand/Gestures/Desperate_3
+deceive	***iconic_actions-4373e0/deceive,**animations/Stand/Gestures/Hide_1	
+are_deceived_by		***iconic_actions-4373e0/deceive,**animations/Stand/Gestures/Hide_1
+are_rebuffed_by	**animations/Stand/Reactions/SeeSomething_7, *animations/Stand/Gestures/Angry_3, **animations/Stand/Gestures/No_9	**animations/Stand/Gestures/No_1, **animations/Stand/Gestures/This_13, **animations/Stand/Gestures/No_3, ***animations/Stand/Gestures/Reject_4
+pamper	***animations/Stand/Gestures/Caress_1	
+tend	**animations/Stand/Gestures/Caress_1	
+are_tended_by		**animations/Stand/Gestures/Caress_1
+care_for	**animations/Stand/Gestures/Caress_1	
+are_cared_for_by		**animations/Stand/Gestures/Caress_1
+break_with	**animations/Stand/Gestures/IDontKnow_5, **animations/Stand/Gestures/No_3	
+are_uncovered_by	**sound:animations/Stand/Emotions/Negative/Fear_2, **sound:animations/Stand/Emotions/Negative/Surprise_1, *sound:animations/Stand/Emotions/Negative/Fear_1, *sound:animations/Stand/Emotions/Negative/Surprise_3, *sound:animations/Stand/Emotions/Negative/Surprise_2, **animations/Stand/Emotions/Neutral/Cautious_1, *animations/Stand/Gestures/Everything_3	*animations/Stand/Gestures/IDontKnow_5
+are_rebuked_by	**animations/Stand/Reactions/SeeSomething_7	*animations/Stand/Gestures/ShowFloor_2, **animations/Stand/Gestures/This_5, **animations/Stand/Gestures/No_9, ***animations/Stand/Gestures/No_4, *animations/Stand/Gestures/YouKnowWhat_3, **animations/Stand/Gestures/YouKnowWhat_6
+appoint	*animations/Stand/Gestures/This_5, **animations/Stand/Gestures/You_1, **animations/Stand/Gestures/You_2	
+are_appointed_by	**animations/Stand/Gestures/You_1, **animations/Stand/Gestures/You_2	*animations/Stand/Gestures/This_5
+are_dumped_by	*animations/Stand/Gestures/Angry_3, *animations/Stand/Gestures/This_9, *animations/Stand/Gestures/Angry_1	**animations/Stand/Gestures/Reject_1, ***animations/Stand/Gestures/Reject_4, **animations/Stand/Gestures/Reject_6
+raise	**animations/Stand/Gestures/ShowSky_7	
+are_raised_by	**animations/Stand/Gestures/ShowSky_7	
+nurture	**animations/Stand/Gestures/ShowSky_7	
+are_nurtured_by	**animations/Stand/Gestures/ShowSky_7	
+run_away_from	**animations/Stand/Gestures/Enthusiastic_5	
+supply_to	**animations/Stand/Gestures/WhatSThis_2	
+preach_to	**animations/Stand/Gestures/YouKnowWhat_5, **animations/Stand/Gestures/ShowSky_11, *animations/Stand/Gestures/JointHands_1, **animations/Stand/Gestures/ShowSky_1	
+lose_favor_with		**animations/Stand/Gestures/No_3, **animations/Stand/Gestures/No_6, **animations/Stand/Gestures/Desperate_3
+order_from	**animations/Stand/Gestures/This_3	
+are_disillusioned_by	*animations/Stand/Reactions/EthernetOff_1, *sound:animations/Stand/Emotions/Negative/Exhausted_2, *animations/Stand/Emotions/Negative/Exhausted_1, *animations/Stand/Gestures/Angry_3, *animations/Stand/Gestures/WhatSThis_13	**animations/Stand/Gestures/Hey_6
+leak_to	**animations/Stand/Gestures/Give_1, **animations/Stand/Gestures/Joy_1, **animations/Stand/Gestures/Give_5	
+are_freed_by	**animations/Stand/BodyTalk/Speaking/BodyTalk_17, ***animations/Stand/Waiting/HideHands_1, **animations/Stand/Gestures/Give_3, **animations/Stand/Gestures/Confused_1	**animations/Stand/Gestures/Give_1, ***animations/Stand/Gestures/Joy_1, ***animations/Stand/Gestures/CountMore_2, **animations/Stand/Gestures/ShowFloor_5, **animations/Stand/Gestures/ShowFloor_1
+are_rewarded_with		*animations/Stand/Gestures/Give_1
+are_expelled_by		*animations/Stand/Gestures/Give_1, ***animations/Stand/Gestures/Reject_4, **animations/Stand/Gestures/ShowSky_6
+handle	*animations/Stand/Gestures/ShowFloor_3	
+are_handled_by		*animations/Stand/Gestures/ShowFloor_3
+deal_with	*animations/Stand/Gestures/ShowFloor_3	
+are_chosen_by		***animations/Stand/Gestures/You_1, ***animations/Stand/Gestures/You_2, **animations/Stand/Gestures/You_3, **animations/Stand/Gestures/You_4
+cheat	*animations/Stand/Gestures/Excited_1	
+are_cheated_by		*animations/Stand/Gestures/Excited_1
+cheat_on	*animations/Stand/Gestures/Excited_1	
+cheat_with	*animations/Stand/Gestures/Excited_1	
+pray_for	*animations/Stand/Gestures/ShowSky_9, *animations/Stand/Gestures/JointHands_1, **animations/Stand/Gestures/ShowSky_10	
+worship_with	*animations/Stand/Gestures/ShowSky_9, **animations/Stand/Gestures/ShowSky_10	
+worship	*animations/Stand/Gestures/ShowSky_9, **animations/Stand/Gestures/ShowSky_11, **animations/Stand/Gestures/ShowSky_1, **animations/Stand/Gestures/ShowSky_10	
+are_worshipped_by	*animations/Stand/Gestures/ShowSky_9, **animations/Stand/Gestures/ShowSky_10	
+pray_to	*animations/Stand/Gestures/ShowSky_9, **animations/Stand/Gestures/ShowSky_11, *animations/Stand/Gestures/JointHands_1, **animations/Stand/Gestures/ShowSky_1, **animations/Stand/Gestures/ShowSky_10	
+pray_with	*animations/Stand/Gestures/ShowSky_9, *animations/Stand/Gestures/JointHands_1, **animations/Stand/Gestures/ShowSky_10	
+are_retained_by		**animations/Stand/Gestures/JointHands_2
+answer_to	*animations/Stand/Gestures/Give_2	
+answer	*animations/Stand/Gestures/Give_2	
+are_answered_by		*animations/Stand/Gestures/Give_2
+ask_questions_for	**animations/Stand/Gestures/WhatSThis_11	
+answer_questions_from		**animations/Stand/Gestures/WhatSThis_11
+are_challenged_by	**animations/Stand/Waiting/KungFu_1	*animations/Stand/Gestures/Thinking_4
+promote	***animations/Stand/Emotions/Positive/Excited_2, **animations/Stand/Gestures/ShowSky_11, *animations/Stand/Gestures/ShowSky_1	**animations/Stand/Gestures/Salute_1
+renounce	*animations/Stand/Gestures/Reject_3	
+lease_to	***animations/Stand/Gestures/Give_5	
+lease_from		***animations/Stand/Gestures/Give_5
+rent_to	***animations/Stand/Gestures/Give_5	
+rent_from		***animations/Stand/Gestures/Give_5
+descend_from	*animations/Stand/Gestures/Give_5, **animations/Stand/Gestures/CountThree_2	
+are_roused_by	**animations/Stand/Gestures/Stretch_2	
+rouse		**animations/Stand/Gestures/Stretch_2
+break_up_with	**animations/Stand/Gestures/Nothing_1, **animations/Stand/Gestures/Everything_1, **animations/Stand/Gestures/Everything_3	
+divorce	**animations/Stand/Gestures/Nothing_1, **animations/Stand/Gestures/Everything_3	
+are_divorced_by		**animations/Stand/Gestures/Nothing_1, **animations/Stand/Gestures/Everything_3
+are_defeated_by	**animations/Stand/BodyTalk/Speaking/BodyTalk_17, ***animations/Stand/Reactions/Heat_2, ***animations/Stand/Reactions/Heat_1, *animations/Stand/Gestures/Everything_1	*animations/Stand/Gestures/Nothing_1
+rank	*animations/Stand/Gestures/CountFour_1	
+accuse	***animations/Stand/Gestures/You_3, **animations/Stand/Gestures/You_4	
+are_accused_by		***animations/Stand/Gestures/You_3, **animations/Stand/Gestures/You_4
+destroy	***animations/Stand/Gestures/Nothing_2, ***animations/Stand/Gestures/Everything_1	
+are_marketed_by	**animations/Stand/Gestures/Thinking_1	
+execute	***iconic_actions-4373e0/kill,*animations/Stand/Gestures/Everything_1	
+are_denounced_by	**animations/Stand/Reactions/Heat_2, **animations/Stand/Reactions/Heat_1, ***animations/Stand/Emotions/Negative/Bored_1, ***animations/Stand/Emotions/Negative/Bored_2, **sound:animations/Stand/Emotions/Negative/Exhausted_2, **animations/Stand/Emotions/Negative/Exhausted_1	**animations/Stand/Gestures/No_4
+sue	**animations/Stand/Gestures/No_4	
+are_sued_by		**animations/Stand/Gestures/No_4
+countersue	**animations/Stand/Gestures/No_4	
+pander_to	**animations/Stand/Gestures/YouKnowWhat_3	
+overcome	*animations/Stand/Gestures/Everything_5	
+are_worshipped_by	*animations/Stand/Gestures/ShowSky_9, **animations/Stand/Gestures/ShowSky_10	**animations/Stand/Gestures/ShowSky_11, **animations/Stand/Gestures/ShowSky_1
+repay	*animations/Stand/Gestures/CountOne_2	
+are_repaid_by		*animations/Stand/Gestures/CountOne_2
+entice	***animations/Stand/Gestures/ComeOn_1	
+are_enticed_by		***animations/Stand/Gestures/ComeOn_1
+woo	***animations/Stand/Gestures/ComeOn_1	
+are_wooed_by		***animations/Stand/Gestures/ComeOn_1
+dominate	**animations/Stand/Gestures/ComeOn_1	
+are_dominated_by		**animations/Stand/Gestures/ComeOn_1
+fail_to_reward	*animations/Stand/Gestures/WhatSThis_16, ***animations/Stand/Gestures/IDontKnow_1	
+oppress	**animations/Stand/Gestures/Reject_2	
+are_oppressed_by		**animations/Stand/Gestures/Reject_2
+suppress	**animations/Stand/Gestures/Reject_2	
+are_suppressed_by		**animations/Stand/Gestures/Reject_2
+subjugate	*animations/Stand/Gestures/Reject_2	
+are_subjugated_by		*animations/Stand/Gestures/Reject_2
+are_abandoned_by	**sound:animations/Stand/Emotions/Negative/Sad_1, **animations/Stand/Emotions/Neutral/Innocent_1, ***animations/Stand/Emotions/Neutral/Lonely_1	**animations/Stand/Gestures/IDontKnow_4
+are_failed_by		**animations/Stand/Gestures/IDontKnow_1
+hate	**animations/Stand/Gestures/Angry_1	

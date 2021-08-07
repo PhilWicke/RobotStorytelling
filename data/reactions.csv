@@ -1,0 +1,822 @@
+Action	Normative Form	A - Emotional Reaction	B - Emotional Reaction
+are_trusted_by	B trusted A 	2	1
+are_disrespected_by	B disrespected A	-4	0
+condescend_to	A condescended to B	0	-3
+are_deceived_by	B deceived A	-3	0
+disappoint	A disappointed B	0	-3
+fall_in_love_with	A fell in love with B	4	0
+are_feared_by	B feared A	0	-4
+are_impressed_by	B impressed A	3	0
+are_impressed_with	A was impressed with B	3	0
+are_pushed_too_far_by	B pushed too hard on A	-2	0
+steal_from	A stole from B	0	-3
+are_bored_by	B bored A	-2	0
+are_worshipped_by	B worshipped A	4	2
+are_exploited_by	B exploited A	-4	0
+fail_to_deliver_for	A failed to deliver for B	-2	-3
+kill	A killed B	0	-5
+are_ignored_by	B ignored A	-3	0
+spread_lies_about	A spread lies about B	0	-3
+are_underpaid_by	B underpaid A	-3	0
+beg_forgiveness_from	A begged forgiveness from B	1	2
+cede_power_to	A ceded power to B	1	3
+underestimate	A underestimated B	0	-2
+are_betrayed_by	B betrayed A	-4	0
+are_disgusted_by	B disgusted A	-4	0
+are_cheated_by	B cheated A	-4	0
+are_humiliated_by	B humiliated A	-5	0
+are_lectured_by	B lectured A	0	0
+are_respected_by	B respected A	3	0
+are_sued_by	B sued A	-3	0
+seek_forgiveness_from	A sought forgiveness from B	1	2
+manipulate	A manipulated B	0	-1
+turn_against	A turned against B	-3	-4
+are_bought_off_by	B bought off A	2	0
+are_upstaged_by	B upstaged A	-3	0
+testify_against	A testified against B	0	-3
+are_unimpressed_by	B unimpressed A	-1	0
+are_moved_by	B moved A	0	4
+are_denounced_by	B denounced A	-4	0
+are_seduced_by	B seduced A	2	0
+lead_astray	A misled B 	0	-3
+are_insulted_by	B insulted A	-4	0
+are_blackmailed_by	B blackmailed A	-4	0
+are_beaten_by	B beat A	-5	-2
+are_corrupted_by	B corrupted A	-4	-2
+are_underappreciated_by	B underappreciated A	-3	0
+indoctrinate	A indoctrinated B	0	-2
+impress	A impressed B	3	4
+lie_to	A lied to B	0	-2
+show_loyalty_to	A showed loyalty to B	3	3
+stand_up_to	A stood up to B	0	-3
+are_attacked_by	B attacked A	-5	-2
+are_obeyed_by	B obeyed A	3	0
+are_pursued_by	B pursued A	-2	0
+are_rebuffed_by	B rebuffed A	-4	-2
+attack	A attacked B	-2	-5
+disagree_with	A disagreed with B	-2	-3
+identify_with	A identified with B	2	3
+sleep_with	A slept with B	4	4
+are_inspired_by	B inspired A	4	3
+are_manipulated_by	B manipulated A	-1	0
+are_threatened_by	B threatened A	-4	-3
+campaign_against	A campaigned against B	-2	-3
+inspire	A inspired B	3	4
+are_disillusioned_by	B disillusioned A	-3	0
+are_mocked_by	B mocked A	-4	0
+are_shocked_by	B shocked A	-5	0
+insult	A insulted B	0	-4
+spy_on	A spied on B	0	-3
+are_rewarded_by	B rewarded A	4	2
+trust	A trusted B	1	2
+are_abandoned_by	B abandoned A	-4	0
+are_flattered_by	B flattered A	4	2
+blackmail	A blackmailed B	0	-4
+lick_up_to	A licked up to B	2	3
+sue	A sued B	0	-3
+are_dumped_by	B dumped A	-4	0
+are_resisted_by	B resisted A	2	-2
+deceive	A deceived B	0	-3
+humiliate	A humiliated B	0	-5
+kiss_up_to	A kissed up to B	3	4
+lay_a_trap_for	A laid a trap for B	0	-4
+profit_from	A profited from B	2	-2
+are_arrested_for_killing	A was arrested for killing B	-3	-5
+are_bitten_by	B bit A	-4	0
+are_despised_by	B despised A	-3	-4
+are_favored_by	B favored A	4	3
+are_misrepresented_by	B misrepresented A	-3	0
+learn_from	A learned much from B	4	2
+marry	A married B	5	5
+settle_with	A reached a settlement with B	3	3
+are_haunted_by	B haunted A	-4	0
+are_spurned_by	B spurned A	-4	-2
+argue_with	A argued with B	-1	-1
+criticize	A criticized B	-1	-2
+dump	A dumped B	0	-4
+run_away_from	A ran away from B	-2	-3
+surrender_to	A surrendered to B	-2	2
+alienate	A alienated B	0	-3
+are_arrested_for_hurting	A was arrested for hurting B	-3	-4
+fail_to_impress	A failed to impress B	-2	-2
+threaten	A threatened B	-3	-4
+are_fired_by	B fired A	-4	-1
+bow_down_to	A bowed down to B	1	3
+curry_favor_with	A curried favor with B	0	2
+disgust	A disgusted B	0	-4
+listen_to	A listened to B	0	2
+lose_faith_in	A lost faith in B	-3	-2
+misrepresent	A misrepresented the intentions of B	0	-3
+take_advantage_of	A took advantage of B	2	-3
+work_for	A worked for B	2	2
+are_dismissed_by	B dismissed A	-3	-1
+are_tricked_by	B tricked A	-3	0
+are_underestimated_by	B underestimated A	-2	0
+escape_from	A escaped from B	1	-3
+look_up_to	A looked up to B	3	3
+pay_off	A paid off B	-1	2
+resent	A resented B	-4	-3
+worship	A worshipped B	2	4
+are_killed_by	B killed A	-5	0
+are_promoted_by	B promoted A	3	3
+are_stalked_by	B stalked A	-3	0
+are_taunted_by	B taunted A	-4	0
+betray	A betrayed B	0	-4
+pander_to	A pandered to B	1	3
+rise_against	A rose up against B	0	-4
+abuse	A abused B	0	-4
+are_concerned_about	A was concerned about B	-1	1
+are_pitied_by	B pitied A	2	-1
+eject	A ejected B	-1	-3
+hate	A hated B	-4	-2
+pine_for	A pined for B	4	0
+promote	A promoted B	3	3
+silence	A silenced B	-2	-3
+sympathize_with	A sympathized with B	3	3
+undermine	A undermined B	-1	-3
+are_brainwashed_by	B brainwashed A	-2	0
+are_entertained_by	B entertained A	3	2
+cheat	A cheated B	0	-4
+exploit	A exploited B	0	-4
+flirt_with	A flirted with B	3	4
+are_abused_by	B abused A	-4	0
+are_attracted_by	B attracted A	4	3
+are_cursed_by	B cursed A	-4	-3
+are_defeated_by	B defeated A	-5	3
+are_disappointed_by	B disappointed A	-3	0
+are_distrusted_by	B distrusted A	-3	-3
+are_embarrassed_by	A was embarrassed by B	-3	-2
+are_indoctrinated_by	B indoctrinated A	-2	0
+are_toppled_by	B toppled A	-4	2
+break_with	A broke with B	-3	-3
+bribe	A bribed B	0	-3
+disrespect	A disrespected B	0	-4
+fear	A feared B	-4	0
+fight_against	A fought against B	-4	-4
+hide_from	A hid from B	-2	-1
+lose_control_over	A lost control over B	-4	2
+obey	A obeyed B	0	3
+praise	A praised B	3	4
+refuse_to_pay	A refused to pay B	-2	-3
+release	A released B	2	3
+stalk	A stalked B	0	-3
+subjugate	A subjugated B	-1	-4
+are_chastised_by	B chastised A	-5	-3
+are_disfigured_by	B disfigured A	-4	0
+are_forgotten_by	B forgot A	-3	0
+believe_in	A believed in B	3	3
+break_free_of	A broke free of B	3	-2
+chastise	A chastised B	-3	-5
+disfigure	A disfigured B	0	-4
+obtain_sympathy_from	A obtained sympathy from B	3	3
+punish	A punished B	-2	-4
+suck_up_to	A sucked up to B	1	3
+take_up_with	A took up with B	-2	-3
+appeal_to	A appealed to B	0	1
+are_driven_mad_by	B drove A mad	-5	0
+are_hardened_by	A hardened toward B	-3	0
+are_incarcerated_by	B incarcerated A	-4	-1
+confide_in	A confided in B	3	3
+flatter	A flattered B	2	4
+interview	A interviewed B	1	1
+let_in	A opened up to B	3	3
+repay	A fully repaid B	0	3
+serve	A served B	2	3
+support	A supported B	3	4
+upstage	A upstaged B	0	-3
+appoint	A appointed B	1	3
+are_banished_by	B banished A	-5	-3
+are_copied_by	B copied A	-1	0
+are_deflowered_by	B deflowered A	4	4
+are_eluded_by	B eluded A	-3	-2
+are_forgiven_by	B forgave A	3	3
+are_heckled_by	B heckled A	-3	-3
+are_intrigued_by	B intrigued A	4	0
+are_recalled_by	B recalled A	2	1
+are_ruled_by	B ruled A	-2	2
+buy_off	A bought off B	1	-1
+denounce	A denounced B	0	-4
+fire	A fired B	-1	-4
+hire	A hired B	2	3
+imitate	A imitated B	0	-1
+labor_for	A labored for B	0	3
+negotiate_with	A negotiated with B	1	1
+observe	A observed B	0	-1
+overwork	A overworked B	0	-3
+seek_advice_from	A sought advice from B	2	3
+are_divorced_by	B divorced A	-4	-3
+are_enslaved_by	B enslaved A	-5	0
+are_interviewed_by	B interviewed A	1	1
+are_molded_by	B molded A	1	1
+are_unimpressed_with	A was unimpressed with B	-1	-2
+cheat_on	A cheated on B	0	-4
+coach	A coached B	3	3
+confer_with	A conferred with B	2	2
+die_for	A died for B	-5	5
+divorce	A divorced B	-3	-4
+elude	A eluded B	-2	-3
+enslave	A enslaved B	0	-5
+feel_sorry_for	A felt sorry for B	1	3
+grow_suspicious_of	A grew suspicious of B	-2	0
+heckle	A heckled B	-3	-3
+kill_for	A killed for B	0	2
+mock	A mocked B	0	-4
+sacrifice_to	A sacrificed to B	2	3
+summon	A summoned B	1	2
+take_aim_at	A took aim at B	-2	-2
+track_down	A traced a path to B	0	-2
+welcome	A welcomed B	2	3
+work_with	A worked with B	2	2
+abandon	A abandoned B	0	-4
+are_abducted_by	B abducted A	-4	0
+are_appointed_by	B appointed A	3	1
+are_censured_by	B censured A	-3	-2
+are_challenged_by	B challenged A	-2	0
+are_criticized_by	B criticized A	-2	-1
+are_found_by	B found A	0	2
+are_imitated_by	B imitated A	-1	0
+are_mistaken_for	A was mistaken for B	-3	0
+are_scolded_by	B scolded A	-4	-3
+are_silenced_by	B silenced A	-3	-2
+are_snatched_by	B snatched A	-3	1
+are_supplanted_by	B supplanted A	-4	2
+are_uncovered_by	B uncovered A	-3	2
+commit_to	A made a firm commitment to B	3	4
+condemn	A condemned B	-2	-4
+conspire_with	A conspired with B	2	2
+date	A dated B	3	3
+destroy	A destroyed B	1	-5
+dismiss	A dismissed B	-1	-3
+disobey	A disobeyed B	0	-4
+enchant	A enchanted B	3	4
+entertain	A entertained B	2	3
+favor	A favored B	3	4
+interrogate	A interrogated B	0	-2
+overthrow	A overthrew B	0	-4
+pray_to	A prayed to B	2	3
+pursue	A pursued B	0	-2
+rule_over	A ruled over B	2	-2
+sacrifice	A sacrificed B	0	-5
+save	A saved B	1	5
+starve	A starved B	0	-4
+testify_for	A testified for B	0	4
+tune_out	A tuned out B	-1	-3
+admire	A admired B	2	3
+advise	A advised B	0	3
+are_begged_by	B begged A	-1	-1
+are_coached_by	B coached A	3	3
+are_cut_off_by	B cut off A	-4	0
+are_deposed_by	B deposed A	-4	0
+are_disobeyed_by	B disobeyed A	-4	0
+are_ejected_by	B ejected A	-3	-1
+are_escorted_by	B escorted A	3	2
+are_evaluated_by	B evaluated A	-1	0
+are_handled_by	B handled A	1	1
+are_hired_by	B hired A	3	2
+are_imprisoned_by	B imprisoned A	-4	0
+are_investigated_by	B investigated A	-2	0
+are_mistreated_by	B mistreated A	-4	0
+are_recruited_by	B recruited A	3	2
+are_released_by	B released A	3	2
+are_saved_by	B saved A	5	1
+are_shielded_by	B shielded A	4	2
+are_sought_by	B sought A	2	0
+are_welcomed_by	B welcomed A	3	2
+campaign_for	A campaigned for B	1	4
+catch	A caught B	0	-2
+compete_against	A competed against B	-2	-2
+compete_with	A competed with B	-2	-2
+complain_to	A complained to B	-2	-2
+control	A controlled B	0	-2
+diagnose	A diagnosed B	0	-1
+enlist	A enlisted B	0	2
+fail_to_reward	A failed to reward B	0	-3
+follow	A followed B	0	-1
+let_go_of	A let go of B	0	-3
+lie_for	A lied for B	-2	3
+lose_favor_with	A lost favor with B	-2	-3
+mimic	A mimicked B	0	-3
+rescue	A rescued B	1	5
+respect	A respected B	0	3
+rule	A ruled B	2	-2
+search_for	A searched for B	0	0
+sign_up	A signed up B	0	2
+talk_to	A talked to B	1	1
+taunt	A taunted B	0	-4
+torture	A tortured B	-1	-5
+travel_with	A traveled with B	2	2
+trick	A tricked B	0	-3
+vote_for	A voted for B	2	3
+watch_over	A watched over B	1	2
+are_advised_by	B advised A	3	0
+are_booed_by	B booed A	-4	-2
+are_captured_by	B captured A	-3	0
+are_charmed_by	B charmed A	4	2
+are_chosen_by	B chose A	3	0
+are_detained_by	B detained A	-4	0
+are_excommunicated_by	B excommunicated A	-3	-2
+are_expelled_by	B expelled A	-3	-2
+are_freed_by	B freed A	4	3
+are_funded_by	B funded A	4	2
+are_intimidated_by	B intimidated A	-4	-3
+are_kissed_by	B kissed A	5	4
+are_photographed_by	B photographed A	0	0
+are_protected_by	B protected A	5	2
+are_punished_by	B punished A	-4	-2
+attract	A attracted B	3	4
+break_up_with	A broke up with B	-2	-4
+brief_against	A briefed against B	0	-2
+capture	A captured B	0	-3
+counsel	A counseled B	0	3
+cry_for	A cried for B	-3	2
+defeat	A defeated B	3	-5
+dominate	A dominated B	2	-4
+drink_with	A drank with B	3	3
+evict	A evicted B	-2	-4
+guard	A guarded B	2	4
+ignore	A ignored B	0	-3
+imprison	A imprisoned B	0	-4
+look_after	A looked after B	2	3
+lose_to	A lost to B	-4	3
+love	A loved B	5	3
+oppress	A oppressed B	0	-4
+play_for	A played for B	1	2
+play_with	A played with B	2	2
+pray_with	A prayed with B	2	2
+prey_on	A preyed on B	0	-4
+read_the_works_of	A read the works of B	0	3
+rebel_against	A rebelled against B	-4	-4
+report_to	A reported to B	1	2
+resist	A resisted B	-2	2
+reward	A rewarded B	2	4
+seduce	A seduced B	0	2
+share_stories_with	A shared stories with B	3	3
+sing_with	A sang with B	3	3
+struggle_against	A struggled against B	-3	-3
+study	A studied B	1	1
+teach	A taught B	2	2
+tend	A tended B	2	3
+visit	A visited B	2	2
+withhold_payment_from	A withheld payment from B	-3	-3
+appease	A appeased B	1	1
+are_assisted_by	B assisted A	4	2
+are_caught_by	B caught A	-2	0
+are_conquered_by	B conquered A	-4	2
+are_contradicted_by	B contradicted A	-3	-1
+are_defrocked_by	B defrocked A	-4	0
+are_dispatched_by	B dispatched A	0	0
+are_disqualified_by	B disqualified A	-3	-2
+are_enchanted_by	B enchanted A	4	3
+are_enticed_by	B enticed A	1	1
+are_followed_by	B followed A	-1	0
+are_healed_by	B healed A	5	3
+are_helped_by	B helped A	4	2
+are_hindered_by	B hindered A	-3	0
+are_informed_by	B informed A	2	0
+are_interrogated_by	B interrogated A	-2	0
+are_kidnapped_by	B kidnapped A	-5	0
+are_loved_by	B loved A	3	5
+are_mentored_by	B mentored A	3	3
+are_overthrown_by	B overthrew A	-4	0
+are_paid_by	B paid A	3	0
+are_painted_by	B painted A	2	0
+are_persecuted_by	B persecuted A	-4	-3
+are_persuaded_by	B persuaded A	2	3
+are_reported_by	B reported A	-3	0
+are_represented_by	B represented A	1	1
+are_savaged_by	B savaged A	-5	-3
+are_served_by	B served A	3	2
+are_subdued_by	B subdued A	-4	3
+are_supervised_by	B supervised A	2	2
+are_supported_by	B supported A	4	3
+are_suppressed_by	B suppressed A	-4	0
+are_taught_by	B taught A	2	2
+are_thanked_by	B thanked A	3	3
+are_tortured_by	B tortured A	-5	-1
+are_tracked_by	B tracked A	-2	0
+are_wooed_by	B wooed A	3	3
+assist	A assisted B	2	4
+care_for	A cared for B	3	4
+cast_off	A cast off B	-3	-3
+charm	A charmed B	2	4
+coerce	A coerced B	0	-3
+command	A commanded B	0	0
+compliment	A complimented B	2	3
+consult	A consulted B	2	2
+copy	A copied B	0	-1
+debate	A debated B	-2	-2
+defraud	A defrauded B	0	-3
+delegate_to	A delegated to B	0	0
+deploy	A deployed B	0	0
+disillusion	A disillusioned B	0	-3
+dispatch	A dispatched B	0	0
+encourage	A encouraged B	2	3
+evaluate	A evaluated B	0	-1
+excommunicate	A excommunicated B	-2	-3
+forgive	A forgave B	3	3
+harden_toward	A hardened toward B	0	-3
+haunt	A haunted B	0	-4
+kidnap	A kidnapped B	0	-5
+lead	A led B	1	1
+lose_interest_in	A lost interest in B	-1	-2
+manage	A managed B	1	0
+mentor	A mentored B	3	3
+offend	A offended B	-3	-4
+pamper	A pampered B	2	2
+persecute	A persecuted B	-3	-4
+rank	A weighed up B	0	-1
+receive	A received a visit from B	1	1
+recruit	A recruited B	2	3
+resemble	A resembled B	0	2
+seek	A sought out B	0	2
+send	A gave a mission to B	1	1
+sign_with	A signed with B	1	1
+speak_to	A sat down and spoke to B	2	2
+struggle_with	A struggled with B	-2	-2
+supplant	A supplanted B	2	-4
+supply	A supplied goods to B	0	1
+suppress	A suppressed dissent from B	0	-4
+sweat_for	A sweated for B	-2	1
+take_as_prisoner	A made a prisoner of B	0	-4
+torment	A tormented B	0	-5
+wait_on	A waited on the needs of B	1	3
+accompany	A accompanied B	2	2
+agree_with	A came to an agreement with B	3	3
+apprehend	A apprehended B	0	-1
+are_accommodated_by	B accommodated A	3	2
+are_accompanied_by	B accompanied A	2	2
+are_baptized_by	B baptized A	3	2
+are_blessed_by	B blessed A	3	2
+are_commanded_by	B commanded A	0	0
+are_complimented_by	B complimented A	3	2
+are_converted_by	B converted A	1	2
+are_counseled_by	B counseled A	3	0
+are_defrauded_by	B defrauded A	-3	0
+are_diagnosed_by	B diagnosed A	-1	0
+are_encouraged_by	B encouraged A	3	2
+are_energized_by	B energized A	4	3
+are_evicted_by	B evicted A	-4	-2
+are_exorcized_by	B exorcized A	-3	-3
+are_failed_by	B failed A	-4	-3
+are_fielded_by	B fielded A	2	1
+are_financed_by	B financed A	4	2
+are_led_by	B led A	1	1
+are_marketed_by	B marketed A	4	0
+are_nominated_by	B nominated A	3	0
+are_offended_by	B offended A	-4	-3
+are_oppressed_by	B oppressed A	-4	0
+are_overworked_by	B overworked A	-3	0
+are_published_by	B published A	3	0
+are_questioned_by	B questioned A	-2	0
+are_radicalized_by	B radicalized A	-1	0
+are_read_by	B read A	0	0
+are_rebuked_by	B rebuked A	-4	-2
+are_rejected_by	B rejected A	-4	-2
+are_remembered_by	B remembered A	3	2
+are_repaid_by	B repaid A	3	0
+are_resented_by	B resented A	-3	-4
+are_ruined_by	B ruined A	-5	0
+are_spoiled_by	B spoiled A	-4	0
+are_studied_by	B studied A	1	1
+are_supplied_by	B supplied A	1	0
+are_tipped_by	B tipped A	3	2
+are_tormented_by	B tormented A	-5	0
+are_trained_by	B trained A	3	2
+are_treated_by	B treated A	3	1
+are_tutored_by	B tutored A	3	3
+are_undermined_by	B undermined A	-3	-1
+are_visited_by	B visited A	2	2
+arrest	A arrested B	0	-4
+attend	A attended B	0	3
+avoid	A avoided B	0	-3
+buy_from	A bought from from B	2	3
+cast_out	A cast out B	-3	-4
+cater_to	A catered to B	2	3
+chat_with	A chatted with B	2	2
+cheat_with	A cheated with B	0	0
+consult_with	A consulted with B	2	2
+cross_examine	A cross examined B	-1	-1
+cure	A cured B	2	5
+curse	A cursed B	-3	-4
+debate_with	A debated with B	-2	-2
+defend	A defended B	0	4
+deliver_for	A delivered for B	1	3
+detain	A detained B	0	-4
+devour	A devoured B	0	-5
+dislike	A disliked B	-3	-3
+disqualify	A disqualified B	-2	-3
+educate	A educated B	1	2
+embarrass	A embarrassed B	-2	-3
+execute	A executed B	-3	-5
+experiment_on	A experimented on B	0	-4
+fight	A fought B	-4	-4
+fight_for	A fought for B	3	4
+fight_with	A fought alongside B	4	4
+find	A found B	2	0
+free	A freed B	3	4
+give_birth_to	A gave birth to B	4	5
+govern	A governed B	0	0
+govern_for	A governed for B	1	1
+help	A helped B	2	4
+host	A hosted B	2	3
+hunt	A hunted B	0	-4
+hurt	A hurt B	0	-4
+impersonate	A impersonated B	0	0
+incarcerate	A incarcerated B	-1	-4
+instruct	A instructed B	1	1
+intimidate	A intimidated B	-3	-4
+invest_in	A invested in B	0	3
+laugh_at	A laughed at B	1	-3
+lecture_to	A lectured to B	0	0
+look_for	A looked everywhere for B	-1	0
+massage	A massaged B	1	3
+monitor	A closely monitored B	0	-2
+murder	A murdered B	-2	-5
+nominate	A nominated B	0	3
+operate_on	A operated on B	0	0
+overcome	A overcame opposition from B	3	-2
+perform_with	A performed with B	3	3
+pick_on	A picked on B	-1	-3
+pity	A pitied B	-1	2
+preach_to	A preached to B	1	3
+propagandize_for	A propagandized for B	1	4
+propose_to	A proposed to B	5	4
+prosecute	A prosecuted B	-1	-4
+protect	A protected B	2	5
+reach_out_to	A reached out to B	2	3
+rebuff	A rebuffed B	-2	-4
+reject	A rejected B	-2	-4
+represent	A represented B	1	1
+review	A reviewed B	0	0
+run_against	A ran against B	-2	-2
+satirize	A satirized B	0	-3
+select	A selected B	0	2
+sell_through	A sold through B	1	1
+sell_to	A sold goods to B	1	2
+snatch	A snatched B	1	-3
+snitch_on	A snitched on B	-1	-2
+snitch_to	A snitched to B	-1	2
+speak_through	A spoke through B	0	0
+supervise	A supervised B	2	2
+terrorize	A terrorized B	-2	-5
+tip	A tipped B	2	3
+tip_off	A tipped off B	1	3
+tower_over	A towered over B	2	-2
+train	A trained B	2	3
+translate_for	A translated for B	1	2
+treat	A treated B	1	3
+vote_against	A voted against B	-2	-3
+whip	A whipped B	0	-4
+woo	A wooed B	3	3
+write_about	A wrote about B	2	3
+abduct	A abducted B	0	-4
+abet	A abetted B	0	0
+accommodate	A accommodated B	2	3
+accuse	A accused B	0	-3
+act_for	A acted for B	0	3
+act_via	A acted via B	0	0
+advocate_for	A advocated for B	0	3
+anger	A angered B	-1	-3
+answer	A answered B	0	1
+answer_questions_from	A answered questions from B	0	1
+answer_to	A answered only to B	0	2
+are_accused_by	B accused A	-3	0
+are_admired_by	B admired A	3	2
+are_answered_by	B answered A	1	0
+are_appreciated_by	B appreciated A	3	2
+are_assaulted_by	B assaulted A	-4	-2
+are_attended_by	B attended A	3	0
+are_bored_with	A was bored with B	-2	0
+are_bullied_by	B bullied A	-4	-2
+are_cared_for_by	B cared for A	3	2
+are_championed_by	B championed A	3	2
+are_charged_by	B charged A	-3	-1
+are_chased_by	B chased A	-3	-1
+are_chronicled_by	B chronicled A	2	1
+are_controlled_by	B controlled A	-2	0
+are_counselled_by	B counselled A	3	0
+are_debated_by	B debated A	-2	-2
+are_defended_by	B defended A	4	0
+are_deployed_by	B deployed A	0	0
+are_discovered_by	B discovered A	-2	-2
+are_dominated_by	B dominated A	-4	2
+are_drilled_by	B drilled A	-1	-1
+are_driven_around_by	B drove A around	2	2
+are_driven_by	B drove A	2	2
+are_educated_by	B educated A	2	1
+are_elected_by	B elected A	4	1
+are_enlisted_by	B enlisted A	2	0
+are_ennobled_by	B ennobled A	4	2
+are_examined_by	B examined A	-1	-1
+are_facilitated_by	B facilitated A	3	2
+are_fought_by	B fought A	-4	-4
+are_frustrated_by	B frustrated A	-3	-1
+are_graded_by	B graded A	-1	0
+are_greeted_by	B greeted A	2	2
+are_guaranteed_by	B guaranteed A	3	2
+are_guarded_by	B guarded A	4	2
+are_guided_by	B guided A	2	2
+are_hunted_by	B hunted A	-4	0
+are_hurt_by	B hurt A	-4	0
+are_impersonated_by	B impersonated A	0	0
+are_influenced_by	B influenced A	0	1
+are_instructed_by	B instructed A	1	1
+are_insured_by	B insured A	2	2
+are_introduced_by	B introduced A	3	3
+are_judged_by	B judged A	-2	0
+are_lured_by	B lured A	0	-1
+are_managed_by	B managed A	0	1
+are_missed_by	B missed A	0	-2
+are_monitored_by	B monitored A	-2	0
+are_motivated_by	B motivated A	3	2
+are_mystified_by	B mystified A	1	0
+are_named_by	B named A	1	1
+are_nurtured_by	B nurtured A	3	3
+are_ordained_by	B ordained A	-2	0
+are_overlooked_by	A was overlooked by B	-3	0
+are_overrun_by	B overran A	-4	-2
+are_overshadowed_by	B overshadowed A	-3	2
+are_overwhelmed_by	B overwhelmed A	-3	0
+are_owed_by	B owed A	2	1
+are_picked_by	B picked A	3	2
+are_popularized_by	B popularized A	4	2
+are_probed_by	B probed A	-1	0
+are_profiled_by	B profiled A	-1	0
+are_prosecuted_by	B prosecuted A	-4	-1
+are_raised_by	B raised A	3	3
+are_received_by	B received A	1	1
+are_refused_payment_by	B refused to pay A	-3	-3
+are_rescued_by	B rescued A	5	1
+are_retained_by	B retained A	-2	-2
+are_reviewed_by	B reviewed A	0	0
+are_rewarded_with	A was rewarded with B	0	3
+are_robbed_by	B robbed A	-4	0
+are_roused_by	B roused A	-3	0
+are_scripted_by	B scripted A	3	0
+are_selected_by	B selected A	2	0
+are_sickened_by	B sickened A	-4	0
+are_signed_by	B signed A	2	2
+are_subjugated_by	B subjugated A	-4	-1
+are_summoned_by	B summoned A	2	1
+are_targeted_by	B targeted A	-2	0
+are_tended_by	B tended A	3	2
+are_transported_by	B transported A	2	1
+are_traumatized_by	B traumatized A	-4	-2
+are_used_by	B used A	-3	0
+are_usurped_by	B usurped A	-4	0
+are_venerated_by	B venerated A	4	4
+are_victimized_by	B victimized A	-4	-1
+are_waited_upon_by	B waited upon A	3	1
+are_wanted_by	B wanted A	-3	-1
+are_whipped_by	B whipped A	-4	0
+argue_before	A argued before B	-1	-1
+ask_questions_for	A asked questions for B	0	3
+assassinate	A assassinated B	0	-5
+assault	A assaulted B	-2	-4
+attend_to	A attended to the needs of B	0	3
+baptise	A baptised B	2	3
+baptize	A baptized B	2	3
+beat_up	A beat up B	-3	-5
+beautify	A beautified B	3	4
+become_dependent_upon	A became dependent upon B	0	0
+blow_up	A blew up B	0	-5
+borrow_from	A borrowed from B	1	1
+brainwash	A brainwashed B	0	-2
+breastfeed	A breastfed B	3	3
+build_for	A built for B	0	3
+bully	A bullied B	-2	-4
+carry_for	A carried for B	0	3
+cause_trouble_for	A caused trouble for B	-2	-4
+censure	A censured B	-2	-3
+challenge	A challenged B	0	-2
+champion	A championed B	2	3
+charge	A charged B	-1	-3
+chase	A chased B	-1	-3
+chase_after	A chased after B	-1	-3
+collude_with	A colluded with B	3	3
+commission	A commissioned B	0	2
+communicate_through	A communicated through B	0	0
+communicate_via	A communicated via B	0	0
+communicate_with	A communicated with B	1	1
+compose_with	A composed with B	2	2
+confess_to	A confessed everything to B	3	0
+conquer	A conquered B	2	-4
+consort_with	A consorted with B	1	1
+convert	A converted B	2	1
+cook_for	A cooked for B	2	3
+corrupt	A corrupted B	-2	-4
+countersue	A countersued B	-2	-3
+create_for	A created stuff for B	2	2
+deal_with	A dealt with B	2	2
+debrief	A debriefed B	0	-1
+decapitate	A decapitated B	-3	-5
+deliver_to	A delivered stuff to B	0	2
+descend_from	A descended from B	0	0
+design_for	A designed for B	0	3
+despise	A despised B	-4	-3
+discipline	A disciplined B	0	-2
+distrust	A distrusted B	-3	-3
+dress	A helped to dress B	1	2
+drive_for	A drove for B	2	2
+elect	A elected B	1	4
+enhance	A enhanced B	0	4
+entice	A enticed B	1	1
+evaluate_with	A evaluated with B	1	1
+examine	A examined B	-1	-1
+exorcise	A exorcised B	0	-3
+export_to	A exported goods to B	0	2
+facilitate	A facilitated the actions of B	2	3
+farm_for	A farmed for B	0	3
+finance	A financed B	2	4
+flee_from	A fled from B	-3	-3
+fool	A fooled B	1	-3
+fund	A funded B	2	4
+govern_via	A governed via B	0	0
+guarantee	A guaranteed B	2	3
+guide	A guided B	2	2
+handle	A handled B	1	1
+harass	A harassed B	-3	-4
+are_harassed_by	B harassed A	-4	-3
+heal	A healed B	3	5
+hit	A hit B	-2	-4
+identify	A identified B	0	-2
+indulge	A indulged B	2	4
+influence	A influenced B	1	0
+inform	A informed B	0	2
+inherit_from	A inherited from B	3	0
+interact_with	A interacted with B	1	1
+interpret_for	A interpreted for B	0	2
+intimidate_with	A intimidated others using B	0	0
+joke_about	A joked about B	1	-3
+leak_to	A leaked information to B	0	2
+learn_with	A went to school with B	1	1
+lease_from	A leased from B	1	2
+lease_to	A leased a place to B	2	1
+leave_behind	A went and left behind B	0	-3
+lend_to	A lent money to B	0	2
+live_with	A lived with B	3	3
+mate_with	A became mates with B	4	4
+minister_to	A ministered to B	1	2
+model_for	A modeled for B	2	2
+molest	A molested B	-2	-4
+mourn_for	A mourned for B	-4	3
+mystify	A mystified B	0	1
+navigate_for	A navigated for B	2	2
+negotiate_for	A negotiated for B	2	2
+nurture	A nurtured B	3	3
+ordain	A ordained B	0	-2
+order_from	A ordered from B	1	2
+overshadow	A overshadowed B	2	-3
+owe	A owed everything to B	1	2
+owe_to	A owed a lot to B	1	2
+paint	A painted B	0	2
+pay	A paid what was due to B	0	3
+perform_for	A performed for B	0	2
+persuade	A persuaded B	3	2
+photograph	A photographed B	0	0
+pick	A picked B	2	3
+pick_up	A picked up B	2	3
+pitch_at	A pitched at B	1	2
+play_against	A played against B	0	-3
+please	A pleased B	3	3
+popularize	A popularized B	2	4
+pose_for	A posed for B	2	2
+pray_for	A prayed for B	3	3
+provide_for	A provided for B	2	3
+question	A questioned B	0	-2
+raise	A raised B	3	3
+read_about	A read about B	0	0
+rely_on	A relied on B	2	3
+remember	A remembered B	2	3
+renounce	A renounced B	-3	-3
+rent_from	A rented from B	1	1
+rent_to	A rented a place to B	1	1
+repress	A repressed B	-2	-4
+respond_to	A gave a response to B	0	2
+rob	A robbed B	0	-4
+round_up	A rounded up B	0	0
+rouse	A roused B	0	-3
+seek_sympathy_from	A sought sympathy from B	1	2
+sell_via	A sold goods via B	1	1
+shill_for	A shilled for B	2	3
+sire	A sired B	3	3
+speak_for	A spoke on behalf of B	0	2
+speak_with	A spoke with B	1	1
+spoil	A spoiled B	0	-4
+study_under	A studied under B	0	0
+style_for	A styled for B	2	2
+subdue	A subdued B	3	-4
+supply_to	A supplied goods to B	1	2
+take_messages_for	A took messages for B	0	2
+talk_through	A talked through B	0	0
+target	A targeted B	0	-2
+testify_before	A testified before B	0	0
+threaten_with	A threatened others with B	0	0
+topple	A toppled B	2	-4
+train_with	A trained with B	2	2
+transport	A transported B	1	2
+unleash	A unleashed B	1	3
+work_under	A worked under B	2	2
+worship_with	A worshipped with B	0	3
+write_for	A wrote for B	0	2
+write_to	A wrote a letter to B	2	2

@@ -1,0 +1,822 @@
+Action;Similar;Opposite;A feeling;B feeling
+are_trusted_by;trust, are_respected_by, are_admired_by;are_distrusted_by;respected+;
+are_disrespected_by;are_mocked_by, are_taunted_by, are_insulted_by, are_bitten_by, are_despised_by;are_respected_by;disrespected++;inspired-
+condescend_to;mock, taunt, laugh_at, are_unimpressed_with, are_unimpressed_by, underestimate, humiliate,  preach_to, tower_over, overshadow, criticize;look_up_to;inspired--;disrespected+
+are_deceived_by;are_tricked_by, are_defrauded_by, are_cheated_by;are_informed_by;disrespected+, supported-;
+disappoint;fail_to_deliver_for, fail_to_impress, are_judged_by, lose_favor_with, disillusion;impress;disrespected+;disappointed+++, supported-
+fall_in_love_with;are_moved_by, are_attracted_by, are_lured_by, are_enticed_by, woo, are_seduced_by, marry, love;hate;attracted+++;
+are_feared_by;terrorize, tower_over, intimidate, threaten;are_loved_by;respected+;repelled++
+are_impressed_by;are_impressed_with, look_up_to;are_unimpressed_by, are_unimpressed_with;inspired++;
+are_impressed_with;are_impressed_by, look_up_to;are_unimpressed_by, are_unimpressed_with;inspired++;
+are_pushed_too_far_by;lose_faith_in, are_sickened_by, are_disillusioned_by, are_frustrated_by, are_abused_by, are_driven_mad_by, are_overworked_by, are_tormented_by, harden_toward, are_underpaid_by, are_disappointed_by, are_enslaved_by;are_facilitated_by, are_appreciated_by;repelled+;
+steal_from;rob, take_advantage_of, borrow_from, defraud, cheat;buy_from, borrow_from;;disrespected+, disappointed++
+are_bored_by;are_disillusioned_by, are_disappointed_by, lose_interest_in, are_bored_with, tune_out, are_unimpressed_with, ignore;are_intrigued_by;repelled+;disrespected+
+are_worshipped_by;tower_over, are_followed_by, are_supported_by, lead, are_venerated_by, are_admired_by, are_respected_by, are_obeyed_by, are_loved_by;are_humiliated_by, are_feared_by, are_despised_by;respected+++;inspired+++
+are_exploited_by;are_defrauded_by, grow_suspicious_of, are_frustrated_by, are_abused_by, are_misrepresented_by, are_underpaid_by, are_cheated_by, are_manipulated_by, are_overworked_by, are_blackmailed_by, are_enslaved_by, are_mistreated_by, are_tormented_by, are_refused_payment_by, are_robbed_by, are_used_by, are_victimized_by;are_facilitated_by, are_appreciated_by;disrespected++, supported-;
+fail_to_deliver_for;disappoint, fail_to_impress, lose_favor_with, are_booed_by, disillusion,  cause_trouble_for;impress;;disappointed+++
+kill;assassinate, murder, execute, decapitate, sacrifice, blow_up, conquer, are_arrested_for_killing, destroy;rescue, save, nurture, protect;;attacked+++
+are_ignored_by;are_spurned_by, are_humiliated_by, are_silenced_by, are_rebuffed_by, are_underappreciated_by, are_forgotten_by, are_disobeyed_by, are_overlooked_by, are_overshadowed_by;are_welcomed_by, are_appreciated_by, attract;disrespected++;
+spread_lies_about;misrepresent, campaign_against, brief_against, laugh_at, undermine, joke_about;testify_for, campaign_for;disappointed+;disrespected++
+are_underpaid_by;are_exploited_by, are_abused_by, are_overworked_by, are_pushed_too_far_by;are_promoted_by, are_appreciated_by, are_rewarded_by, are_favored_by;disappointed+;disrespected++
+beg_forgiveness_from;beg_forgiveness_from, seek_forgiveness_from, seek_sympathy_from;ignore, stand_up_to;;attacked-, respected+
+cede_power_to;surrender_to, are_ruined_by, bow_down_to, are_toppled_by, are_supplanted_by, are_deposed_by, lose_to, are_conquered_by, are_overthrown_by, are_overrun_by, are_overwhelmed_by;overthrow, topple, stand_up_to, resist;;attacked--
+underestimate;are_unimpressed_by, laugh_at, condescend_to;fear, are_challenged_by, are_frustrated_by, are_overwhelmed_by;;disrespected+
+are_betrayed_by;are_abandoned_by, are_supplanted_by, are_ruined_by, are_deposed_by, are_toppled_by, are_tormented_by, are_bitten_by;are_supported_by, are_facilitated_by;repelled++, supported---, disappointed+++;inspired---
+are_disgusted_by;are_shocked_by, are_sickened_by, are_traumatized_by, lose_faith_in;love, admire, are_impressed_by;repelled+++;
+are_cheated_by;are_exploited_by, are_tricked_by, are_manipulated_by, are_deceived_by, are_robbed_by, are_victimized_by, are_defrauded_by, are_refused_payment_by;are_repaid_by;repelled++, supported--, disappointed++;
+are_humiliated_by;are_silenced_by, are_ignored_by, are_embarrassed_by, are_taunted_by, are_mocked_by, are_tormented_by, are_beaten_by, are_punished_by, are_rebuked_by, are_victimized_by;are_flattered_by, are_complimented_by;supported---, attacked+;
+are_lectured_by;are_instructed_by, learn_from, study_under, are_indoctrinated_by, are_educated_by, are_coached_by;lecture_to;disrespected+;
+are_respected_by;are_admired_by, are_worshipped_by, are_venerated_by, are_trusted_by;are_disrespected_by, are_despised_by;respected++;
+are_sued_by;are_attacked_by, are_undermined_by, are_criticized_by, are_accused_by, are_reported_by, are_charged_by, are_prosecuted_by;;attacked+, supported--;
+seek_forgiveness_from;beg_forgiveness_from, confess_to;ignore;;attacked-, respected+
+manipulate;defraud, exploit, deceive, abuse, take_advantage_of, trick, coerce, lead_astray, blackmail, misrepresent, cheat, control, experiment_on, brainwash, fool;are_manipulated_by;;disrespected+
+turn_against;compete_against, break_with, turn_against, betray, rise_against, rebel_against, stand_up_to, resist, snitch_on;bow_down_to, show_loyalty_to, die_for;inspired-, disappointed++;attacked++
+are_bought_off_by;are_corrupted_by, are_funded_by, are_financed_by, are_enslaved_by, are_recruited_by, are_enlisted_by, are_persuaded_by;stand_up_to, harden_toward;disrespected+, supported+;
+are_upstaged_by;are_supplanted_by, are_toppled_by, are_embarrassed_by;upstage, are_supported_by, overshadow;disrespected++;inspired-
+testify_against;brief_against, campaign_against, accuse, denounce, condemn, run_against, snitch_on, vote_against;testify_for;disappointed++;attacked+, supported-
+are_unimpressed_by;condescend_to, are_unimpressed_with, underestimate, are_disappointed_by, are_failed_by;are_impressed_by, are_impressed_with;inspired--;respected-, disrespected+
+are_moved_by;are_radicalized_by, sympathize_with, agree_with, pity, are_persuaded_by, feel_sorry_for, identify_with;ignore;attracted+;
+are_denounced_by;are_ruined_by, are_abandoned_by, are_criticized_by, are_attacked_by, are_insulted_by, are_cursed_by, are_accused_by, alienate;denounce, are_flattered_by, are_complimented_by, are_popularized_by;disrespected+++, supported--;inspired--
+are_seduced_by;are_charmed_by, are_attracted_by, are_persuaded_by, are_flattered_by, are_deflowered_by, are_enticed_by, are_brainwashed_by, are_enchanted_by, are_wooed_by, are_lured_by;are_disgusted_by;attracted++, inspired+;attracted+
+lead_astray;corrupt, manipulate, deceive, entice, indoctrinate, lie_to, brainwash, fool;inspire, guide;respected+;inspired+
+are_insulted_by;are_persecuted_by, are_taunted_by, are_attacked_by, are_criticized_by, are_mocked_by, are_savaged_by, are_cursed_by, are_tormented_by, are_disrespected_by, are_denounced_by, are_despised_by, are_chastised_by, are_heckled_by, are_scolded_by, are_booed_by, are_offended_by, are_rebuked_by;are_flattered_by;attacked+, disrespected++;inspired--
+are_blackmailed_by;are_manipulated_by, are_controlled_by, are_scripted_by, are_intimidated_by, are_threatened_by, are_bullied_by, are_bitten_by, are_exploited_by;are_informed_by;attacked+, disrespected+;
+are_beaten_by;are_defeated_by, are_punished_by, are_humiliated_by, are_assaulted_by, are_bitten_by, are_conquered_by, are_hurt_by, are_whipped_by, are_supplanted_by, are_deposed_by, lose_to, are_overthrown_by;are_spoiled_by, are_cared_for_by;attacked++;
+are_corrupted_by;are_bought_off_by, are_ruined_by, are_sickened_by, are_manipulated_by;are_inspired_by;disrespected+, supported--, attracted+;respected++
+are_underappreciated_by;are_ignored_by, are_underestimated_by, are_overworked_by, fail_to_impress, are_resented_by, are_overlooked_by, are_overshadowed_by, are_refused_payment_by;are_appreciated_by;disrespected+;
+indoctrinate;command, brainwash, lead_astray, convert, coerce, lead, guide, influence;learn_from, study_under, lose_control_over;respected++;inspired++
+impress;inspire, tower_over, rouse, please, overshadow;fail_to_impress, fail_to_deliver_for;respected+;inspired++
+lie_to;lead_astray, deceive, trick, defraud, cheat, cheat_on, fool;report_to, confide_in;;disrespected+, disappointed+
+show_loyalty_to;look_up_to, bow_down_to, identify_with, support, die_for, fight_for, commit_to, love;betray, cheat_on;inspired+;respected++
+stand_up_to;resist, rebel_against, turn_against, lose_faith_in, denounce, rise_against, fight_against,  compete_against, brief_against, struggle_against, challenge;bow_down_to, fear, run_away_from;inspired--;disrespected++
+are_attacked_by;are_criticized_by, are_tormented_by, are_assaulted_by, are_persecuted_by, are_bitten_by, are_sued_by, are_denounced_by, are_insulted_by, are_disfigured_by, are_savaged_by, are_fought_by, are_targeted_by, are_victimized_by;are_supported_by, are_facilitated_by;attacked++;
+are_obeyed_by;are_supported_by, are_served_by, are_worshipped_by, control;are_disobeyed_by, lose_control_over;respected++;
+are_pursued_by;elude, are_chased_by, are_hunted_by, flee_from, are_stalked_by, are_sought_by, are_tracked_by, are_wooed_by, are_wanted_by;are_ignored_by, are_banished_by, are_rebuffed_by;repelled+;attracted++
+are_rebuffed_by;are_spurned_by, are_rejected_by, are_abandoned_by, are_ignored_by;attract, are_pursued_by;disrespected++;repelled++
+attack;assault, blow_up, fight, devour, insult, criticize, disfigure, destroy, beat_up, hit;support, agree_with;;attacked++
+disagree_with;debate, argue_with, are_contradicted_by, debate_with, struggle_with;agree_with, are_persuaded_by;inspired-;disrespected+
+identify_with;are_moved_by, agree_with, sympathize_with, show_loyalty_to;are_sickened_by, harden_toward;inspired+;respected+
+sleep_with;cheat_with, are_deflowered_by, are_enticed_by, are_kissed_by, consort_with, mate_with;are_ignored_by, are_spurned_by;attracted++;attracted++
+are_inspired_by;read_the_works_of, look_up_to, are_roused_by, are_motivated_by, are_energized_by, imitate, are_influenced_by, are_driven_by, worship, believe_in, follow;lose_faith_in, grow_suspicious_of, are_bored_by, are_disillusioned_by;inspired++;
+are_manipulated_by;are_exploited_by, are_blackmailed_by, are_controlled_by, are_tricked_by, are_cheated_by, are_corrupted_by, are_defrauded_by, are_tormented_by, are_used_by, are_victimized_by, pose_for;are_helped_by;disrespected+;
+are_threatened_by;are_intimidated_by, are_bullied_by, are_harassed_by, are_blackmailed_by, are_targeted_by, fear;are_welcomed_by, are_appreciated_by;attacked+, disrespected+;
+campaign_against;fight_against, compete_against, brief_against, vote_against, testify_against, spread_lies_about, argue_with, undermine, condemn, struggle_with;campaign_for, vote_for;inspired-;disrespected+
+inspire;impress, attract, rouse, tower_over, encourage, lead, supervise, are_admired_by, guide, influence, are_followed_by, are_imitated_by;disgust, fail_to_impress, disillusion;;inspired++, respected++
+are_disillusioned_by;lose_faith_in, are_sickened_by, are_disappointed_by, are_bored_by, are_bored_with, lose_interest_in, are_shocked_by, are_pushed_too_far_by, grow_suspicious_of, renounce;are_inspired_by;disappointed++, inspired--;respected-
+are_mocked_by;are_disrespected_by, are_taunted_by, are_humiliated_by, are_bullied_by, are_persecuted_by, are_tormented_by, are_bitten_by, are_insulted_by, are_embarrassed_by, are_heckled_by, are_criticized_by, are_booed_by;are_flattered_by, are_complimented_by;attacked+, disrespected++;inspired-
+are_shocked_by;are_disgusted_by, are_sickened_by, are_traumatized_by, are_mystified_by, are_disillusioned_by;are_impressed_by, are_impressed_with, are_charmed_by, are_seduced_by, are_enticed_by;disappointed+++;
+insult;heckle, attack, humiliate, embarrass, laugh_at, pick_on, criticize, disrespect, chastise, denounce, mock, taunt, offend, curse, satirize, harass, joke_about;flatter, compliment, charm;;disrespected++, attacked+
+spy_on;monitor, observe, supervise, watch_over, stalk, guard, haunt;report_to, confide_in;;disrespected+, supported-
+are_rewarded_by;are_appreciated_by, are_favored_by, are_paid_by, are_promoted_by, are_thanked_by, are_tipped_by;are_underpaid_by, are_underappreciated_by;respected+, supported+;respected++
+trust;respect, believe_in, confide_in, admire;distrust, lose_faith_in, grow_suspicious_of;;respected+
+are_abandoned_by;are_betrayed_by, are_dumped_by, alienate, are_denounced_by, are_expelled_by, are_cut_off_by, are_rebuffed_by, are_divorced_by, are_ruined_by;are_followed_by, are_supported_by, are_helped_by;disappointed++,  supported---;repelled++
+are_flattered_by;are_complimented_by, are_charmed_by, are_enticed_by, are_seduced_by, are_wooed_by;are_insulted_by, are_mocked_by, are_taunted_by;respected+, supported+;attracted+
+blackmail;coerce, control, manipulate, corrupt, bribe;bribe;;respected-, disrespected+
+lick_up_to;kiss_up_to, curry_favor_with, entice, pander_to, bow_down_to, praise, suck_up_to, flatter, compliment, please;condescend_to;inspired+;respected++, inspired-
+sue;accuse, testify_against, resent, prosecute, countersue;testify_for;;attacked+, supported--
+are_dumped_by;are_abandoned_by, alienate, are_expelled_by, are_cut_off_by, are_divorced_by, are_disqualified_by, are_evicted_by, are_rejected_by;are_loved_by, are_wooed_by;disrespected++,  disappointed+;repelled++, inspired-
+are_resisted_by;lose_control_over, struggle_against, are_contradicted_by, are_challenged_by, are_hindered_by, are_fought_by;charm, entice, seduce, control, subjugate;attacked+, supported--;inspired-
+deceive;exploit, lie_to, manipulate, trick, defraud, lead_astray, cheat_on, fool;confide_in, confess_to;;disrespected+
+humiliate;laugh_at, embarrass, condescend_to, mock, taunt, insult, upstage, offend, undermine, persecute;flatter, compliment, charm, praise;;disrespected++, attacked+
+kiss_up_to;lick_up_to, flatter, compliment, curry_favor_with, entice, bow_down_to, pander_to, flirt_with, praise, suck_up_to, woo, please;condescend_to;inspired+;respected++, inspired-
+lay_a_trap_for;hunt, entice, seduce, prey_on, track_down, catch, capture;believe_in, trust, welcome;;attacked+
+profit_from;take_advantage_of, exploit, invest_in, prey_on, sacrifice;are_cheated_by, are_ruined_by;supported+;
+are_arrested_for_killing;kill, murder, assassinate, execute, decapitate;are_forgiven_by;;attacked+++
+are_bitten_by;are_savaged_by, are_hurt_by, are_attacked_by, are_assaulted_by, are_disrespected_by, are_betrayed_by, are_blackmailed_by, are_beaten_by, are_mocked_by, are_disfigured_by;are_kissed_by, are_spoiled_by;attacked++, disrespected++;
+are_despised_by;are_insulted_by, are_disrespected_by, are_spurned_by, are_cursed_by, are_resented_by;are_loved_by, are_respected_by;disrespected+++, respected---;inspired---
+are_favored_by;are_appreciated_by, show_loyalty_to, are_promoted_by, are_championed_by, attract, are_rewarded_by, are_chosen_by, are_blessed_by, are_nominated_by, are_admired_by, are_ennobled_by, are_popularized_by;lose_favor_with;respected++, supported+;respected++
+are_misrepresented_by;are_defrauded_by, are_exploited_by, are_undermined_by, are_used_by;are_represented_by;disrespected+, supported-;
+learn_from;are_molded_by, are_drilled_by, are_lectured_by, are_taught_by, are_coached_by, study_under, are_informed_by, are_instructed_by;teach;inspired++;
+marry;fall_in_love_with, commit_to, mate_with, live_with, love, are_loved_by;divorce;attracted+;attracted+
+settle_with;agree_with, are_persuaded_by, pay_off, repay, are_forgiven_by, negotiate_with, deal_with, persuade;sue, disagree_with, refuse_to_pay, argue_with;attacked-;attacked-
+are_haunted_by;are_cursed_by, pine_for, are_stalked_by, are_chronicled_by, remember;are_forgotten_by;inspired+;attracted+
+are_spurned_by;are_rejected_by, are_rebuffed_by, are_ignored_by, are_cut_off_by, are_despised_by, are_divorced_by, lose_favor_with, are_refused_payment_by;are_stalked_by;disrespected++,  disappointed+;repelled++, inspired-
+argue_with;are_debated_by, disagree_with, debate, debate_with, campaign_against, are_contradicted_by, fight, deal_with;agree_with, settle_with;disrespected+;disrespected+
+criticize;laugh_at, insult, mock, taunt, condescend_to, are_failed_by, are_disappointed_by, attack, undermine, chastise, denounce, curse, preach_to, satirize;praise, compliment, flatter;inspired-, disappointed+;disrespected++
+dump;break_with, break_up_with, let_go_of, cast_out, abandon, break_free_of, divorce, dismiss, excommunicate, exorcise;marry;repelled++, inspired-;disrespected++, disappointed+
+run_away_from;hide_from, flee_from, abandon, escape_from, leave_behind;follow, stalk;repelled+++, attacked+;
+surrender_to;cede_power_to, bow_down_to, are_defeated_by, lose_to, are_humiliated_by, are_conquered_by;stand_up_to, resist;;attacked---
+alienate;are_abandoned_by, are_denounced_by, disgust, are_cursed_by, are_dumped_by, lose_control_over, let_go_of;entice, charm, love;disrespected+;repelled++
+are_arrested_for_hurting;beat_up, abuse, hit, attack, assault;are_forgotten_by;;attacked++
+fail_to_impress;fail_to_deliver_for, are_judged_by, disappoint, are_underappreciated_by, disgust, are_underestimated_by, are_distrusted_by, are_forgotten_by, are_criticized_by, lose_favor_with, are_booed_by, disillusion, are_overlooked_by, are_overshadowed_by, cause_trouble_for;impress;;inspired--, disappointed++
+threaten;intimidate, harass, pick_on, persecute, abuse, torment, bully, are_feared_by, terrorize, tower_over;flatter, compliment, charm;;attacked+, disrespected+
+are_fired_by;are_ejected_by, are_expelled_by, are_dismissed_by, are_cut_off_by, are_banished_by, are_excommunicated_by;are_promoted_by, are_appreciated_by, are_rewarded_by;disrespected+;inspired--, disappointed++
+bow_down_to;cede_power_to, show_loyalty_to, obey, curry_favor_with, kiss_up_to, lick_up_to, commit_to, worship, pray_to, surrender_to, lose_to;stand_up_to, harden_toward;inspired++;attacked--
+curry_favor_with;flatter, compliment, kiss_up_to, bow_down_to, lick_up_to, pander_to, flirt_with, praise, suck_up_to, woo, please, spoil;insult, laugh_at, mock, taunt, condescend_to;inspired+;respected++, inspired-
+disgust;alienate, fail_to_impress;attract, charm, entice, seduce;;repelled+++
+listen_to;share_stories_with, welcome, are_begged_by, are_mentored_by, communicate_with;ignore, silence, tune_out;;respected+
+lose_faith_in;renounce, are_disillusioned_by, lose_interest_in, are_disgusted_by, are_shocked_by, break_with, harden_toward, grow_suspicious_of, are_pushed_too_far_by, stand_up_to, are_hardened_by, vote_against;believe_in, worship;disappointed++, inspired--;
+misrepresent;manipulate, take_advantage_of, spread_lies_about, undermine, trick, fool;obey, show_loyalty_to;;disrespected+, supported-, disappointed++
+take_advantage_of;profit_from, exploit, defraud, control, misrepresent, fail_to_reward, steal_from, manipulate, cheat, overwork, enslave, sacrifice, experiment_on, molest, rob;reward, appreciate, show_loyalty_to;;disrespected+, supported-
+work_for;serve, create_for, cook_for, design_for, are_used_by, support, obey, are_hired_by, are_managed_by, assist, shill_for, labor_for, are_recruited_by, sign_with, sweat_for, deliver_for, represent, build_for, carry_for, farm_for, work_under;fail_to_deliver_for;respected+;respected++
+are_dismissed_by;are_fired_by, are_defrocked_by, are_silenced_by, are_censured_by, are_expelled_by, are_ejected_by, are_banished_by, are_excommunicated_by, are_disqualified_by;are_promoted_by, are_appreciated_by, are_rewarded_by, are_summoned_by;disrespected++;disappointed++
+are_tricked_by;are_cheated_by, are_defrauded_by, are_manipulated_by, are_deceived_by, are_lured_by, are_used_by, are_victimized_by;are_respected_by;disappointed++, inspired--, disrespected++;respected+
+are_underestimated_by;are_underappreciated_by, fail_to_impress, are_forgotten_by, are_overlooked_by, are_overshadowed_by;are_appreciated_by;disrespected+;inspired--
+escape_from;flee_from, break_with, hide_from, run_away_from, leave_behind, break_free_of, elude, are_released_by, break_up_with;follow, stalk;repelled+++, attacked+;
+look_up_to;are_inspired_by, are_impressed_by, worship, imitate, are_impressed_with, show_loyalty_to, believe_in, admire, respect, are_mentored_by;condescend_to;inspired++;respected++
+pay_off;bribe, settle_with, buy_off, repay, appease, invest_in, pay;refuse_to_pay;;
+resent;hate, disrespect, are_unimpressed_with, are_unimpressed_by, are_disgusted_by, despise, sue, struggle_against;respect;inspired--, disappointed+++;disrespected++
+worship;pray_to, sacrifice_to, are_inspired_by, follow, bow_down_to, look_up_to, believe_in, serve, die_for, admire, love, respect;hate, are_disgusted_by, despise;inspired+++;respected+++
+are_killed_by;are_defeated_by, are_savaged_by, are_ruined_by;are_healed_by;attacked+++;
+are_promoted_by;are_marketed_by, are_appointed_by, impress, are_appreciated_by, are_rewarded_by, are_ennobled_by, are_favored_by, are_complimented_by, are_championed_by, are_ordained_by, are_popularized_by;are_dismissed_by, are_fired_by, are_underappreciated_by, are_overlooked_by;respected+, supported++;
+are_stalked_by;are_tormented_by, are_hunted_by, are_persecuted_by, are_tracked_by, are_pursued_by, are_haunted_by, are_investigated_by, are_sought_by, are_victimized_by;are_ignored_by, are_banished_by, are_forgotten_by;attacked+;attracted++
+are_taunted_by;are_booed_by, are_bullied_by, are_harassed_by, are_persecuted_by, are_intimidated_by, are_tormented_by, are_heckled_by, are_challenged_by, are_disrespected_by, are_humiliated_by, are_insulted_by, are_mocked_by, are_cursed_by, are_embarrassed_by, are_criticized_by, are_contradicted_by;are_complimented_by, are_flattered_by;disrespected++;inspired--
+betray;testify_against, supplant, snitch_on, are_arrested_for_killing, break_with, overthrow, execute, turn_against, rise_against, rebel_against;show_loyalty_to, die_for, commit_to;inspired---;repelled++, supported---, disappointed+++
+pander_to;spoil, cater_to, curry_favor_with, kiss_up_to, lick_up_to, serve, tend, pamper, wait_on, attend, massage, attend_to, cook_for, indulge, please;discipline, scold, chastise;respected-;respected++
+rise_against;rebel_against, stand_up_to, are_disillusioned_by, turn_against, are_pushed_too_far_by, betray, fight_against, disobey, resist, struggle_against;bow_down_to;inspired---;respected---, attacked++
+abuse;persecute, harass, bully, rule_over, manipulate, exploit, mock, beat_up, hit, prey_on, molest, threaten, torment, terrorize, kill, are_arrested_for_hurting, heckle, punish, overwork, take_aim_at, sacrifice, starve, torture, hurt, pick_on, whip, assault;respect, pander_to;;attacked+, respected--
+are_concerned_about;monitor, observe, watch_over, care_for, pray_for;ignore, tune_out;;respected-, supported+
+are_pitied_by;obtain_sympathy_from;are_taunted_by, are_mocked_by;respected--, supported+;
+eject;cast_out, abandon, dismiss, reject, fire, divorce, disqualify, rebuff;welcome;repelled+++;respected--
+hate;resent, are_disgusted_by, despise, curse, dislike;love, respect;repelled++, inspired--;respected---
+pine_for;cry_for, are_haunted_by, mourn_for, remember;tune_out;attracted+;
+promote;favor, champion, praise, appoint, encourage, popularize;fire, dismiss, underestimate;;respected+, supported++
+silence;suppress, censure, tune_out, repress;listen_to;inspired-;respected--
+sympathize_with;identify, are_moved_by, are_radicalized_by, identify_with, feel_sorry_for, cry_for, forgive, pity;mock, taunt, laugh_at;;respected+, supported+
+undermine;reject, criticize, misrepresent, fight_against, brief_against, testify_against, laugh_at, campaign_against, spread_lies_about, snitch_on, joke_about, humiliate, ;support, agree_with;;supported--, respected-, attacked+
+are_brainwashed_by;are_indoctrinated_by, are_scripted_by, are_radicalized_by, are_seduced_by, are_molded_by, die_for, kill_for, are_persuaded_by, are_controlled_by, are_enlisted_by, are_ordained_by;brief_against, disagree_with, resist, fight_against;inspired+++;respected++
+are_entertained_by;are_energized_by, are_roused_by, laugh_at;are_bored_with;attracted+, inspired+;
+cheat;defraud, steal_from, rob, manipulate, cheat_on, take_advantage_of, lie_to, trick, fool;reward;;repelled++, supported--, disappointed++
+exploit;deceive, defraud, manipulate, abuse, attack, prey_on, take_advantage_of, profit_from, harass, overwork, sacrifice, experiment_on, fool, molest, rob;respect, pander_to;;disrespected++, supported-
+flirt_with;compliment, kiss_up_to, curry_favor_with, entice, are_kissed_by, are_wooed_by, woo, pick_up;ignore, tune_out;attracted++;attracted+
+are_abused_by;are_exploited_by, are_underpaid_by, are_used_by, are_overworked_by, are_bullied_by, are_heckled_by, are_persecuted_by, are_pushed_too_far_by, are_disfigured_by, are_enslaved_by, are_mistreated_by, are_offended_by, are_tormented_by, are_frustrated_by, are_hurt_by, are_harassed_by;are_respected_by;attacked+, respected--;
+are_attracted_by;are_enticed_by, are_seduced_by, are_charmed_by, fall_in_love_with, are_intrigued_by, love, are_enchanted_by, are_lured_by;are_disgusted_by, lose_interest_in;attracted++;
+are_cursed_by;are_denounced_by, are_savaged_by, are_taunted_by, are_heckled_by, are_despised_by, are_insulted_by, are_persecuted_by, are_haunted_by, alienate, are_ruined_by, are_tormented_by;are_complimented_by, are_flattered_by;attacked++, supported--;repelled++
+are_defeated_by;lose_to, are_beaten_by, are_ruined_by, surrender_to, are_conquered_by, are_killed_by, are_subdued_by, are_overrun_by, are_overwhelmed_by, are_overthrown_by, are_toppled_by;defeat, subjugate;attacked+++;respected+
+are_disappointed_by;are_disillusioned_by, are_bored_by, are_pushed_too_far_by, are_hindered_by, are_bored_with, are_unimpressed_by, criticize, are_unimpressed_with, are_failed_by, are_frustrated_by;are_impressed_by, are_impressed_with;disappointed++;
+are_distrusted_by;fail_to_impress, are_resented_by, disappoint, are_investigated_by;are_trusted_by;disrespected+;
+are_embarrassed_by;are_humiliated_by, are_beaten_by, are_mocked_by, are_taunted_by, are_undermined_by, are_upstaged_by;are_impressed_by, are_impressed_with;disappointed+, inspired--;disrespected+
+are_indoctrinated_by;are_brainwashed_by, are_radicalized_by, are_scripted_by, are_persuaded_by, are_lectured_by, are_charmed_by, are_taught_by, are_controlled_by, are_drilled_by, are_educated_by;resist, disagree_with, brief_against;inspired+++;respected++
+are_toppled_by;are_deposed_by, cede_power_to, are_overthrown_by, are_supplanted_by, are_betrayed_by, are_usurped_by, are_upstaged_by;defeat, subjugate;attacked++, disrespected+++, supported---;inspired---
+break_with;cast_out, denounce, renounce, turn_against, are_disillusioned_by, escape_from, dump, break_up_with, let_go_of, lose_faith_in, cast_off, betray, break_free_of, divorce, abandon;are_moved_by, fight_with;repelled++, inspired--;
+bribe;buy_off, pay_off, coerce, appease, corrupt, blackmail;refuse_to_pay;;disrespected+, supported+
+disrespect;insult, laugh_at, mock, taunt, heckle, challenge, pick_on, resent, offend, despise, joke_about;respect, curry_favor_with;inspired-;disrespected++
+fear;are_intimidated_by, are_bullied_by, are_harassed_by, are_threatened_by, are_overshadowed_by;love, underestimate, laugh_at;repelled++;respected+
+fight_against;fight, campaign_against, resist, destroy, undermine, compete_against, struggle_against, stand_up_to, rise_against, brief_against, struggle_with, run_against, play_against;fight_with, fight_for;inspired-, repelled++;attacked++
+hide_from;abandon, escape_from, run_away_from, flee_from, elude, avoid, are_hunted_by, leave_behind;follow, live_with;repelled++;attracted+
+lose_control_over;are_disrespected_by, are_disobeyed_by, alienate, are_resisted_by, disillusion;are_obeyed_by, control, command, dominate;disrespected++, disappointed++;inspired--
+obey;serve, support, work_for, are_commanded_by, labor_for, answer_to, sweat_for, bow_down_to, are_ruled_by, follow, work_under;disobey, rebel_against, resist;;respected++, supported+
+praise;flatter, compliment, kiss_up_to, lick_up_to, curry_favor_with, suck_up_to, promote, favor;insult, laugh_at, mock, taunt, condescend_to;attracted+;respected++, supported+
+refuse_to_pay;fail_to_reward, withhold_payment_from;pay;disappointed+;supported-, respected-
+release;free, let_go_of, cast_out, dismiss, fire, rescue, unleash;enslave, detain, imprison;;attacked-, supported+
+stalk;hunt, spy_on, monitor, watch_over, prey_on;lose_interest_in;attracted++;attacked+
+subjugate;subdue, conquer, command, rule, rule_over, suppress, repress, defeat, dominate, oppress;bow_down_to, cede_power_to;respected+;inspired--
+are_chastised_by;are_scolded_by, are_booed_by, are_heckled_by, are_criticized_by, are_insulted_by, are_punished_by, are_censured_by, are_excommunicated_by, are_expelled_by, are_rebuked_by;are_flattered_by, are_complimented_by;respected-, attacked+;disappointed++
+are_disfigured_by;are_hurt_by, are_bitten_by, are_attacked_by, are_abused_by, are_savaged_by, are_sickened_by, are_assaulted_by, are_traumatized_by;are_popularized_by, are_marketed_by;attacked++;
+are_forgotten_by;are_ignored_by, are_underestimated_by, fail_to_impress;are_remembered_by, are_chronicled_by;respected--, disappointed++;inspired--
+believe_in;are_inspired_by, are_converted_by, look_up_to, worship, fight_for, campaign_for, testify_for, trust, confide_in, serve, die_for, commit_to, admire, follow, respect, vote_for, defend, invest_in, guarantee;lose_faith_in, are_disillusioned_by;inspired++;respected++
+break_free_of;escape_from, flee_from, break_with, leave_behind, abandon, dump, divorce, break_up_with, cast_out;bow_down_to, cede_power_to;repelled+++, attacked+, inspired-;
+chastise;punish, censure, criticize, insult, discipline;flatter, compliment, pander_to;disappointed++;respected-, attacked+
+disfigure;attack, devour, hurt, beat_up, assault;enhance, beautify;;attacked++
+obtain_sympathy_from;are_pitied_by, are_forgiven_by, appeal_to;are_ignored_by, are_forgotten_by, are_silenced_by;supported+;
+punish;discipline, abuse, whip, heckle, chastise, beat_up, hurt, assault;reward, appreciate;disappointed++;respected--, attacked++
+suck_up_to;lick_up_to, flatter, compliment, kiss_up_to, curry_favor_with, entice, praise, propagandize_for, please, spoil;condescend_to;inspired+;respected++, inspired-
+take_up_with;live_with, accompany, consort_with, work_with, conspire_with;dump;attracted++;
+appeal_to;obtain_sympathy_from, seek_sympathy_from, reach_out_to, pitch_at;resent;;respected+
+are_driven_mad_by;are_overworked_by, are_frustrated_by, are_hindered_by, are_pushed_too_far_by, are_tormented_by, are_persecuted_by, are_ruined_by;are_entertained_by;repelled++, supported-, disappointed+++;disrespected++
+are_hardened_by;harden_toward, lose_faith_in, are_drilled_by, are_radicalized_by, are_tormented_by;are_moved_by;repelled+, supported-, disappointed+;disrespected+
+are_incarcerated_by;are_imprisoned_by, are_detained_by, are_captured_by, are_enslaved_by;are_freed_by, are_released_by;attacked+, supported--;disrespected++
+confide_in;confess_to, share_stories_with, trust, believe_in, consult_with, complain_to, speak_to, reach_out_to, testify_before;lie_to, ignore;inspired+;respected++
+flatter;compliment, kiss_up_to, curry_favor_with, lick_up_to, entice, charm, suck_up_to, praise, please, popularize;insult, laugh_at, mock, taunt, condescend_to;attracted+;respected+, supported+
+interview;question, interrogate, cross_examine, speak_to, debrief, examine;silence;inspired+;respected+
+let_in;host, welcome, accommodate, rent_to, lease_to, summon, receive, are_visited_by;eject, evict;;respected+
+repay;pay_off, settle_with, buy_off;refuse_to_pay, withhold_payment_from;;respected+
+serve;report_to, work_for, support, obey, are_indoctrinated_by, worship, die_for, believe_in, tend, cater_to, care_for, pander_to, are_overworked_by, wait_on, work_under;rebel_against, rise_against, disobey, upstage;;respected++, supported++
+support;accompany, serve, work_for, obey, vote_for, fight_for, propagandize_for, champion, campaign_for, testify_for, are_exploited_by, assist, show_loyalty_to, deliver_for, help, carry_for, facilitate, finance, guarantee, nurture;undermine, campaign_against, cause_trouble_for;inspired+;respected++, supported++
+upstage;supplant, embarrass, humiliate, topple, overthrow, defeat;serve, obey;;disrespected++, supported--
+appoint;hire, enlist, recruit, promote, sign_up, elect, ordain;dismiss, fire;supported+;supported++
+are_banished_by;are_exorcized_by, are_expelled_by, are_ejected_by, are_cut_off_by, are_dismissed_by, are_fired_by, are_divorced_by, are_excommunicated_by, are_evicted_by;are_welcomed_by, are_appreciated_by;disrespected+++;repelled+++
+are_copied_by;are_imitated_by, are_impersonated_by;are_ignored_by;disappointed+, respected+;inspired+
+are_deflowered_by;sleep_with, are_seduced_by, are_kissed_by, mate_with;are_spurned_by, resist;;attracted++
+are_eluded_by;chase_after, pursue;track_down;attracted+;repelled++
+are_forgiven_by;obtain_sympathy_from, seek_sympathy_from, settle_with;are_resented_by;inspired+;disappointed--
+are_heckled_by;are_booed_by, are_mocked_by, are_taunted_by, are_criticized_by, are_insulted_by, are_abused_by, are_cursed_by, are_chastised_by, are_challenged_by, are_scolded_by, are_offended_by, are_rebuked_by, are_tormented_by, are_bullied_by, are_harassed_by;are_complimented_by, are_flattered_by;disrespected++;inspired--
+are_intrigued_by;are_mystified_by, are_attracted_by, are_lured_by, are_enchanted_by;are_bored_with;attracted+, inspired+;
+are_recalled_by;are_summoned_by;are_banished_by;;disappointed++
+are_ruled_by;are_commanded_by, are_bullied_by, obey, answer_to, report_to, are_suppressed_by, work_under;overthrow, rise_against, depose;inspired+;respected++
+buy_off;bribe, pay_off, coerce, repay, appease, invest_in, seduce;refuse_to_pay;;disrespected+, supported+
+denounce;break_with, condemn, renounce, curse, criticize, insult, testify_against, stand_up_to, cast_out, overcome, rebuff, reject, dislike, brief_against;suck_up_to, kiss_up_to;inspired--;disrespected+++, supported--
+fire;dismiss, eject, cast_out, release, abandon, evict, excommunicate;promote, hire;inspired--, disappointed++;disrespected+
+hire;appoint, recruit, enlist, sign_up, commission;fire, dismiss;supported+, respected++;respected+
+imitate;copy, impersonate, are_mistaken_for, are_inspired_by, look_up_to, admire, mimic, resemble;ignore, tune_out;inspired+;disappointed+, respected+
+labor_for;obey, are_overworked_by, sweat_for, work_for, are_enslaved_by, are_hired_by, carry_for, farm_for;undermine;;respected++
+negotiate_with;deal_with, settle_with, debate_with, debate, propose_to, interact_with, compete_with;argue_with;;
+observe;study, monitor, watch_over, spy_on, look_after;ignore, tune_out;;
+overwork;enslave, exploit, abuse, take_advantage_of;;;disrespected++
+seek_advice_from;confer_with, consult_with, are_advised_by, are_mentored_by, consult, are_counselled_by;tune_out;inspired+;respected++
+are_divorced_by;are_dumped_by, are_cut_off_by, are_abandoned_by, are_ejected_by, are_rejected_by, are_spurned_by, are_banished_by;commit_to;disappointed++;repelled++
+are_enslaved_by;are_imprisoned_by, are_overworked_by, are_pushed_too_far_by, are_underappreciated_by, are_abused_by, are_used_by, are_exploited_by, sweat_for, are_bought_off_by, are_incarcerated_by, labor_for, are_signed_by;are_freed_by, are_released_by;disrespected+++;
+are_interviewed_by;are_questioned_by, are_interrogated_by, answer_questions_from;are_silenced_by, are_ignored_by;respected+;inspired+
+are_molded_by;learn_from, are_influenced_by, are_guided_by, are_drilled_by, are_coached_by, are_radicalized_by, are_brainwashed_by, are_mentored_by, are_taught_by, are_counseled_by, are_led_by, are_educated_by, are_raised_by;;inspired++;respected++
+are_unimpressed_with;condescend_to, are_unimpressed_by, are_disappointed_by, harden_toward, are_failed_by, are_frustrated_by, resent, are_bored_by, are_bored_with;are_impressed_by, are_impressed_with;inspired--, disappointed++;disrespected++
+cheat_on;deceive, lie_to, cheat, trick, defraud, fool;show_loyalty_to;;disrespected+, disappointed++
+coach;train, instruct, teach, educate, supervise, discipline, guide, influence;lead_astray;respected++;inspired+
+confer_with;speak_to, talk_to, seek_advice_from, are_advised_by, are_mentored_by, consult, are_counselled_by, communicate_with;ignore, tune_out;respected+;respected+
+die_for;believe_in, worship, are_radicalized_by, are_brainwashed_by, show_loyalty_to, serve, fight_for;betray, snitch_on;inspired+++;supported++
+divorce;break_with, cast_out, let_go_of, break_up_with, dump, are_bored_with, are_bored_by, eject, break_free_of, dismiss, excommunicate;commit_to;repelled++;disappointed++
+elude;are_chased_by, are_pursued_by, escape_from, are_hunted_by, flee_from, hide_from, ignore, avoid, are_wanted_by;look_for;repelled++;attracted+
+enslave;take_advantage_of, coerce, control, fail_to_reward, command, imprison, overwork, enchant, oppress;release, free;;disrespected+++
+feel_sorry_for;pity, are_moved_by, sympathize_with;resent, laugh_at;;respected--, supported+
+grow_suspicious_of;harden_toward, lose_faith_in, distrust, are_disillusioned_by;believe_in, trust;inspired-;disrespected++
+heckle;insult, laugh_at, mock, taunt, abuse, disrespect, punish, offend, curse, embarrass, pick_on, bully, harass;compliment, flatter;inspired--;disrespected++
+kill_for;fight_for, are_radicalized_by, are_brainwashed_by, sacrifice_to;negotiate_for;inspired+++;supported++
+mock;laugh_at, heckle, abuse, hurt, insult, criticize, taunt, condescend_to, humiliate, disrespect, offend, embarrass, satirize;compliment, flatter;inspired-;attacked+, disrespected++
+sacrifice_to;worship, kill_for, pray_to;denounce, condemn;inspired+++;respected+++
+summon;let_in, welcome, dispatch;dismiss;respected++;inspired+
+take_aim_at;target, abuse, chase_after;ignore;inspired-, attracted+;attacked+
+track_down;hunt, chase_after, pursue, search_for, lay_a_trap_for, catch, capture, haunt, seek, apprehend, find, look_for, chase;avoid;attracted+;attacked+
+welcome;let_in, accommodate, listen_to, summon, receive, are_visited_by;eject, evict;respected+;respected+
+work_with;assist, help, are_helped_by, collude_with, conspire_with, take_up_with, perform_with, abet, compose_with, supply_to, train_with;compete_against, compete_with;respected+;respected+
+abandon;cast_off, cast_out, break_with, dump, fire, eject, run_away_from, hide_from, break_free_of, break_up_with, leave_behind, renounce;save, rescue, commit_to;repelled++;disappointed++,  supported---
+are_abducted_by;are_kidnapped_by, are_captured_by, are_snatched_by, are_imprisoned_by;are_ignored_by, are_overlooked_by;attacked++;attracted++
+are_appointed_by;are_hired_by, are_promoted_by, are_elected_by, are_enlisted_by, are_recruited_by, are_deployed_by, are_ennobled_by, report_to, are_retained_by;are_dismissed_by, are_fired_by;respected+;respected++
+are_censured_by;are_defrocked_by, are_scolded_by, are_chastised_by, are_silenced_by, are_hindered_by, are_criticized_by, are_disqualified_by, are_dismissed_by, are_suppressed_by, are_oppressed_by;are_encouraged_by;disrespected+, attacked+;inspired--, disappointed++
+are_challenged_by;are_resisted_by, are_heckled_by, struggle_against, are_contradicted_by, are_taunted_by, struggle_with, are_undermined_by, are_fought_by, are_frustrated_by, are_targeted_by;are_supported_by, are_facilitated_by;attacked+, respected+;
+are_criticized_by;are_attacked_by, are_offended_by, are_booed_by, are_mocked_by, are_taunted_by, fail_to_impress, are_sued_by, are_denounced_by, are_insulted_by, are_chastised_by, are_heckled_by, are_censured_by, are_scolded_by, are_punished_by, are_rebuked_by, are_accused_by, are_prosecuted_by;are_encouraged_by, are_motivated_by;attacked+, respected-;inspired--
+are_found_by;are_uncovered_by, are_captured_by, are_detained_by, are_caught_by, are_discovered_by;elude, are_ignored_by;;
+are_imitated_by;are_copied_by, are_impersonated_by, inspire, are_mistaken_for;are_mocked_by;disappointed+, respected+;inspired+
+are_mistaken_for;are_imitated_by, are_impersonated_by, imitate, mimic, copy, resemble, impersonate;tower_over;;
+are_scolded_by;are_chastised_by, are_insulted_by, are_criticized_by, are_heckled_by, are_disqualified_by, are_censured_by, are_punished_by, are_rebuked_by, are_whipped_by;are_thanked_by, are_complimented_by;disrespected+, attacked+;inspired--, disappointed++
+are_silenced_by;are_humiliated_by, are_ignored_by, are_defrocked_by, are_dismissed_by, are_censured_by, are_excommunicated_by, are_disqualified_by, are_suppressed_by, are_oppressed_by;are_interviewed_by;respected--;inspired-
+are_snatched_by;are_abducted_by, are_captured_by, are_kidnapped_by, are_imprisoned_by, are_detained_by;are_overlooked_by;attacked++;attracted++
+are_supplanted_by;are_ruined_by, are_deposed_by, are_usurped_by, are_disqualified_by, are_beaten_by, are_toppled_by, are_overthrown_by, are_upstaged_by, cede_power_to, are_betrayed_by, are_undermined_by;overshadow;disrespected++, attacked+, supported--;inspired-
+are_uncovered_by;are_discovered_by, are_found_by, are_captured_by;are_ignored_by, are_overlooked_by;;
+commit_to;bow_down_to, believe_in, show_loyalty_to, fight_for, marry, propose_to, woo;compete_against, brief_against, fight_against;inspired++;respected++
+condemn;denounce, renounce, curse, brief_against, testify_against, campaign_against;support, testify_for;inspired--, disappointed++;attacked+, supported--
+conspire_with;abet, collude_with, work_with, perform_with, take_up_with, cheat_with, fight_with, compose_with, worship_with;compete_against, compete_with;respected+;respected+
+date;woo, chase_after, consort_with;avoid;attracted+;attracted+
+destroy;attack, assault, devour, blow_up, assassinate, execute, kill, murder, defeat, overcome, beat_up;nurture, support;;attacked+++
+dismiss;fire, cast_out, cast_off, eject, reject, dump, divorce, evict, release, excommunicate;appoint, hire, summon;disappointed++;disrespected++
+disobey;stand_up_to, rebel_against, struggle_against, resist, rise_against, ignore, tune_out;obey;inspired--;disrespected++, supported-
+enchant;seduce, entice, charm, brainwash, persuade, enslave, mystify, pick_up;disgust;;inspired++, attracted+
+entertain;play_for, share_stories_with, perform_for, rouse;disgust;;attracted+, inspired+
+favor;promote, reward, champion, praise, compliment, nominate, encourage;overwork;respected++;respected++, supported+
+interrogate;question, torture, interview, cross_examine, debrief;silence;;attacked+, disrespected++
+overthrow;cast_out, supplant, topple, upstage, betray, defeat;cede_power_to, bow_down_to;inspired---;attacked++, disrespected+++, supported---
+pray_to;worship, sacrifice_to, bow_down_to;brief_against, curse;inspired+++;respected+++
+pursue;chase, seek, hunt, track_down, chase_after, are_eluded_by, search_for;avoid, ignore, lose_interest_in;attracted++;repelled+
+rule_over;rule, control, lead, manage, command, supervise, deploy, tower_over, abuse, subjugate, dominate, oppress, govern, repress;are_disobeyed_by, lose_control_over;respected++;inspired-
+sacrifice;take_advantage_of, abuse, profit_from, exploit, manipulate, kill, let_go_of;die_for;respected++;respected-, attacked++
+save;rescue, protect, defend, free, heal;destroy, sacrifice;respected++;supported++
+starve;ignore, suppress, repress, abuse, harass, bully;nurture, cater_to, pander_to;repelled+;attacked+, disrespected++
+testify_for;support, vote_for, campaign_for, propagandize_for, believe_in, advocate_for, shill_for;testify_against;inspired++;respected++, supported++
+tune_out;ignore, lose_interest_in, are_bored_by, are_bored_with, silence, disobey, avoid;listen_to;inspired--;respected--
+admire;are_intrigued_by, respect, look_up_to, worship, imitate, copy, believe_in, trust;resent, are_disgusted_by, hate;inspired+;respected++
+advise;instruct, guide, inspire, supervise, care_for, teach, educate, consult_with, watch_over, mentor, counsel, manage, influence;deceive, lead_astray;respected++;inspired+
+are_begged_by;tower_over, listen_to, are_moved_by;are_pitied_by;respected++;respected-
+are_coached_by;are_molded_by, are_drilled_by, are_lectured_by, are_taught_by, play_for, are_instructed_by, study_under, are_advised_by, learn_from, are_supervised_by, are_trained_by, are_tutored_by, are_educated_by;are_corrupted_by;inspired+;respected++
+are_cut_off_by;are_abandoned_by, are_expelled_by, are_rejected_by, are_spurned_by, are_banished_by, are_dumped_by, are_divorced_by, are_fired_by, are_ejected_by, are_excommunicated_by, are_disqualified_by;are_promoted_by, are_appreciated_by, are_rewarded_by;supported--;disappointed++
+are_deposed_by;are_overthrown_by, are_toppled_by, are_usurped_by, cede_power_to, are_supplanted_by, lose_to, are_beaten_by, are_betrayed_by;destroy, defeat;attacked++, disrespected+++, supported---;inspired---
+are_disobeyed_by;are_hindered_by, lose_control_over, are_frustrated_by, are_failed_by, are_ignored_by;are_obeyed_by;disrespected++, supported-;inspired--
+are_ejected_by;are_evicted_by, are_exorcized_by, are_banished_by, are_expelled_by, are_dismissed_by, are_cut_off_by, are_fired_by, are_divorced_by;are_welcomed_by;respected--;repelled+++
+are_escorted_by;are_accompanied_by, travel_with;are_dumped_by;supported+;attracted+
+are_evaluated_by;are_examined_by, are_diagnosed_by, are_questioned_by, are_interrogated_by, are_graded_by, are_reviewed_by;are_underestimated_by;;respected+
+are_handled_by;are_managed_by, are_supervised_by, are_guided_by, are_commanded_by, are_monitored_by;are_dumped_by;;respected+
+are_hired_by;are_appointed_by, work_for, are_retained_by, sign_with, labor_for, sweat_for, are_bought_off_by, are_recruited_by, are_enlisted_by, are_signed_by;are_fired_by;respected+;supported+, respected++
+are_imprisoned_by;are_enslaved_by, are_captured_by, are_incarcerated_by, are_detained_by, are_abducted_by, are_snatched_by, are_kidnapped_by;are_freed_by, are_released_by;attacked+, supported--;disrespected++
+are_investigated_by;are_probed_by, are_questioned_by, are_interrogated_by, are_stalked_by, are_distrusted_by;are_trusted_by;attacked+;inspired--, disappointed++
+are_mistreated_by;are_offended_by, are_harassed_by, are_exploited_by, are_used_by, are_abused_by;are_rewarded_by, are_appreciated_by, are_treated_by;attacked+, disrespected++;inspired-
+are_recruited_by;work_for, are_selected_by, are_trained_by, are_enlisted_by, are_hired_by, are_bought_off_by, are_appointed_by, follow, sign_with, are_converted_by, are_retained_by, are_signed_by;are_insulted_by, are_dismissed_by;respected+;supported+, respected++
+are_released_by;are_freed_by, escape_from, are_rescued_by, are_saved_by;are_enslaved_by, are_detained_by;attacked-, supported+;
+are_saved_by;are_rescued_by, are_freed_by, are_released_by, are_healed_by;are_ruined_by;supported++;respected++
+are_shielded_by;are_protected_by, are_defended_by, are_guarded_by, are_insured_by, are_guaranteed_by;are_attacked_by, are_undermined_by;supported++, attacked-;
+are_sought_by;are_enticed_by, are_pursued_by, are_stalked_by, are_tracked_by, are_chased_by, are_wanted_by;are_ignored_by;;attracted+
+are_welcomed_by;are_received_by, are_accommodated_by, are_greeted_by, are_introduced_by;are_ejected_by;respected+;respected+
+campaign_for;fight_for, vote_for, testify_for, propagandize_for, believe_in, support, advocate_for, champion, elect, popularize, shill_for;campaign_against;inspired++;supported++
+catch;capture, lay_a_trap_for, track_down, apprehend, arrest, find;avoid;attracted+;attacked+, supported--
+compete_against;campaign_against, run_against, turn_against, fight_against, struggle_with, struggle_against, resist, stand_up_to, debate_with, play_against, fight, challenge, deal_with;work_with;respected+;attacked+, respected+
+compete_with;play_with, fight_with, struggle_with, perform_with, negotiate_with, sing_with;work_with, support;respected+;respected+
+complain_to;confide_in, report_to, snitch_to, inform, talk_to, tip_off, respond_to;compliment, flatter;disappointed++;
+control;manage, command, rule, lead, rule_over, enslave, coerce, are_served_by, take_advantage_of, supervise, manipulate, deploy, are_obeyed_by, blackmail, dominate, oppress, protect, brainwash;lose_control_over;respected++;inspired--
+diagnose;evaluate, rank, cross_examine, study, treat, examine;ignore, tune_out;respected+;
+enlist;appoint, recruit, sign_up, brainwash, attract, hire, are_followed_by, convert, ordain;avoid;respected++;respected+
+fail_to_reward;refuse_to_pay, exploit, withhold_payment_from, take_advantage_of, enslave;reward;inspired-;disappointed++
+follow;are_recruited_by, obey, are_instructed_by, are_moved_by, are_guided_by, are_intrigued_by, are_inspired_by, are_led_by, fight_for, believe_in, are_commanded_by, worship, haunt, sign_with, hunt;hide_from, avoid;inspired+;respected++
+let_go_of;dump, break_with, break_up_with, sacrifice, evict, cast_out, cast_off, divorce, alienate, release;imprison, enslave, stalk;attracted+, disappointed+;repelled+
+lie_for;negotiate_for, act_for, speak_for, protect, propagandize_for, shill_for;lie_to, snitch_on;inspired+;respected++
+lose_favor_with;are_rejected_by, are_spurned_by, are_rebuffed_by, fail_to_impress, fail_to_deliver_for, disillusion, disappoint, are_judged_by;are_favored_by, are_promoted_by;disrespected++;disappointed++
+mimic;impersonate, copy, imitate, are_mistaken_for;satirize;inspired+;respected+, disappointed+
+rescue;save, free, release, protect, defend, heal;destroy;respected++;supported++
+respect;trust, admire, look_up_to, believe_in, worship;disrespect, resent, underestimate, condescend_to;inspired+;respected++
+rule;control, manage, lead, command, rule_over, dominate, supervise, guide, subjugate, oppress, govern;lose_control_over;respected++;inspired+
+search_for;seek, pursue, look_for, chase, chase_after, track_down;lose_interest_in;attracted+;
+sign_up;recruit, hire, enlist, appoint, commission, convert, ordain;reject;respected+;respected+
+talk_to;speak_to, confer_with, communicate_with, communicate_via, share_stories_with, complain_to;silence, ignore;respected+;respected+
+taunt;mock, heckle, insult, criticize, challenge, laugh_at, condescend_to, humiliate, disrespect, prey_on, offend, persecute, bully;encourage;inspired-;disrespected++, attacked+
+torture;torment, persecute, harass, abuse, hurt, interrogate, pick_on, prey_on;nurture;disrespected+;disrespected++, attacked++
+travel_with;accompany, transport, are_escorted_by, are_accompanied_by, consort_with;avoid;respected+;respected+
+trick;fool, deceive, cheat, manipulate, coerce, lie_to, misrepresent, defraud, cheat_on;show_loyalty_to, snitch_to;respected+;disappointed++, inspired--, disrespected++
+vote_for;support, elect, campaign_for, select, nominate, pick, testify_for, believe_in;vote_against;inspired+;respected++
+watch_over;protect, defend, monitor, advise, care_for, pray_for, spy_on, look_after, are_concerned_about, observe, guard, manage, stalk;ignore, tune_out;attracted+;respected+
+are_advised_by;confer_with, are_guided_by, seek_advice_from, are_counselled_by, are_counseled_by, consult_with, are_coached_by, are_served_by, consult;are_corrupted_by;inspired+;respected++
+are_booed_by;are_heckled_by, are_taunted_by, are_criticized_by, are_mocked_by, are_insulted_by, fail_to_impress, fail_to_deliver_for, are_chastised_by;are_encouraged_by, are_motivated_by;disrespected++;inspired--
+are_captured_by;are_incarcerated_by, are_imprisoned_by, are_detained_by, are_snatched_by, are_found_by, are_lured_by, are_abducted_by, are_uncovered_by, are_caught_by, are_discovered_by;are_ignored_by, are_overlooked_by;attacked+;attracted+
+are_charmed_by;are_seduced_by, are_indoctrinated_by, are_enticed_by, are_persuaded_by, are_attracted_by, are_lured_by, are_flattered_by, are_enchanted_by, are_wooed_by, are_converted_by;are_disgusted_by;attracted++, inspired+;respected+
+are_chosen_by;are_elected_by, are_selected_by, are_picked_by, are_nominated_by, are_favored_by;are_rejected_by;respected+;attracted+
+are_detained_by;are_incarcerated_by, are_imprisoned_by, are_captured_by, are_snatched_by, are_found_by;are_freed_by, are_released_by;disrespected+, supported-;
+are_excommunicated_by;are_silenced_by, are_chastised_by, are_banished_by, are_cut_off_by, are_dismissed_by, are_evicted_by, are_expelled_by, are_fired_by, are_defrocked_by, are_suppressed_by, are_disqualified_by, are_exorcized_by, are_rejected_by;are_ordained_by;disrespected++;repelled++
+are_expelled_by;are_silenced_by, are_chastised_by, are_banished_by, are_cut_off_by, are_dismissed_by, are_evicted_by, are_excommunicated_by, are_fired_by, are_defrocked_by, are_disqualified_by, are_dumped_by, are_abandoned_by, are_ejected_by, are_exorcized_by, are_rejected_by;are_welcomed_by;respected--;repelled++, disappointed+++
+are_freed_by;are_released_by, are_saved_by, are_rescued_by;are_enslaved_by, are_detained_by, are_imprisoned_by;attacked-, supported+;
+are_funded_by;borrow_from, are_financed_by, are_paid_by, become_dependent_upon, are_bought_off_by, are_supported_by, are_facilitated_by, inherit_from;are_undermined_by;supported++, respected+;respected++
+are_intimidated_by;are_taunted_by, are_threatened_by, are_bullied_by, are_overshadowed_by;laugh_at;repelled+;respected+
+are_kissed_by;love, attract, flirt_with, sleep_with, are_deflowered_by, are_loved_by;are_disfigured_by, are_cursed_by;respected+;attracted+
+are_photographed_by;model_for, pose_for, attract, are_painted_by;are_overlooked_by;respected+;attracted+
+are_protected_by;are_shielded_by, are_defended_by, are_guarded_by, are_served_by, are_insured_by, are_guaranteed_by;are_ruined_by, are_threatened_by;supported++;
+are_punished_by;are_beaten_by, are_humiliated_by, are_whipped_by, are_scolded_by, are_chastised_by, are_criticized_by, are_tortured_by, are_hurt_by, are_tormented_by;are_rewarded_by, are_appreciated_by;respected--, attacked++;disappointed++
+attract;are_followed_by, entice, charm, inspire, impress, are_wanted_by, are_photographed_by, are_favored_by;disgust, alienate,;respected+;attracted++
+break_up_with;dump, break_with, let_go_of, break_free_of, cast_off, divorce, abandon, escape_from, flee_from, cast_out, renounce;marry, propose_to;repelled+;disappointed++
+brief_against;campaign_against, run_against, testify_against, fight_against, struggle_with, struggle_against, resist, stand_up_to, spread_lies_about, undermine, condemn, snitch_on, vote_against, accuse;testify_for, campaign_for;repelled+;supported--, attacked+
+capture;catch, arrest, imprison, track_down, incarcerate, detain, abduct, lay_a_trap_for, kidnap, take_as_prisoner, apprehend, find, snatch;free, release;attracted+;attacked+
+counsel;advise, guide, consult_with, confer_with, mentor;lead_astray;respected++;respected+
+cry_for;pine_for, sympathize_with, mourn_for, remember;abandon;attracted+;
+defeat;overcome, supplant, dominate, topple, upstage, overthrow, subjugate, tower_over, destroy, conquer;lose_to, surrender_to;;attacked+++
+dominate;defeat, supplant, topple, subjugate, rule, rule_over, tower_over, suppress, repress, control, oppress, coerce, manage, brainwash, conquer;lose_control_over;respected++;respected-
+drink_with;share_stories_with, consort_with, chat_with;avoid;respected+;respected+
+evict;let_go_of, cast_out, cast_off, dismiss, fire, excommunicate, disqualify, rebuff, reject, exorcise;welcome;repelled++, disappointed+++;respected--
+guard;protect, monitor, watch_over, look_after, care_for, spy_on;abandon, sacrifice;;supported++
+ignore;tune_out, avoid, elude, are_bored_with, are_bored_by, lose_interest_in, disobey, starve;stalk;attracted-;respected-
+imprison;take_as_prisoner, incarcerate, detain, enslave, abduct, capture, kidnap, suppress, apprehend, snatch;free, release;disrespected++;attacked+, supported--
+look_after;manage, protect, care_for, handle, breastfeed, tend, supervise, watch_over, nurture, guard, attend, cater_to, defend, monitor, attend_to, minister_to, pray_for, provide_for, observe, raise;lose_interest_in;respected++;respected+
+lose_to;are_defeated_by, are_beaten_by, are_ruined_by, cede_power_to, are_conquered_by, bow_down_to, surrender_to, are_deposed_by, are_subdued_by;defeat;respected--;respected++, inspired--
+love;fall_in_love_with, are_attracted_by, worship, care_for, show_loyalty_to, marry, are_kissed_by, woo, nurture;hate, dislike;attracted++;supported+
+oppress;suppress, repress, rule, rule_over, dominate, control, enslave, subjugate, censure, conquer, coerce, subdue;are_popularized_by, are_marketed_by;;attacked+, inspired--
+play_for;entertain, perform_for, rouse, are_coached_by;play_against;respected+;respected++
+play_with;compete_with, sing_with, perform_with, fight_with;play_against;respected+;respected+
+pray_with;worship_with;curse, denounce, break_with;respected+;respected+
+prey_on;pick_on, persecute, torment, abuse, bully, taunt, lay_a_trap_for, profit_from, exploit, devour, hunt, chase, chase_after, harass, stalk;support, respect;attracted+;attacked+, repelled+
+read_the_works_of;are_inspired_by, are_indoctrinated_by, study_under, read_about, are_intrigued_by;ignore, tune_out;inspired+;respected++
+rebel_against;turn_against, stand_up_to, resist, rise_against, disobey, betray, struggle_against;support, bow_down_to, vote_for, campaign_for;inspired--;respected--
+report_to;serve, answer_to, are_appointed_by, are_deployed_by, snitch_to, inform, take_messages_for, write_to, are_ruled_by, complain_to, speak_to, act_for, answer, answer_questions_from, are_summoned_by, respond_to, testify_before, work_under, govern_for;hide_from, snitch_on;;respected++
+resist;stand_up_to, rebel_against, struggle_against, rise_against, turn_against, disobey, fight_against, compete_against, brief_against, challenge;support, work_with, agree_with;inspired-;attacked+, supported--
+reward;encourage, favor, tip, please, pay;punish, chastise, withhold_payment_from;respected++;respected+, supported+
+seduce;enchant, lay_a_trap_for, entice, persuade, attract, woo, corrupt, pick_up, buy_off;disgust;attracted+;attracted++, inspired+
+share_stories_with;identify_with, confess_to, confide_in, listen_to, entertain, talk_to, drink_with, speak_to, chat_with, live_with, speak_with;lie_to;respected+;respected+
+sing_with;perform_with, play_with, compete_with, compose_with;break_with;respected+;respected+
+struggle_against;resent, despise, overcome, fight, resist, rise_against, rebel_against, stand_up_to, are_resisted_by, fight_against, are_challenged_by, disobey, compete_against, brief_against, struggle_with, run_against, are_fought_by, challenge, play_against;campaign_for, elect, vote_for, appease;repelled++, inspired--;repelled+
+study;believe_in, observe, examine, evaluate, rank, diagnose, experiment_on, review, read_about;lose_interest_in;inspired+;respected++
+teach;instruct, advise, educate, examine, train, supervise, guide, lecture_to, lead, coach, minister_to, mentor;lead_astray, deceive;respected++;inspired+
+tend;manage, raise, care_for, look_after, nurture, serve, pander_to, cater_to, minister_to, wait_on, attend, cure, attend_to, breastfeed, cook_for, indulge, provide_for, work_under;lose_interest_in, take_advantage_of, exploit;respected+;supported+
+visit;speak_with, consult, consult_with;avoid, run_away_from;inspired+;respected+
+withhold_payment_from;refuse_to_pay, fail_to_reward;repay, reward, pay_off;disappointed++;disrespected+, supported-
+appease;pay_off, buy_off, bribe;resist, stand_up_to;respected-;respected++
+are_assisted_by;are_supported_by, are_served_by, are_facilitated_by, are_helped_by, are_encouraged_by;are_hindered_by, are_undermined_by, are_frustrated_by;supported+;
+are_caught_by;are_lured_by, are_captured_by, are_found_by;elude, avoid;attacked+, supported--;attracted+
+are_conquered_by;are_overwhelmed_by, are_beaten_by, are_defeated_by, lose_to, surrender_to, cede_power_to, are_subdued_by, are_ruined_by, are_dominated_by, are_overrun_by, are_subjugated_by, are_overthrown_by;defeat, resist, overcome;attacked+++;respected+
+are_contradicted_by;argue_with, disagree_with, are_challenged_by, are_taunted_by, are_resisted_by, debate, struggle_with, are_undermined_by, debate_with, are_debated_by, are_frustrated_by;agree_with, settle_with;disrespected++, attacked+;
+are_defrocked_by;are_dismissed_by, are_silenced_by, are_censured_by, are_expelled_by, are_excommunicated_by, are_evicted_by, are_exorcised_by;are_promoted_by, are_appreciated_by, are_rewarded_by;disrespected++;disappointed++
+are_dispatched_by;are_deployed_by, are_summoned_by, are_fielded_by;are_recalled_by, are_summoned_by;;respected+
+are_disqualified_by;are_silenced_by, are_censured_by, are_evicted_by, are_expelled_by, are_dismissed_by, are_cut_off_by, are_dumped_by, are_scolded_by, are_supplanted_by, are_excommunicated_by, are_rejected_by;are_selected_by, are_chosen_by, are_nominated_by;disrespected++;disappointed++
+are_enchanted_by;are_enticed_by, are_seduced_by, are_lured_by, are_attracted_by, are_charmed_by, are_mystified_by, are_intrigued_by;are_disgusted_by;attracted++;
+are_enticed_by;are_enchanted_by, are_seduced_by, are_lured_by, are_attracted_by, fall_in_love_with, sleep_with, are_flattered_by, are_sought_by, are_charmed_by, are_persuaded_by;are_disgusted_by;attracted++, inspired+;
+are_followed_by;attract, are_accompanied_by, are_admired_by, are_worshipped_by, are_supported_by, command, inspire, guide, enlist, recruit, are_venerated_by;are_ignored_by, are_overlooked_by;respected++;attracted+, inspired+
+are_healed_by;are_treated_by, are_saved_by, are_rescued_by;are_hurt_by;supported+;
+are_helped_by;are_facilitated_by, are_assisted_by, are_supported_by, work_with;are_hindered_by;supported+, respected+;
+are_hindered_by;are_frustrated_by, are_undermined_by, are_disappointed_by, are_failed_by, are_resisted_by, are_driven_mad_by, are_censured_by, are_disobeyed_by, are_fought_by;are_helped_by, are_assisted_by, are_facilitated_by;supported-;
+are_informed_by;are_educated_by, learn_from, are_influenced_by, are_answered_by;are_deceived_by;respected+, supported+;
+are_interrogated_by;are_questioned_by, are_tortured_by, are_investigated_by, are_probed_by, are_interviewed_by, are_evaluated_by;are_silenced_by, are_ignored_by;attacked+, disrespected++;
+are_kidnapped_by;are_abducted_by, are_snatched_by, are_imprisoned_by;are_ignored_by, are_overlooked_by;attacked++;attracted++
+are_loved_by;are_worshipped_by, are_venerated_by, are_admired_by, attract, marry, are_kissed_by;are_despised_by;supported+;attracted++
+are_mentored_by;are_supervised_by, are_guided_by, seek_advice_from, confer_with, consult_with, look_up_to, listen_to, are_molded_by, are_influenced_by, consult, are_commanded_by, are_counseled_by, are_trained_by, are_tutored_by, are_counselled_by, are_instructed_by, are_educated_by, are_managed_by, are_motivated_by;are_ignored_by, are_abandoned_by;inspired++;respected++
+are_overthrown_by;are_deposed_by, are_usurped_by, are_toppled_by, are_supplanted_by, cede_power_to, are_conquered_by, are_beaten_by, are_defeated_by, are_overrun_by;defeat, are_supported_by;supported---, attacked+;inspired---
+are_paid_by;are_appreciated_by, are_rewarded_by, are_funded_by, are_financed_by, are_repaid_by;are_refused_payment_by;supported+;
+are_painted_by;pose_for, model_for, are_photographed_by;are_disfigured_by, are_misrepresented_by;;attracted+
+are_persecuted_by;are_oppressed_by, are_tormented_by, are_tortured_by, are_taunted_by, are_insulted_by, are_sickened_by, are_disgusted_by, are_shocked_by, are_abused_by, are_harassed_by, are_bullied_by, are_attacked_by, are_mocked_by, are_stalked_by, are_cursed_by, are_driven_mad_by;are_supported_by, are_facilitated_by, are_encouraged_by;attacked+, disrespected++;inspired--
+are_persuaded_by;are_brainwashed_by, are_charmed_by, are_enticed_by, are_bought_off_by, are_moved_by, are_influenced_by, are_seduced_by, settle_with, are_indoctrinated_by, agree_with, are_converted_by;disagree_with;inspired+;respected+
+are_reported_by;are_accused_by, are_prosecuted_by, are_sued_by, are_accused_by;are_popularized_by, are_marketed_by;supported--;disappointed++
+are_represented_by;act_via, dispatch, delegate_to;are_misrepresented_by;;
+are_savaged_by;are_attacked_by, are_assaulted_by, are_bitten_by, are_hurt_by, are_insulted_by, are_killed_by, are_cursed_by, are_disfigured_by, are_ruined_by;are_nurtured_by, are_protected_by, are_shielded_by;attacked+++, disrespected++;
+are_served_by;are_supported_by, are_advised_by, delegate_to, are_protected_by, are_guarded_by, are_obeyed_by, are_defended_by, are_assisted_by, are_attended_by, are_cared_for_by, rely_on;are_hindered_by, are_undermined_by, are_frustrated_by;respected++;
+are_subdued_by;are_suppressed_by, are_defeated_by, are_conquered_by, lose_to, are_subjugated_by, are_oppressed_by;are_encouraged_by, are_motivated_by;attacked+, disrespected+;
+are_supervised_by;are_tended_by, are_guarded_by, are_monitored_by, are_guided_by, are_mentored_by, are_drilled_by, are_coached_by, are_instructed_by, are_influenced_by, are_handled_by, are_commanded_by, are_counseled_by, are_trained_by, are_tutored_by, are_managed_by;are_overlooked_by;;respected+
+are_supported_by;are_served_by, are_funded_by, are_defended_by, are_accompanied_by, delegate_to, are_worshipped_by, are_followed_by, are_assisted_by, are_obeyed_by, are_helped_by, are_championed_by, are_facilitated_by, are_guaranteed_by, are_tended_by, are_waited_upon_by;are_hindered_by, are_undermined_by, are_frustrated_by;supported++;
+are_suppressed_by;are_silenced_by, are_subjugated_by, are_ruled_by, are_controlled_by, are_dominated_by, are_excommunicated_by, are_subdued_by, are_oppressed_by, are_censured_by;are_encouraged_by, are_motivated_by, are_promoted_by, are_marketed_by;attacked+, supported--;
+are_taught_by;are_educated_by, are_trained_by, study_under, learn_from, are_molded_by, are_influenced_by, are_instructed_by, are_indoctrinated_by, are_coached_by, are_tutored_by;are_deceived_by;inspired+;respected+
+are_thanked_by;are_complimented_by, are_rewarded_by, are_appreciated_by, are_repaid_by, are_tipped_by;are_underappreciated_by;respected+;
+are_tortured_by;are_persecuted_by, are_tormented_by, are_hurt_by, are_punished_by, are_interrogated_by;are_nurtured_by, are_protected_by, are_shielded_by, are_spoiled_by;disrespected++, attacked++;disrespected+
+are_tracked_by;are_pursued_by, are_stalked_by, are_hunted_by, are_sought_by, are_chased_by, are_wanted_by;are_ignored_by, are_abandoned_by;attacked+;attracted+
+are_wooed_by;are_pursued_by, are_seduced_by, are_flattered_by, flirt_with, are_charmed_by, are_lured_by;are_dumped_by, are_spurned_by;;attracted++
+assist;work_for, support, facilitate, help, encourage, work_with, deliver_for, provide_for;undermine, resist;;supported+
+care_for;advise, guide, inspire, supervise, nurture, love, handle, look_after, tend, serve, pray_for, are_concerned_about, watch_over, guard, attend, cater_to, defend, attend_to, breastfeed, minister_to, provide_for, manage, raise;take_advantage_of, exploit;;supported+
+cast_off;are_ruined_by, cast_out, are_denounced_by, abandon, break_with, dismiss, let_go_of, break_up_with, evict, excommunicate, avoid, reject, renounce;marry, commit_to;disappointed++, repelled+;respected--
+charm;persuade, enchant, entice, attract, flatter, woo, pick_up;disgust, ;respected+;attracted++, inspired+
+coerce;enslave, control, suppress, buy_off, bribe, blackmail, dominate, manipulate, indoctrinate, trick, oppress;encourage, lose_control_over;respected+;disrespected+
+command;lead, control, rule, rule_over, are_obeyed_by, indoctrinate, are_followed_by, subjugate, deploy, dispatch, send, delegate_to, enslave, manage, bully;are_disobeyed_by, lose_control_over;respected++;inspired+
+compliment;flatter, praise, curry_favor_with, suck_up_to, lick_up_to, kiss_up_to, flirt_with, favor, please, popularize;insult, taunt, mock, satirize;attracted+;respected+
+consult;are_influenced_by, are_mentored_by, are_advised_by, seek_advice_from, confer_with, speak_to, are_counselled_by, are_counseled_by, visit;tune_out;;respected+
+copy;are_mistaken_for, imitate, impersonate, are_influenced_by, admire, mimic, resemble;ignore;inspired+;disappointed+, respected+
+debate;argue_with, negotiate_with, debate_with, disagree_with, are_contradicted_by, challenge;silence, ignore;respected+;respected+
+defraud;exploit, manipulate, take_advantage_of, steal_from, rob, trick, cheat, lie_to, deceive, fool, cheat_on;invest_in;;disappointed++, disrespected+
+delegate_to;command, dispatch, deploy, act_via, govern_via, send, are_represented_by, are_served_by, are_supported_by, manage, commission;distrust;respected+;
+deploy;delegate_to, dispatch, act_via, rule_over, control, command, manage, send, unleash, commission;recall;respected++;respected+
+disillusion;disappoint, lose_control_over, fail_to_deliver_for, fail_to_impress, lose_favor_with;inspire;respected-;disappointed++, inspired--
+dispatch;send, deploy, delegate_to, commission, unleash, command, act_via;recall;respected++;respected+
+encourage;rouse, inspire, champion, promote, reward, assist, facilitate, favor;suppress, silence, censure;respected++;respected+, supported+
+evaluate;select, study, examine, rank, diagnose, review;underestimate;respected+;
+excommunicate;dump, exorcise, fire, divorce, cast_out, cast_off, dismiss, evict, renounce;promote;repelled++;disrespected++
+forgive;are_moved_by, sympathize_with;resent;disappointed--;inspired+
+harden_toward;grow_suspicious_of, lose_faith_in, are_pushed_too_far_by, are_hardened_by, are_unimpressed_with, dislike, vote_against, despise, distrust, renounce;believe_in, trust;repelled+, disappointed+; supported-, disrespected+
+haunt;are_missed_by, follow, track_down, spy_on;ignore, avoid;attracted+;inspired+
+kidnap;abduct, imprison, capture, snatch;lose_interest_in;attracted++;attacked++
+lead;manage, command, inspire, instruct, rule, control, rule_over, supervise, guide, govern, nurture, mentor, brainwash, indoctrinate, teach, are_worshipped_by, influence;disillusion, are_abandoned_by;respected++;inspired++
+lose_interest_in;are_pushed_too_far_by, are_bored_by, are_bored_with, lose_faith_in, are_failed_by, tune_out, ignore, are_disillusioned_by;are_concerned_about, are_intrigued_by;inspired--, disappointed++;respected--
+manage;host, lead, tend, supervise, handle, command, mentor, advise, control, instruct, look_after, rule, rule_over, watch_over, train, govern, dominate, delegate_to, deploy, dispatch, monitor, care_for;lose_control_over;respected++;
+mentor;train, teach, instruct, advise, counsel, guide, supervise, lead, manage, educate, lecture_to, handle, influence, minister_to, nurture;lead_astray, deceive;respected++;inspired+
+offend;insult, mock, heckle, taunt, disrespect, laugh_at, humiliate, curse, hurt, anger;flatter, compliment;inspired-;disrespected++, attacked+
+pamper;spoil, pander_to, cater_to, minister_to, wait_on, massage;scold, chastise, overwork;;respected+
+persecute;abuse, torture, bully, torment, pick_on, prey_on, threaten, intimidate, taunt, embarrass, terrorize, harass, humiliate;pamper, cater_to, care_for;inspired-;attacked+, disrespected++
+rank;elect, select, nominate, evaluate, pick, examine, diagnose, study;disqualify;;respected+
+receive;are_visited_by, let_in, welcome, accommodate;avoid, hide_from, cast_out;;respected+
+recruit;hire, enlist, sign_up, convert, baptise, appoint,  ordain, persuade;disqualify;respected++;respected+
+resemble;imitate, copy, impersonate, are_mistaken_for;;;
+seek;find, look_for, search_for, hunt, track_down, pursue, chase, chase_after, round_up;avoid, hide_from, run_away_from;attracted+;
+send;deploy, dispatch, delegate_to, act_via, govern_via, command, commission, unleash;recall;respected+;
+sign_with;are_hired_by, are_recruited_by, follow, work_for, are_signed_by;break_with;respected+;respected++
+speak_to;interview, snitch_to, talk_to, confer_with, consult, confide_in, confess_to, share_stories_with, communicate_with, report_to, answer_to, chat_with, write_to;ignore, avoid;;respected+
+struggle_with;fight, are_challenged_by, fight_against, struggle_against, compete_against, campaign_against, run_against, disagree_with, are_contradicted_by, compete_with, brief_against, play_against;campaign_for, support, agree_with, settle_with;attacked+;attacked+
+supplant;topple, defeat, upstage, overthrow, conquer, dominate;work_with, support;;attacked+, supported---
+supply;supply_to, export_to, sell_to, deliver_to, provide_for;starve;respected+;
+suppress;repress, take_as_prisoner, silence, censure, dominate, coerce, oppress, imprison, subjugate, starve;encourage;;attacked+, supported--
+sweat_for;labor_for, are_overworked_by, work_for, are_enslaved_by, are_exploited_by, obey, are_hired_by, carry_for, farm_for;fail_to_deliver_for;;respected+
+take_as_prisoner;imprison, suppress, incarcerate, capture, repress;free, release, let_go_of;;attacked+, supported--
+torment;persecute, pick_on, prey_on, torture, threaten, abuse, harass, intimidate, cause_trouble_for, terrorize, whip, bully;nurture, care_for, respect;;attacked++, respected--
+wait_on;tend, pander_to, cater_to, spoil, serve, pamper, attend, attend_to, cook_for, indulge, raise, work_under;bully, ignore;;respected++
+accompany;support, travel_with, consort_with, accompany, take_up_with, guide;avoid;respected+;respected+
+agree_with;settle_with, identify_with, are_persuaded_by, are_moved_by, are_converted_by;disagree_with, are_contradicted_by;respected+;respected+
+apprehend;arrest, capture, catch, track_down, imprison, round_up;let_go_of;attracted+;disrespected+
+are_accommodated_by;are_welcomed_by, live_with, rent_from, lease_from, are_greeted_by, are_received_by;are_evicted_by, are_expelled_by;respected+, supported+;
+are_accompanied_by;are_followed_by, are_supported_by, are_served_by, travel_with, are_transported_by, are_escorted_by;are_abandoned_by;respected+;respected+
+are_baptized_by;are_converted_by, are_radicalized_by, are_ennobled_by, are_blessed_by;are_cursed_by;;respected+
+are_blessed_by;are_baptized_by, are_favored_by, are_ennobled_by, are_ordained_by;are_cursed_by;respected+;respected++
+are_commanded_by;are_managed_by, are_led_by, are_guided_by, obey, are_controlled_by, are_ruled_by, are_supervised_by, are_mentored_by, are_deployed_by, act_for, govern_for, are_handled_by, follow, are_fielded_by, are_dominated_by, are_monitored_by, are_scripted_by, are_subjugated_by;disobey, stand_up_to, resist;inspired+;respected++
+are_complimented_by;are_flattered_by, are_promoted_by, are_marketed_by, are_thanked_by;are_insulted_by, are_taunted_by, are_mocked_by;respected+;attracted+
+are_converted_by;are_baptized_by, are_persuaded_by, are_charmed_by, are_recruited_by, are_radicalized_by, believe_in, are_signed_by, agree_with, believe_in;are_denounced_by;;respected++
+are_counseled_by;are_counselled_by, are_counseled_by, are_advised_by, are_supervised_by, are_guided_by, are_influenced_by, are_molded_by, are_mentored_by, are_encouraged_by, consult, are_treated_by;are_ignored_by, are_abandoned_by;respected+;respected++
+are_defrauded_by;are_exploited_by, are_misrepresented_by, are_deceived_by, are_robbed_by, are_tricked_by, are_manipulated_by, are_cheated_by, are_refused_payment_by;profit_from;disappointed++, disrespected+;
+are_diagnosed_by;are_examined_by, are_probed_by, are_evaluated_by, are_profiled_by, are_treated_by, are_graded_by, are_judged_by;are_overlooked_by;;respected+
+are_encouraged_by;are_roused_by, are_energized_by, are_assisted_by, are_counseled_by, are_motivated_by;are_subdued_by, are_silenced_by, are_suppressed_by;respected+, supported+;respected++
+are_energized_by;are_roused_by, are_motivated_by, are_radicalized_by, are_inspired_by, are_entertained_by, are_encouraged_by, are_driven_by;are_subdued_by, are_suppressed_by;supported+;respected+
+are_evicted_by;are_ejected_by, are_excommunicated_by, are_banished_by, are_expelled_by, are_dumped_by, are_defrocked_by, are_exorcized_by, are_disqualified_by, are_rejected_by;are_welcomed_by, are_accommodated_by;respected--;repelled++, disappointed+++
+are_exorcized_by;are_banished_by, are_ejected_by, are_expelled_by, are_evicted_by, are_excommunicated_by;resist, haunt;respected--;repelled+++, inspired---
+are_failed_by;are_disappointed_by, are_unimpressed_by, are_unimpressed_with, are_judged_by, are_frustrated_by, criticize, are_disobeyed_by, are_hindered_by, lose_interest_in, are_undermined_by;are_impressed_by, are_impressed_with;disappointed++;disrespected+
+are_fielded_by;are_deployed_by, are_dispatched_by, are_commanded_by;are_recalled_by;respected+;respected++
+are_financed_by;are_funded_by, are_facilitated_by, are_paid_by, borrow_from, are_bought_off_by, inherit_from;are_refused_payment_by;respected+;respected++
+are_led_by;are_commanded_by, are_guided_by, follow, are_influenced_by, are_molded_by, are_managed_by, are_monitored_by;are_abandoned_by;inspired+;respected++
+are_marketed_by;are_promoted_by, are_championed_by, are_facilitated_by, are_complimented_by, are_popularized_by, are_published_by;are_censured_by, are_suppressed_by;respected+;
+are_nominated_by;are_elected_by, are_chosen_by, are_selected_by, are_favored_by, are_picked_by;are_disqualified_by;respected+;respected++
+are_offended_by;are_criticized_by, are_mistreated_by, are_insulted_by, are_heckled_by, are_abused_by, are_harassed_by, are_rebuked_by;are_complimented_by, are_flattered_by;disrespected++, attacked+;inspired-
+are_oppressed_by;are_persecuted_by, are_tormented_by, are_subjugated_by, are_controlled_by, are_dominated_by, are_suppressed_by, are_subdued_by, are_censured_by, are_silenced_by, are_bullied_by, are_overrun_by;are_encouraged_by, are_motivated_by, are_promoted_by, are_marketed_by;attacked+, inspired--;
+are_overworked_by;are_underpaid_by, are_pushed_too_far_by, are_enslaved_by, are_exploited_by, are_used_by, are_underappreciated_by, are_abused_by, are_driven_mad_by, serve, labor_for, sweat_for;are_appreciated_by;respected-;respected++
+are_published_by;write_for, are_facilitated_by, are_marketed_by, are_popularized_by;are_silenced_by, are_censured_by, are_suppressed_by;respected+;
+are_questioned_by;are_interviewed_by, are_interrogated_by, are_probed_by, are_investigated_by, are_evaluated_by, are_examined_by, are_graded_by, are_profiled_by;are_ignored_by, are_overlooked_by;;
+are_radicalized_by;are_roused_by, are_indoctrinated_by, are_brainwashed_by, are_moved_by,  are_hardened_by, are_molded_by, die_for, kill_for, are_baptized_by, are_converted_by, are_energized_by, are_drilled_by, are_enlisted_by, are_ordained_by, are_scripted_by, sympathize_with;are_suppressed_by;inspired+++;respected+++
+are_read_by;are_probed_by, are_remembered_by, are_studied_by;are_overlooked_by;respected+;
+are_rebuked_by;are_humiliated_by, are_offended_by, are_criticized_by, are_heckled_by, are_insulted_by, are_scolded_by, are_chastised_by;are_encouraged_by, are_motivated_by, are_rewarded_by;respected--;disappointed++
+are_rejected_by;are_spurned_by, are_rebuffed_by, are_dumped_by, are_evicted_by, are_expelled_by, are_excommunicated_by, are_disqualified_by, are_divorced_by, are_cut_off_by, lose_favor_with;are_appointed_by, are_chosen_by;respected--;repelled++, disappointed+++
+are_remembered_by;are_chronicled_by, are_missed_by, are_read_by, are_named_by;are_forgotten_by;respected+;inspired+
+are_repaid_by;are_paid_by, are_thanked_by, are_appreciated_by;are_refused_payment_by;disappointed--, respected+;
+are_resented_by;are_despised_by, are_underappreciated_by, are_distrusted_by, are_undermined_by, are_fought_by;are_thanked_by, are_appreciated_by;disrespected++;repelled+, disappointed++
+are_ruined_by;are_denounced_by, are_supplanted_by, are_killed_by, are_cursed_by, are_betrayed_by, are_abandoned_by, lose_to, are_defeated_by, are_driven_mad_by, are_conquered_by, are_savaged_by, are_corrupted_by, are_victimized_by;profit_from;attacked++, supported---;
+are_spoiled_by;are_raised_by, are_nurtured_by, are_attended_by, are_cared_for_by;are_chastised_by, are_scolded_by, are_whipped_by, are_abused_by, are_harassed_by;respected+;disrespected+
+are_studied_by;are_probed_by, are_read_by, are_chronicled_by, are_profiled_by, are_monitored_by;are_overlooked_by;respected++;inspired+
+are_supplied_by;buy_from, order_from;are_ignored_by, are_abandoned_by, are_cut_off_by;;respected+
+are_tipped_by;are_thanked_by, are_appreciated_by, are_rewarded_by, please;are_underappreciated_by, are_refused_payment_by;respected+;
+are_tormented_by;are_detained_by, are_persecuted_by, are_tortured_by, are_attacked_by, are_taunted_by, are_oppressed_by, are_manipulated_by, are_harassed_by, are_stalked_by, are_bullied_by, are_abused_by, are_hurt_by, are_frustrated_by, are_exploited_by, are_cursed_by, are_heckled_by, are_pushed_too_far_by, are_betrayed_by, are_humiliated_by, are_insulted_by, are_mocked_by, are_driven_mad_by, are_hardened_by, are_sickened_by, are_punished_by;are_spoiled_by;attacked++, respected--;
+are_trained_by;are_taught_by, are_educated_by, are_instructed_by, are_coached_by, are_drilled_by, are_mentored_by, are_tutored_by, are_supervised_by;are_corrupted_by;supported+;respected++
+are_treated_by;are_counseled_by, are_examined_by, are_healed_by, are_diagnosed_by;are_ignored_by, are_abandoned_by, are_mistreated_by;supported+;respected+
+are_tutored_by;are_taught_by, are_educated_by, are_instructed_by, are_coached_by, are_drilled_by, are_trained_by, are_mentored_by, are_supervised_by, study_under;are_overlooked_by;inspired+;respected+
+are_undermined_by;are_supplanted_by, are_resented_by, are_challenged_by, are_contradicted_by, are_sued_by, are_misrepresented_by, are_embarrassed_by, are_hindered_by, are_frustrated_by, are_failed_by;are_supported_by, are_facilitated_by, are_encouraged_by, are_assisted_by;supported--, respected-, attacked+;
+are_visited_by;welcome, receive, let_in, accommodate;are_abandoned_by;respected+;
+arrest;round_up, apprehend, capture, catch, prosecute, charge;encourage;inspired-;attacked+, disrespected++
+attend;tend, pander_to, cater_to, minister_to, wait_on, care_for, look_after;avoid;;respected+
+avoid;tune_out, ignore, elude, cast_off, flee_from, hide_from, dislike;attend, pursue, stalk;repelled+;disrespected+
+buy_from;are_supplied_by, order_from;break_with;;
+cast_out;break_with, break_up_with, abandon, eject, cast_off, denounce, evict, overthrow, curse, exorcise, excommunicate, renounce, break_free_of, dump, release, fire, divorce, dismiss, let_go_of, reject;welcome;disappointed+++, repelled++;disrespected+++
+cater_to;pander_to, attend, wait_on, tend, minister_to, look_after, care_for, serve, pamper, attend_to, cook_for, indulge, provide_for, raise, spoil;exploit, take_advantage_of;;respected+
+chat_with;communicate_with, share_stories_with, speak_to, reach_out_to, speak_with, drink_with;ignore, silence, avoid;respected+;respected+
+cheat_with;sleep_with, conspire_with, abet;break_with;attracted+;attracted+
+consult_with;advise, visit, confide_in, seek_advice_from, are_advised_by, counsel, are_mentored_by, are_counselled_by;break_with;respected+;respected++
+cross_examine;question, interrogate, interview, diagnose, examine;silence, ignore;;attacked+
+cure;treat, minister_to, tend, operate_on, experiment_on, heal;hurt;;supported++
+curse;insult, renounce, denounce, heckle, criticize, offend, hate, cast_out, condemn;compliment, flatter;repelled++;attacked++, supported--
+debate_with;argue_with, negotiate_with, disagree_with, debate, are_contradicted_by, compete_against, are_debated_by, argue_before, deal_with;suppress, silence, censure;respected+;respected+
+defend;believe_in, fight_for, protect, watch_over, look_after, care_for, save, rescue, guarantee;sacrifice;inspired+;supported++, respected+
+deliver_for;work_for, support, help, assist;fail_to_deliver_for;;respected+
+detain;imprison, incarcerate, capture;free, release, let_go_of;;disrespected+, supported-
+devour;attack, assault, destroy, prey_on, disfigure;are_sickened_by;;attacked+
+dislike;distrust, despise, hate, avoid, harden_toward, denounce,;admire, love;;disrespected+
+disqualify;reject, eject, evict, renounce;nominate;disappointed++;disrespected+
+educate;teach, advise, evaluate, train, supervise, instruct, coach, mentor, guide, lecture_to, influence;deceive;;inspired+
+embarrass;harass, persecute, bully, humiliate, cause_trouble_for, heckle, laugh_at, mock, pick_on, insult, upstage;encourage;disrespected+;inspired-, disappointed++
+execute;kill, murder, assassinate, decapitate, destroy;free, release, let_go_of;;attacked+++
+experiment_on;operate_on, exploit, take_advantage_of, manipulate, study, cure;care_for;;disrespected+, supported-
+fight;fight_against, overcome, struggle_against, argue_with, struggle_with, attack, compete_against, challenge;settle_with, fight_for;;attacked+
+fight_for;campaign_for, defend, kill_for, propagandize_for, protect, die_for, show_loyalty_to, believe_in, support, commit_to, follow;fight;inspired+;respected++
+fight_with;compete_with, conspire_with, abet, perform_with, play_with;fight;respected+;respected+
+find;catch, capture, track_down, seek, look_for, identify;avoid, lose_interest_in;attracted+;
+free;release, rescue, save;imprison, detain;;supported++, respected+
+give_birth_to;nurture, raise, breastfeed, sire;kill, murder;;
+govern;lead, manage, rule, rule_over, are_elected_by, represent;lose_control_over;respected++;
+govern_for;act_for, negotiate_for, answer_to, speak_for, report_to, are_commanded_by;rise_against;respected+;respected++
+help;assist, support, work_with, facilitate, deliver_for, provide_for;undermine;;supported++
+host;welcome, let_in, accommodate, manage;evict, eject;respected+;respected+
+hunt;track_down, chase_after, lay_a_trap_for, pursue, chase, stalk, follow, prey_on, seek, look_for;are_eluded_by, lose_interest_in;attracted+;attacked+, repelled++
+hurt;abuse, harass, punish, beat_up, offend, disfigure, mock, torture, whip, assault, hit;diagnose, care_for;;attacked++
+impersonate;mimic, copy, imitate, are_mistaken_for, resemble;lose_control_over;inspired+;disappointed+
+incarcerate;imprison, detain, capture, take_as_prisoner;free, release, let_go_of;disrespected++;attacked+, supported--
+instruct;advise, teach, supervise, train, coach, lead, manage, lecture_to, guide, educate, mentor, preach_to;lead_astray, deceive;respected+;
+intimidate;threaten, persecute, bully, torment, pick_on, are_feared_by, terrorize, tower_over, whip, harass;flatter, compliment;respected+;repelled+
+invest_in;finance, fund, buy_off, pay_off, profit_from, lend_to, pay, believe_in;steal_from;respected++;respected+
+laugh_at;mock, heckle, criticize, satirize, joke_about, insult, condescend_to, spread_lies_about, underestimate, humiliate, are_entertained_by, disrespect, taunt, offend, embarrass, despise, undermine;respect, compliment;inspired--;disrespected++
+lecture_to;instruct, teach, guide, mentor, preach_to, educate;learn_from;respected+;respected-
+look_for;seek, find, search_for, track_down, hunt;lose_interest_in;attracted+;
+massage;operate_on, pamper, pander_to, minister_to;torture, torment;;respected+, supported+
+monitor;manage, guard, observe, supervise, protect, watch_over, spy_on, look_after, are_concerned_about, stalk;lose_interest_in, ignore;attracted+;respected-
+murder;kill, assassinate, execute, destroy, decapitate, are_arrested_for_killing, blow_up;care_for;;attacked+++
+nominate;select, pick, favor, vote_for, rank, elect;disqualify, rebuff;respected++;respected+
+operate_on;massage, experiment_on, treat, cure, heal;experiment_on;respected+;supported++
+overcome;destroy, defeat, renounce, denounce, struggle_against,  ;are_overwhelmed_by;attacked+;respected-
+perform_with;play_with, compete_with, work_with, sing_with, conspire_with, fight_with, abet, collude_with, compose_with;break_with;respected+;respected+
+pick_on;abuse, harass, threaten, prey_on, persecute, torment, cause_trouble_for, heckle, insult, disrespect, embarrass, intimidate, whip, bully, chase, torture;look_up_to;inspired-;attacked+, disrespected++
+pity;feel_sorry_for, are_moved_by, sympathize_with;respect, fear;inspired-;supported+, disrespected+
+preach_to;minister_to, lecture_to, condescend_to, criticize, instruct, guide;learn_from, are_inspired_by;respected+;inspired+, respected-
+propagandize_for;champion, write_for, suck_up_to, popularize, lie_for, support, testify_for, campaign_for, fight_for, represent, advocate_for, shill_for;brief_against, satirize;inspired+;respected+
+propose_to;woo, pitch_at, negotiate_with, commit_to;dump;attracted+;respected+
+prosecute;accuse, sue, arrest, charge;testify_for;disappointed++;attacked+, supported-
+protect;guard, look_after, watch_over, defend, speak_for, control, monitor, save, lie_for, rescue, fight_for, guarantee;pick_on, bully, terrorize;inspired+;supported++
+reach_out_to;pitch_at, write_to, confide_in, chat_with, appeal_to, seek_sympathy_from;rebuff;;respected+
+rebuff;reject, eject, evict, renounce, denounce;reach_out_to;repelled++;disrespected++
+reject;renounce, denounce, cast_off, cast_out, eject, evict, rebuff, undermine, dismiss, disqualify;reach_out_to, nominate;repelled++, disappointed+++;respected--
+represent;work_for, negotiate_for, act_for, propagandize_for;misrepresent;;
+review;evaluate, examine, study;underestimate;;
+run_against;compete_against, vote_against, testify_against, brief_against, struggle_against, fight_against, struggle_with, challenge;campaign_for, propagandize_for;;attacked+, supported-
+satirize;insult, mock, joke_about, laugh_at, criticize, write_about;compliment, flatter, propagandize_for;inspired+;disrespected++
+select;pick, vote_for, rank, nominate, evaluate, elect, identify;rebuff, reject, disqualify;respected++;respected+
+sell_through;sell_via, act_via;break_with;;
+sell_to;supply_to, deal_with, supply, deliver_to, export_to;break_with;;
+snatch;kidnap, abduct, capture, imprison;lose_interest_in, ignore;attracted++;attacked++
+snitch_on;turn_against, betray, undermine, testify_against, brief_against, accuse;testify_for, propagandize_for, lie_for;inspired-;supported-
+snitch_to;complain_to, tip_off, report_to, speak_to, inform, leak_to, testify_before;lie_to, deceive;disrespected+;respected+
+speak_through;talk_through, communicate_through, act_via, communicate_via;silence, are_silenced_by;respected++;respected+
+supervise;advise, guide, inspire, care_for, manage, instruct, lead, teach, train, educate, monitor, look_after, coach, mentor, spy_on, rule_over, control, rule, handle;are_disobeyed_by, lose_control_over;respected++;
+terrorize;are_feared_by, tower_over, abuse, threaten, intimidate, bully, persecute, torment, beat_up, blow_up, assassinate;care_for, nurture, protect;;attacked+, disrespected++
+tip;reward;refuse_to_pay;respected++;respected+
+tip_off;complain_to, snitch_to, inform, leak_to, testify_before;lie_to, deceive;;respected++
+tower_over;rule_over, intimidate, threaten, condescend_to, overshadow, dominate, terrorize, impress, inspire;are_overshadowed_by;respected+++;inspired+
+train;coach, instruct, handle, manage, teach, supervise, educate, mentor, guide;learn_from, are_inspired_by;respected++;supported+
+translate_for;act_for, speak_for, negotiate_for, interpret_for, write_for;misrepresent;;
+treat;cure, operate_on, diagnose, minister_to, heal;kill, experiment_on, hurt;respected+;supported+
+vote_against;brief_against, run_against, testify_against, lose_faith_in, harden_toward, campaign_against;vote_for, elect, campaign_for;inspired--;supported--
+whip;punish, beat_up, intimidate, abuse, harass, hurt, torment, pick_on, discipline;massage;inspired-;attacked+
+woo;propose_to, love, flirt_with, seduce, charm, entice, kiss_up_to, curry_favor_with, chase_after, commit_to, date, pick_up, fall_in_love_with;rebuff, lose_interest_in, avoid;attracted+;
+write_about;satirize, joke_about;satirize;inspired+;respected+
+abduct;kidnap, capture, imprison, snatch;lose_interest_in, ignore;attracted++;attacked++
+abet;conspire_with, perform_with, work_with, collude_with, cheat_with, fight_with, compose_with;snitch_on, break_with;respected+;respected+
+accommodate;welcome, let_in, host, rent_to, lease_to, receive, are_visited_by;eject, evict, cast_out;;respected+, supported+
+accuse;testify_against, brief_against, sue, prosecute, snitch_on, charge;testify_for, propagandize_for, lie_for;inspired-, disappointed++;attacked+
+act_for;report_to, answer_to, negotiate_for, speak_for, govern_for, lie_for, are_commanded_by, represent, translate_for, ask_questions_for, interpret_for, perform_for, take_messages_for;misrepresent;respected+;respected++
+act_via;delegate_to, become_dependent_upon, are_represented_by, deploy, send, speak_through, commission, govern_via, sell_via, dispatch, sell_through;are_misrepresented_by;respected++;respected+
+advocate_for;campaign_for, propagandize_for, speak_for, champion, testify_for, popularize, pray_for;campaign_against, brief_against, satirize;inspired+;respected++
+anger;cause_trouble_for, offend, fail_to_deliver_for;entertain, please;disrespected+;disappointed++
+answer;respond_to, answer_to, report_to, inform, answer_questions_from;silence, ignore;;respected+
+answer_questions_from;respond_to, answer_to, report_to, inform, answer, are_interviewed_by;silence, ignore;;respected+
+answer_to;report_to, answer, answer_questions_from, govern_for, act_for, obey, are_ruled_by, are_summoned_by, inform, respond_to, testify_before, work_under, speak_to, take_messages_for, write_to;lie_to, deceive;;respected++
+are_accused_by;are_charged_by, are_criticized_by, are_denounced_by, are_reported_by, are_sued_by, are_prosecuted_by;are_popularized_by, are_marketed_by;attacked+;inspired-, disappointed++
+are_admired_by;are_respected_by, are_worshipped_by, are_favored_by, are_trusted_by, inspire, are_followed_by, are_loved_by, are_championed_by;anger, disgust;respected++;inspired+
+are_answered_by;are_informed_by;are_silenced_by, are_censured_by, are_suppressed_by;respected+;
+are_appreciated_by;are_favored_by, are_rewarded_by, are_ennobled_by, are_promoted_by, are_paid_by, are_thanked_by, are_repaid_by, are_tipped_by;are_underappreciated_by;respected+;
+are_assaulted_by;are_attacked_by, are_savaged_by, are_hurt_by, are_bitten_by, are_beaten_by, are_victimized_by, are_disfigured_by;are_spoiled_by;attacked++;
+are_attended_by;become_dependent_upon, are_tended_by, are_spoiled_by, are_served_by, are_cared_for_by;are_ignored_by, are_abandoned_by;respected+;
+are_bored_with;lose_interest_in, are_bored_by, tune_out, are_disillusioned_by, are_disappointed_by, ignore;are_entertained_by;disappointed++, inspired-;disrespected+
+are_bullied_by;are_taunted_by, are_harassed_by, are_heckled_by, are_persecuted_by, are_tormented_by, are_threatened_by, are_intimidated_by, are_abused_by, are_victimized_by, are_blackmailed_by, are_mocked_by, fear, are_ruled_by, are_traumatized_by, are_whipped_by, are_oppressed_by;are_protected_by, are_feared_by, are_cared_for_by;attacked+, disrespected++;inspired--
+are_cared_for_by;become_dependent_upon, are_tended_by, are_spoiled_by, are_served_by, are_attended_by,  are_nurtured_by, are_raised_by, are_waited_upon_by;are_bullied_by, are_abused_by, are_harassed_by;supported+;
+are_championed_by;are_admired_by, are_marketed_by, are_promoted_by, are_favored_by, are_supported_by, are_facilitated_by, are_defended_by, are_popularized_by, are_insured_by;are_undermined_by, are_booed_by, are_heckled_by;respected+;respected++
+are_charged_by;are_accused_by, are_prosecuted_by, are_sued_by, are_denounced_by;are_championed_by, are_defended_by;attacked+, disrespected++;inspired-
+are_chased_by;elude, are_pursued_by, are_hunted_by, flee_from, are_sought_by, are_tracked_by, are_wanted_by;are_abandoned_by;repelled+;attracted+
+are_chronicled_by;are_remembered_by, are_haunted_by, are_studied_by;are_forgotten_by;respected+;inspired+
+are_controlled_by;are_commanded_by, are_blackmailed_by, are_manipulated_by, are_dominated_by, are_deployed_by, are_scripted_by, are_brainwashed_by, are_indoctrinated_by, are_suppressed_by, are_oppressed_by, are_subjugated_by;stand_up_to, rise_against, resist, disobey;inspired--;respected++
+are_counselled_by;are_counseled_by, are_advised_by, are_mentored_by, are_guided_by, seek_advice_from, confer_with, consult_with, consult;are_corrupted_by;respected+;respected++
+are_debated_by;argue_with, disagree_with, are_contradicted_by, debate_with;are_silenced_by, are_censured_by, are_suppressed_by;respected+;respected+
+are_defended_by;are_protected_by, are_supported_by, are_championed_by, are_shielded_by, are_served_by, are_guaranteed_by, are_insured_by;are_charged_by, are_accused_by, are_prosecuted_by, are_mistreated_by;supported++, respected+;inspired+
+are_deployed_by;report_to, are_dispatched_by, are_fielded_by, are_appointed_by, are_commanded_by, are_controlled_by;are_recalled_by;respected+;respected++
+are_discovered_by;are_uncovered_by, are_found_by, are_captured_by;are_overlooked_by;;attracted+
+are_dominated_by;are_controlled_by, are_conquered_by, are_subjugated_by, are_oppressed_by, are_overshadowed_by, are_commanded_by, are_suppressed_by;stand_up_to, rise_against, resist, disobey;respected-;respected++
+are_drilled_by;are_trained_by, are_supervised_by, are_educated_by, are_molded_by, are_coached_by, are_indoctrinated_by, are_radicalized_by, learn_from, are_hardened_by, are_tutored_by, are_influenced_by, are_instructed_by;are_corrupted_by;;respected++
+are_driven_around_by;are_driven_by, are_transported_by;are_abandoned_by;respected+, supported+;
+are_driven_by;are_inspired_by, are_roused_by, are_motivated_by, are_energized_by, are_driven_around_by, are_guided_by;are_ejected_by;respected+, supported+;
+are_educated_by;are_taught_by, are_trained_by, are_instructed_by, are_drilled_by, are_indoctrinated_by, are_lectured_by, are_coached_by, are_molded_by, are_influenced_by, are_informed_by, are_tutored_by, are_mentored_by;lecture_to;inspired+;respected++
+are_elected_by;are_chosen_by, are_selected_by, are_appointed_by, are_nominated_by, govern;lose_favor_with;respected++, supported+;inspired+
+are_enlisted_by;are_recruited_by, are_appointed_by, are_radicalized_by, are_brainwashed_by, are_signed_by, are_hired_by, are_bought_off_by, are_ordained_by;are_rejected_by, are_disqualified_by;respected+;respected++
+are_ennobled_by;are_appointed_by, are_promoted_by, are_blessed_by, are_favored_by, are_baptized_by, are_appreciated_by, are_ordained_by;are_excommunicated_by;respected+;respected++
+are_examined_by;are_diagnosed_by, are_evaluated_by, are_judged_by, are_probed_by, are_profiled_by, are_questioned_by, are_graded_by, are_treated_by, are_reviewed_by;are_overshadowed_by;;respected+
+are_facilitated_by;are_assisted_by, are_helped_by, are_supported_by, are_financed_by, are_marketed_by, are_published_by, are_championed_by, are_guaranteed_by, are_funded_by;are_hindered_by, are_undermined_by, are_frustrated_by;supported+;
+are_fought_by;are_challenged_by, are_resisted_by, are_attacked_by, are_resented_by, struggle_against, are_frustrated_by, are_hindered_by;are_supported_by, are_facilitated_by, are_encouraged_by, are_assisted_by;attacked++;
+are_frustrated_by;are_abused_by, are_hindered_by, are_failed_by, are_disappointed_by, are_challenged_by, are_contradicted_by, are_pushed_too_far_by, are_exploited_by, are_driven_mad_by, are_unimpressed_with, are_disobeyed_by, are_tormented_by, are_fought_by, are_undermined_by;are_supported_by, are_facilitated_by, are_encouraged_by, are_assisted_by;disappointed++;
+are_graded_by;are_evaluated_by, are_examined_by, are_questioned_by, are_profiled_by, are_judged_by, are_diagnosed_by, are_reviewed_by;are_judged_by;;
+are_greeted_by;are_welcomed_by, are_accommodated_by, are_introduced_by, are_received_by;are_rebuffed_by, are_spurned_by;respected+;
+are_guaranteed_by;are_supported_by, are_facilitated_by, are_insured_by, are_protected_by, are_shielded_by, are_defended_by;are_cheated_by;respected+;respected+
+are_guarded_by;are_supervised_by, are_protected_by, are_shielded_by, are_monitored_by;are_abandoned_by, are_mistreated_by;supported++;
+are_guided_by;follow, are_led_by, are_commanded_by, are_advised_by, are_supervised_by, are_molded_by, are_influenced_by, are_mentored_by, are_motivated_by, are_driven_by, are_handled_by, are_counseled_by, are_counselled_by, are_managed_by, are_monitored_by;are_corrupted_by;inspired+;respected++
+are_hunted_by;elude, are_chased_by, are_pursued_by, flee_from, hide_from, are_tracked_by, are_stalked_by, are_wanted_by;are_abandoned_by, are_ignored_by;attacked+, repelled++;attracted+
+are_hurt_by;are_abused_by, are_bitten_by, are_beaten_by, are_punished_by, are_disfigured_by, are_savaged_by, are_tortured_by, are_tormented_by, are_assaulted_by, are_sickened_by, are_traumatized_by, are_victimized_by, are_whipped_by;are_tended_by, are_spoiled_by;attacked++;
+are_impersonated_by;are_copied_by, are_imitated_by, are_mistaken_for;are_forgotten_by, are_misrepresented_by;disappointed+;inspired+
+are_influenced_by;are_guided_by, are_drilled_by, are_molded_by, are_inspired_by, are_informed_by, are_mentored_by, are_persuaded_by, are_supervised_by, are_taught_by, consult, copy, are_counseled_by, are_led_by, are_educated_by, are_motivated_by;break_with;inspired+;respected++
+are_instructed_by;are_trained_by, are_drilled_by, are_mentored_by, are_educated_by, are_coached_by, are_lectured_by, learn_from, study_under, are_tutored_by, are_supervised_by, are_taught_by;lecture_to;inspired+;respected++
+are_insured_by;are_protected_by, are_shielded_by, are_guaranteed_by, are_championed_by, are_defended_by;are_traumatized_by, are_cheated_by;supported+;
+are_introduced_by;are_welcomed_by, are_greeted_by, are_received_by;are_ejected_by;respected+;respected+
+are_judged_by;are_probed_by, are_examined_by, are_graded_by, are_diagnosed_by, disappoint, fail_to_impress, lose_favor_with, are_failed_by, are_profiled_by, are_reviewed_by;impress;;disappointed+, respected+
+are_lured_by;are_enticed_by, are_charmed_by, are_tricked_by, are_intrigued_by, are_enchanted_by, are_seduced_by, are_attracted_by, fall_in_love_with, are_captured_by, are_caught_by, are_wooed_by;ignore, are_disgusted_by, avoid, run_away_from, hide_from;attracted+, respected-;attracted+
+are_managed_by;are_commanded_by, are_handled_by, are_supervised_by, are_led_by, are_guided_by, are_monitored_by, work_for, are_mentored_by;disobey, tune_out;;respected++
+are_missed_by;are_remembered_by, are_haunted_by;are_forgotten_by;;attracted+
+are_monitored_by;are_commanded_by, are_handled_by, are_supervised_by, are_led_by, are_guided_by, are_managed_by, are_guarded_by, are_probed_by, are_studied_by;are_overlooked_by;respected-;attracted+
+are_motivated_by;are_roused_by, are_energized_by, are_encouraged_by, are_driven_by, are_influenced_by, are_inspired_by, are_guided_by, are_mentored_by;are_criticized_by, are_suppressed_by, are_subdued_by, are_hindered_by;respected+, supported+;respected++
+are_mystified_by;are_intrigued_by, are_lured_by, are_shocked_by, are_enchanted_by;are_bored_with;inspired+, attracted+;
+are_named_by;are_remembered_by;are_ignored_by, are_overlooked_by;;
+are_nurtured_by;are_raised_by, are_cared_for_by, are_tended_by, are_spoiled_by, are_waited_upon_by;are_tormented_by;supported+;
+are_ordained_by;are_blessed_by, are_ennobled_by, are_promoted_by, are_radicalized_by, are_brainwashed_by, are_enlisted_by, are_signed_by;are_excommunicated_by;respected+;respected++
+are_overlooked_by;are_overshadowed_by, are_ignored_by, are_underappreciated_by, are_underestimated_by, fail_to_impress;are_named_by, are_picked_by, are_popularized_by, are_appointed_by;respected-;inspired--
+are_overrun_by;cede_power_to, are_overwhelmed_by, are_conquered_by, are_defeated_by, are_subjugated_by, are_oppressed_by, are_overshadowed_by, are_overthrown_by;underestimate, overcome, suppress;attacked++, disrespected++;
+are_overshadowed_by;are_overlooked_by, are_ignored_by, are_underappreciated_by, are_underestimated_by, fail_to_impress, are_dominated_by, are_subjugated_by, are_overrun_by;tower_over;disrespected++;respected++
+are_overwhelmed_by;cede_power_to, are_overrun_by, are_conquered_by, are_defeated_by, are_subjugated_by;underestimate, overcome, suppress;attacked++, disrespected++;
+are_owed_by;lend_to, are_refused_payment_by;are_refused_payment_by;disappointed+;
+are_picked_by;are_selected_by, are_chosen_by, are_nominated_by;are_ignored_by, are_overlooked_by, are_disqualified_by, are_rejected_by;respected+;respected++
+are_popularized_by;are_promoted_by, are_marketed_by, are_favored_by, are_championed_by, are_published_by;are_criticized_by, are_suppressed_by, are_subdued_by, are_booed_by, are_heckled_by;;
+are_probed_by;are_interrogated_by, are_studied_by, are_monitored_by, are_examined_by, are_judged_by, are_profiled_by, are_diagnosed_by, are_investigated_by, are_questioned_by, are_read_by, are_reviewed_by;are_complimented_by, are_flattered_by;disrespected+;attracted+
+are_profiled_by;are_probed_by, are_studied_by, are_examined_by, are_judged_by, are_diagnosed_by, are_graded_by, are_reviewed_by, are_questioned_by;are_ignored_by, are_overlooked_by;disrespected+;attracted+
+are_prosecuted_by;are_pursued_by, are_charged_by, are_accused_by, are_criticized_by, are_sued_by, are_reported_by;are_forgiven_by;attacked+, supported-;disappointed++
+are_raised_by;are_nurtured_by, are_cared_for_by, are_tended_by, are_molded_by, are_spoiled_by;are_abandoned_by;supported+;respected++
+are_received_by;are_welcomed_by, are_greeted_by, are_accommodated_by, are_introduced_by;are_evicted_by, are_expelled_by;respected+;respected++
+are_refused_payment_by;are_underappreciated_by, are_spurned_by, are_rebuffed_by, are_exploited_by, are_used_by, are_cheated_by, are_defrauded_by, are_robbed_by;are_repaid_by;disappointed++, disrespected+;
+are_rescued_by;are_saved_by, are_freed_by, are_released_by, are_healed_by;are_killed_by, are_persecuted_by, are_ruined_by;supported++;respected++
+are_retained_by;are_hired_by, are_signed_by, are_recruited_by, are_appointed_by, are_selected_by;are_fired_by, are_dismissed_by;;
+are_reviewed_by;are_graded_by, are_examined_by, are_judged_by, are_evaluated_by, are_probed_by, are_profiled_by;are_overlooked_by, are_ignored_by;;respected+
+are_rewarded_with;;are_unimpressed_with;;
+are_robbed_by;are_cheated_by, are_defrauded_by, are_exploited_by, are_victimized_by;profit_from;disrespected+, disappointed++;
+are_roused_by;are_motivated_by, are_energized_by, are_radicalized_by, are_encouraged_by, are_inspired_by, are_entertained_by, are_driven_by;are_bored_with, are_disillusioned_by;inspired++;respected+
+are_scripted_by;are_brainwashed_by, are_radicalized_by, are_controlled_by, are_commanded_by, are_indoctrinated_by, perform_for;disobey, tune_out;inspired+, disrespected+;respected++
+are_selected_by;are_recruited_by, are_picked_by, are_chosen_by, are_elected_by, are_nominated_by, are_retained_by;are_rejected_by, are_disqualified_by;respected+;respected++
+are_sickened_by;are_disfigured_by, are_disillusioned_by, are_disgusted_by, are_shocked_by, are_hurt_by, are_traumatized_by, are_tormented_by, are_pushed_too_far_by, are_corrupted_by, are_persecuted_by;are_nurtured_by, are_healed_by;disappointed+++, repelled+++;disrespected+++
+are_signed_by;sign_with, are_recruited_by, are_enlisted_by, are_hired_by, are_enslaved_by, are_ordained_by, are_retained_by, are_converted_by;are_rejected_by, are_disqualified_by;respected+;respected++
+are_subjugated_by;are_controlled_by, are_conquered_by, are_dominated_by, are_oppressed_by, are_overshadowed_by, are_commanded_by, are_subdued_by, are_suppressed_by, are_overrun_by, are_overwhelmed_by;stand_up_to, rise_against, resist, disobey;inspired--, respected-;respected+
+are_summoned_by;answer_to, report_to, are_recalled_by;are_dismissed_by, are_forgotten_by;inspired+;respected++
+are_targeted_by;are_threatened_by, are_challenged_by, are_attacked_by;are_overlooked_by;attacked+;inspired-, attracted+
+are_tended_by;are_supported_by, are_nurtured_by, are_cared_for_by, are_waited_upon_by, are_supervised_by, are_attended_by, are_raised_by;are_mistreated_by, are_abandoned_by;supported+, respected+;
+are_transported_by;are_driven_around_by, are_accompanied_by;are_dumped_by;;
+are_traumatized_by;are_sickened_by, are_shocked_by, are_disgusted_by, are_hurt_by, are_bullied_by, are_victimized_by, are_disfigured_by;are_treated_by, are_spoiled_by;attacked+, repelled++;
+are_used_by;are_exploited_by, are_tricked_by, are_manipulated_by, are_victimized_by, are_misrepresented_by, are_abused_by, are_enslaved_by, are_mistreated_by, are_overworked_by, are_refused_payment_by;take_advantage_of, are_appreciated_by;respected--;
+are_usurped_by;are_deposed_by, are_overthrown_by, are_toppled_by, are_supplanted_by;suppress, subjugate;supported---, attacked+;
+are_venerated_by;are_worshipped_by, are_followed_by, are_respected_by, are_loved_by;are_despised_by, are_criticized_by, are_booed_by, are_denounced_by, are_victimized_by;respected+++;inspired+++
+are_victimized_by;are_exploited_by, are_hurt_by, are_robbed_by, are_cheated_by, are_tricked_by, are_manipulated_by, are_attacked_by, are_assaulted_by, are_used_by, are_whipped_by, are_traumatized_by, are_ruined_by, are_bullied_by, are_harassed_by, are_humiliated_by, are_stalked_by;are_venerated_by, are_treated_by, are_spoiled_by;attacked+, disrespected++;
+are_waited_upon_by;are_tended_by, are_supported_by, are_nurtured_by, are_cared_for_by;are_abandoned_by, are_ignored_by;respected++;
+are_wanted_by;are_sought_by, are_chased_by, are_pursued_by, attract, are_pursued_by, are_tracked_by, elude, are_hunted_by, flee_from;are_overlooked_by, are_forgotten_by;repelled+;attracted+
+are_whipped_by;are_punished_by, are_scolded_by, are_beaten_by, are_hurt_by, are_bullied_by, are_victimized_by;are_spoiled_by, are_cared_for_by;attacked++, disrespected++;
+argue_before;debate, debate_with;are_silenced_by;;respected++
+ask_questions_for;act_for, speak_for;misrepresent;;respected+
+assassinate;kill, murder, execute, decapitate, are_arrested_for_killing, destroy, terrorize;save, protect, defend, rescue;;attacked+++
+assault;attack, destroy, hurt, punish, hit, abuse, disfigure, beat_up, blow_up, are_arrested_for_hurting, devour, harass;protect, defend, rescue;;attacked++
+attend_to;tend, wait_on, cater_to, pander_to, spoil, look_after, care_for, cook_for, indulge;ignore, cause_trouble_for;;respected+, supported+
+baptise;welcome, convert, baptize, recruit, ordain;denounce, curse;;
+baptize;welcome, convert, baptise, ordain;denounce, curse;;
+beat_up;abuse, hit, attack, assault, hurt, punish, destroy, are_arrested_for_hurting, disfigure, terrorize, whip;save, protect, defend, rescue;;attacked++
+beautify;enhance, style_for;satirize;;supported+
+become_dependent_upon;act_via, are_attended_by, are_cared_for_by, rely_on;lose_faith_in;inspired++;respected++
+blow_up;attack, destroy, kill, murder, terrorize, assault;nurture, support;;attacked+++
+borrow_from;are_funded_by, are_financed_by, are_facilitated_by, steal_from;steal_from, lend_to;supported+;
+brainwash;indoctrinate, lead_astray, corrupt, control, manipulate, convert, dominate, enchant, enlist, lead, guide, influence, ordain;free;respected++;inspired+++
+breastfeed;look_after, tend, nurture, raise, care_for, indulge;starve;;supported++
+build_for;create_for, design_for, work_for;destroy, undermine, cause_trouble_for;;respected++
+bully;harass, abuse, persecute, threaten, torment, taunt, pick_on, prey_on, heckle, embarrass, intimidate, terrorize;support, encourage, defend, protect;inspired--;attacked+, disrespected++
+carry_for;support, work_for, facilitate, labor_for, sweat_for;abandon, fail_to_deliver_for, cause_trouble_for;;respected+
+cause_trouble_for;torment, fail_to_deliver_for, fail_to_impress, embarrass,  anger, harass;support, encourage, sweat_for, labor_for, negotiate_for, act_for;;disappointed++
+censure;repress, silence, suppress, oppress, chastise, discipline;encourage, reward;inspired--, disappointed++;disrespected+, attacked+
+challenge;taunt, stand_up_to, resist, struggle_against, debate, compete_against, target, run_against, disrespect, fight;fear, run_away_from;;attacked+, respected+
+champion;favor, promote, advocate_for, campaign_for, support, encourage, propagandize_for, popularize, rouse;satirize, denounce, condemn, brief_against, campaign_against;respected++;respected+
+charge;accuse, arrest, prosecute;champion, testify_for;inspired-;attacked+, disrespected++
+chase;pursue, harass, chase_after, pick_on, track_down, hunt, prey_on, seek, search_for;lose_interest_in, ignore;attracted+;repelled+
+chase_after;track_down, hunt, prey_on, pursue, seek, are_eluded_by, take_aim_at, search_for, woo, chase;lose_interest_in, ignore;attracted+;repelled+
+collude_with;conspire_with, work_with, abet, compose_with, perform_with;snitch_on, break_with;respected+;respected+
+commission;delegate_to, act_via, hire, sign_up, deploy, dispatch, send;fire, dismiss;;respected+, supported+
+communicate_through;talk_through, speak_through, communicate_via;are_misrepresented_by;respected++;respected+
+communicate_via;talk_through, speak_through, communicate_through, talk_to, govern_via;are_misrepresented_by;respected++;respected+
+communicate_with;confer_with, speak_to, talk_to, listen_to, chat_with, interact_with, live_with, speak_with, write_to;ignore, silence;respected+;respected+
+compose_with;work_with, abet, conspire_with, collude_with, perform_with, sing_with;break_with;respected+, inspired+;respected+, inspired+
+confess_to;seek_forgiveness_from, confide_in, share_stories_with, speak_to;lie_to, accuse;;respected++, disappointed++
+conquer;subdue, subjugate, kill, dominate, oppress, defeat, supplant, topple;lose_to, surrender_to;respected+;attacked+++
+consort_with;date, travel_with, drink_with, sleep_with, take_up_with, accompany;avoid;attracted+;attracted+
+convert;persuade, indoctrinate, brainwash, baptise, sign_up, recruit, enlist, baptize, ordain;denounce, excommunicate, cast_out, corrupt;respected++;
+cook_for;attend_to, tend, cater_to, pander_to, spoil, wait_on, work_for, create_for, design_for, provide_for;starve, cause_trouble_for;;respected+, supported+
+corrupt;lead_astray, entice, seduce, blackmail, bribe, brainwash;inspire, convert;respected++;supported--
+countersue;sue, struggle_against;settle_with;attacked+;attacked+
+create_for;work_for, design_for, build_for, cook_for, style_for;destroy, undermine, fail_to_deliver_for, cause_trouble_for;;respected+, supported+
+deal_with;negotiate_with, settle_with, debate_with, argue_with, play_against, compete_against;break_with;;
+debrief;question, interrogate, interview;silence, tune_out;;
+decapitate;kill, murder, execute, assassinate, are_arrested_for_killing;free, release;;attacked+++
+deliver_to;supply, sell_to, supply_to;fail_to_deliver_for;;supported+
+descend_from;inherit_from;curse, denounce;;
+design_for;build_for, create_for, cook_for;fail_to_deliver_for, cause_trouble_for;;respected+, supported+
+despise;dislike, resent, struggle_against, hate, disrespect, laugh_at, harden_toward;love, respect, look_up_to;disappointed++, repelled+++;disrespected+++
+discipline;punish, chastise, whip, hit, coach, censure;pamper, pander_to;respected++;attacked+
+distrust;dislike, harden_toward, grow_suspicious_of;trust;;disrespected+
+dress;enhance, style_for;abandon, ignore;;supported+
+drive_for;guide, navigate_for, transport;leave_behind, cause_trouble_for;;supported+
+elect;vote_for, campaign_for, select, nominate, appoint, rank, pick;vote_against, campaign_against, brief_against;inspired+;supported++, respected++
+enhance;beautify, style_for, dress;satirize;;supported+
+entice;attract, seduce, charm, woo, lead_astray, lick_up_to, kiss_up_to, lay_a_trap_for, flirt_with, suck_up_to, flatter, enchant, corrupt, persuade, pick_up, pitch_at, pose_for;disgust;attracted++;attracted+
+evaluate_with;;;;
+examine;rank, evaluate, cross_examine, question, interview, diagnose, review;ignore, lose_interest_in;;
+exorcise;evict, cast_out, dump, excommunicate;encourage, reward, convert;repelled+++, inspired---;respected--
+export_to;sell_to, supply, supply_to;fail_to_deliver_for;;
+facilitate;interact_with, handle, support, help, assist, carry_for, finance, fund, guarantee, encourage;cause_trouble_for, undermine;;supported+
+farm_for;work_for, sweat_for, labor_for;cause_trouble_for;respected+;respected++
+finance;fund, invest_in, lend_to, support, facilitate, pay, believe_in;refuse_to_pay;respected++;respected+
+flee_from;escape_from, elude, are_chased_by, are_pursued_by, are_hunted_by, hide_from, are_wanted_by, run_away_from, break_free_of, break_up_with, avoid, leave_behind;stand_up_to;repelled+++;attracted+
+fool;cheat, trick, defraud, deceive, lie_to, manipulate, exploit, misrepresent, lead_astray, cheat_on;show_loyalty_to, snitch_to;;disrespected+
+fund;finance, invest_in, lend_to, facilitate, pay, believe_in;refuse_to_pay, undermine;respected++;respected+
+govern_via;act_via, communicate_via, delegate_to, send;lose_faith_in;respected++;respected+
+guarantee;protect, support, defend, facilitate, believe_in;lose_faith_in, brief_against;respected++;respected+
+guide;advise, inspire, supervise, care_for, lead, accompany, brainwash, indoctrinate, teach, instruct, inform, navigate_for, mentor, coach, preach_to, lecture_to, rule, counsel, are_followed_by, educate, train, drive_for, influence, minister_to;lead_astray;respected++;inspired++
+handle;train, manage, care_for, look_after, mentor, supervise, facilitate;misrepresent;respected+;
+harass;intimidate, insult, heckle, prey_on, assault, pick_on, threaten, abuse, hurt, cause_trouble_for, persecute, exploit, starve, torture, torment, embarrass, whip, bully, molest, hit;look_after, care_for, respect;;attacked+, disrespected++
+are_harassed_by;are_bullied_by, are_taunted_by, are_tormented_by, are_persecuted_by, are_heckled_by, are_abused_by, are_victimized_by, are_threatened_by, are_mistreated_by, are_offended_by;are_respected_by, are_venerated_by, are_spoiled_by;attacked+, disrespected++;
+heal;cure, treat, operate_on, rescue, save;hurt, kill;;supported++
+hit;beat_up, abuse, assault, hurt, attack, are_arrested_for_hurting, harass;massage, indulge;;attacked+, disrespected++
+identify;sympathize_with, find, select, pick;lose_interest_in, ignore;;
+indulge;spoil, pander_to, cater_to, wait_on, tend, attend_to, breastfeed;hurt, cause_trouble_for;;respected++, supported++
+influence;guide, mentor, coach, advise, inspire, indoctrinate, brainwash, navigate_for, lead, educate;lose_control_over, are_ignored_by, fail_to_impress;respected++;inspired+
+inform;guide, report_to, answer_to, tip_off, snitch_to, complain_to, leak_to, answer, answer_questions_from, respond_to;lie_to, snitch_on;;supported+
+inherit_from;descend_from, are_named_by, are_financed_by, are_funded_by;are_cut_off_by;respected+;respected++
+interact_with;facilitate, communicate_with, deal_with, negotiate_with, live_with, speak_with;ignore, break_with;respected+;respected+
+interpret_for;speak_for, act_for, take_messages_for, write_for, translate_for;misrepresent;;respected+
+intimidate_with;threaten_with, unleash;are_unimpressed_with, joke_about;supported+;disrespected+
+joke_about;laugh_at, disrespect, spread_lies_about, undermine, insult, satirize, write_about;respect, look_up_to, propagandize_for;inspired-;disrespected++
+leak_to;snitch_to, inform, tip_off;ignore, lie_to, deceive;;supported+
+learn_with;train_with;;respected+;respected+
+lease_from;rent_from, are_accommodated_by;are_evicted_by, are_expelled_by;;
+lease_to;rent_to, accommodate, welcome, let_in;evict, eject;;
+leave_behind;abandon, run_away_from, flee_from, escape_from, hide_from, break_free_of, renounce;are_pursued_by, commit_to, show_loyalty_to;repelled++;disappointed++
+lend_to;fund, finance, invest_in, trust;withhold_payment_from;;supported+
+live_with;interact_with, communicate_with, share_stories_with, marry, take_up_with, are_accommodated_by, mate_with;are_ejected_by;respected+;respected+
+mate_with;sleep_with, live_with, marry, are_deflowered_by;are_spurned_by;attracted+;attracted+
+minister_to;preach_to, tend, care_for, look_after, mentor, guide, teach, pamper, attend, cater_to,  massage, treat, nurture, raise;starve, cause_trouble_for;;supported+
+model_for;pose_for, are_photographed_by, are_painted_by;hide_from;;supported+
+molest;abuse, harass, exploit, take_advantage_of;care_for, nurture, protect;;attacked+
+mourn_for;pine_for, cry_for;exorcise;;respected+
+mystify;enchant;fail_to_impress, disillusion;respected+;inspired++
+navigate_for;guide, drive_for, influence;lead_astray;;supported+
+negotiate_for;act_for, speak_for, lie_for, govern_for, represent, translate_for;cause_trouble_for, undermine, misrepresent;respected+;respected++
+nurture;raise, care_for, love, lead, support, tend, look_after, breastfeed, mentor, minister_to;undermine, cause_trouble_for, starve;respected+;supported+
+ordain;convert, recruit, baptise, enlist, brainwash, sign_up, appoint, baptize;eject, condemn, denounce;respected++;respected+
+order_from;buy_from, are_supplied_by;are_cut_off_by;;
+overshadow;tower_over, condescend_to;are_overshadowed_by, look_up_to;respected++;disrespected++
+owe;borrow_from, owe_to;are_owed_by;;disappointed++
+owe_to;borrow_from, owe;are_owed_by;;disappointed++
+paint;create_for, design_for, photograph;satirize, ignore, lose_interest_in;attracted+;
+pay;pay_off, invest_in, fund, finance, reward;refuse_to_pay;;supported+, disappointed--
+perform_for;play_for, entertain, act_for, are_scripted_by;fail_to_deliver_for;respected+;respected++
+persuade;convert, charm, overcome, agree_with, settle_with, entice, enchant, recruit, seduce, pitch_at;are_contradicted_by;respected+;inspired+
+photograph;paint, capture;ignore, lose_interest_in;attracted+;
+pick;select, nominate, elect, vote_for, rank, identify;lose_interest_in, ignore;attracted+;respected+
+pick_up;woo, seduce, flirt_with, charm, entice, enchant;are_rebuffed_by, are_spurned_by;attracted+;respected+
+pitch_at;propose_to, reach_out_to, persuade, entice, appeal_to;are_rebuffed_by, are_spurned_by;;inspired+
+play_against;compete_against, fight_against, struggle_against, struggle_with, deal_with;play_with;respected+;respected+
+please;pander_to, spoil, compliment, flatter, curry_favor_with, suck_up_to, lick_up_to, kiss_up_to, impress, reward, are_tipped_by;fail_to_deliver_for, anger;;disappointed--
+popularize;champion, promote, flatter, compliment, advocate_for, campaign_for, propagandize_for, shill_for;condemn, campaign_against, satirize, denounce, brief_against;;
+pose_for;model_for, entice, are_manipulated_by, are_photographed_by, are_painted_by;ignore, break_with;;attracted+
+pray_for;care_for, advocate_for, are_concerned_about, watch_over, look_after;curse, denounce, renounce;;supported+
+provide_for;look_after, care_for, tend, cater_to, supply, supply_to, cook_for, assist, help, raise;starve, cause_trouble_for, steal_from, take_advantage_of;;supported+
+question;interview, interrogate, examine, cross_examine, debrief;lose_interest_in, are_silenced_by;;
+raise;nurture, tend, cater_to, wait_on, minister_to, breastfeed, look_after, care_for, provide_for;starve, abandon leave_behind;respected+;supported+
+read_about;study, read_the_works_of, are_intrigued_by;lose_interest_in, ignore;inspired+;
+rely_on;become_dependent_upon, are_served_by;break_with, are_failed_by;supported+;
+remember;pine_for, cry_for, are_haunted_by;exorcise;inspired+;
+renounce;reject, lose_faith_in, break_with, excommunicate, break_up_with, cast_off, are_disillusioned_by, leave_behind, abandon, curse, denounce, rebuff, harden_toward, cast_out, condemn, disqualify, overcome;testify_for, propagandize_for, campaign_for;repelled+++;disrespected+++
+rent_from;lease_from, are_accommodated_by;are_evicted_by, are_expelled_by;;
+rent_to;lease_to, accommodate, let_in;evict, eject;;
+repress;suppress, oppress, subjugate, rule_over, silence, censure, dominate, starve, take_as_prisoner, subdue;encourage, rouse, support;;disrespected++
+respond_to;answer, inform, answer_to, report_to, complain_to, answer_questions_from;ignore, tune_out;;
+rob;defraud, steal_from, cheat, exploit, take_advantage_of;buy_from, borrow_from;;disrespected+, disappointed++
+round_up;arrest, seek, apprehend;free, encourage;;
+rouse;inspire, impress, encourage, champion, unleash;repress, suppress;respected+;inspired++
+seek_sympathy_from;reach_out_to, appeal_to, beg_forgiveness_from;are_ignored_by, are_forgotten_by, are_silenced_by, are_abandoned_by;;respected+
+sell_via;sell_through, act_via;fail_to_deliver_for;;
+shill_for;propagandize_for, speak_for, lie_for, popularize, campaign_for, testify_for;rise_against, are_disgusted_by, testify_against;inspired+;respected+
+sire;give_birth_to;abandon;respected+;
+speak_for;advocate_for, interpret_for, act_for, govern_for, lie_for, translate_for, ask_questions_for, negotiate_for, shill_for, take_messages_for;silence;respected+;respected++
+speak_with;chat_with, interact_with, share_stories_with, communicate_with, visit;ignore, break_with;respected+;respected+
+spoil;indulge, pander_to, cater_to, pamper, wait_on, attend_to, cook_for, please, suck_up_to, curry_favor_with;harass, torment, persecute, bully, whip;disrespected+;supported+
+study_under;are_tutored_by, are_instructed_by, are_lectured_by, learn_from, are_coached_by, read_the_works_of, are_taught_by;lecture_to;inspired++;respected++
+style_for;dress, create_for, design_for, beautify, enhance;undermine, fail_to_deliver_for, fail_to_impress;respected+;respected++, supported+
+subdue;subjugate, conquer, oppress, repress;encourage, rouse;;attacked+, disrespected+
+supply_to;work_with, sell_to, supply, provide_for, deliver_to, export_to;fail_to_deliver_for;;
+take_messages_for;speak_for, act_for, report_to, interpret_for, answer_to;are_silenced_by, are_censured_by, are_suppressed_by;;respected++
+talk_through;speak_through, communicate_through, communicate_via;are_misrepresented_by;respected++;respected+
+target;take_aim_at, resent, challenge;lose_interest_in, ignore;inspired-, attracted+;attacked+
+testify_before;confide_in, report_to, answer_to, snitch_to, tip_off;are_silenced_by;;respected++
+threaten_with;intimidate_with, unleash;are_unimpressed_with, joke_about;supported+;
+topple;defeat, supplant, dominate, overthrow, upstage, conquer;cede_power_to, bow_down_to;inspired---;attacked++, disrespected+++, supported---
+train_with;work_with, learn_with;;respected+;respected+
+transport;drive_for;abandon, leave_behind;;
+unleash;rouse, intimidate_with, release, deploy, dispatch, threaten_with, send;repress, suppress;supported+;
+work_under;work_for, are_ruled_by, answer_to, report_to, obey, serve, wait_on, tend;cause_trouble_for, undermine;inspired+;respected++
+worship_with;pray_with, conspire_with;break_with;respected+;respected+
+write_for;are_published_by, interpret_for, propagandize_for, translate_for;are_silenced_by, are_censured_by, are_suppressed_by;respected+;respected++
+write_to;communicate_with, speak_to, report_to, reach_out_to, answer_to;are_rebuffed_by, are_spurned_by;respected+;respected+

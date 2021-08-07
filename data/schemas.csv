@@ -1,0 +1,404 @@
+action	UP	DOWN	FRONT	BACK	CENTER	PERIPHERY	CONTACT	IN	OUT	SURFACE	CYCLE	S-P-G	NEAR	FAR	explained schema
+are_trusted_by,trust,believe_in,confide_in,rely_on								1							put trust in someone
+are_disrespected_by,disrespect,are_offended_by,offend					-1	1									push someone away from you
+condescend_to	-1	1													look down on someone
+are_deceived_by,deceive										1					keep along surface
+disappoint,are_disappointed_by,lose_faith_in													-1	1	turing away from someone, letting down
+fall_in_love_with								1							falling into love
+are_feared_by,fear			-1	1											backing off from someone
+are_impressed_by,impress	1														looking up to someone
+are_pushed_too_far_by													-1	1	pushing far
+steal_from,rob,are_robbed_by												1			take something from someone
+are_bored_by,are_bored_with	-1	1													being let down
+pray_to,pray_with,preach_to,pray_for,worship_with,worship,are_worshipped_by	1														look up to
+fail_to_deliver_for												1			bring form one place to another
+are_exploited_by,exploit,are_abused_by,abuse,prey_on,coerce								-1	1						taking everything out of a person
+kill,are_killed_by,execute,kill_for,murder	-1	1													take someone down
+are_ignored_by,ignore,tune_out			1												push away incoming information
+spread_lies_about					-1	1									spreading from centre to periph.
+beg_forgiveness_from,are_begged_by,seek_forgiveness_from	1														look up to
+underestimate,are_underestimated_by	-1	1													above expectations
+cede_power_to												1			giving power from one to another
+are_underpaid_by	-1	1													paid below a standard
+are_disgusted_by,disgust			-1	1											backing off
+are_betrayed_by,betray													-1	1	from close to far
+are_lectured_by,lecture_to,learn_from,coach,are_coached_by,teach,are_taught_by,are_mentored_by,mentor,are_tutored_by,educate,are_educated_by,instruct,are_instructed_by,learn_with,study_under													1		bring knowledge closer
+are_humiliated_by,humiliate,are_denounced_by,denounce,are_taunted_by,taunt,laugh_at	-1	1													look down on
+are_respected_by,respect	1														look up to
+are_sued_by,sue,countersue	1														raise an accusation
+turn_against,lose_favor_with,break_with,let_go_of													-1	1	turn away from
+are_upstaged_by,upstage			1												to put in front of someone
+are_unimpressed_by,are_unimpressed_with,fail_to_impress			-1	1											draw back attention
+are_moved_by,feel_sorry_for							1								be touched by
+lead_astray													-1	1	send someone far from his goal
+are_seduced_by,seduce,are_lured_by													1		to draw near
+are_insulted_by,insult,mock,are_mocked_by	-1	1													treat from above
+are_blackmailed_by,blackmail			-1	1											attacking from back
+are_beaten_by							1								strong physical / mental contact
+are_corrupted_by,corrupt,are_ruined_by											1				negative process
+are_underappreciated_by	-1	1													above expectations
+stand_up_to	1														up to
+lie_to										1					keep someone on the surface
+show_loyalty_to													1		to locate oneself close to someone
+are_attacked_by,attack,are_assaulted_by,assault							1								strong physical / mental contact
+disagree_with,confer_with,are_contradicted_by					-1	1									to diverge from one point
+sleep_with,mate_with							1								strong physical / mental contact
+are_rebuffed_by,rebuff			1												frontal push away
+identify_with								1							take values from inside / outside
+are_pursued_by,pursue,are_stalked_by,stalk												1			follow along multiple steps
+are_obeyed_by,obey	1														look up to 
+are_inspired_by,inspire	1														look up to 
+are_manipulated_by,manipulate,are_brainwashed_by,brainwash,abet,are_influenced_by,influence,indoctrinate,are_indoctrinated_by											1				negative process
+campaign_against							1								against
+are_shocked_by			-1	1											backing off
+spy_on										1					observe 
+are_disillusioned_by,disillusion					1										break into the centre of something
+are_rewarded_by,reward								1							take in, collect a reward
+are_abandoned_by,abandon													-1	1	go far away
+lick_up_to	1														up
+are_flattered_by,flatter	1														look up to
+kiss_up_to,are_kissed_by							1								strong physical / mental contact
+lay_a_trap_for,fool			-1	1											work behind the back of someone
+profit_from	1														raise profit
+are_dumped_by,dump	-1	1													being let down
+are_resisted_by,resist			-1	1											taken a step back by
+are_despised_by,despise													-1	1	turn away from
+marry							1								strong physical / mental contact
+are_bitten_by							1								strong physical / mental contact
+are_favored_by,favor								1							being taking into a close circle
+settle_with										1					find a common ground a surface
+are_misrepresented_by,misrepresent													-1	1	depiction is far off
+are_haunted_by,haunt												1			follow after
+surrender_to	1														give up
+are_spurned_by			1												push frontally away
+run_away_from,escape_from,flee_from													-1	1	going far away
+alienate													-1	1	distancing
+are_fired_by,fire			1												send someone out / away
+listen_to								1							taking information in
+take_advantage_of								-1	1						taking something out
+bow_down_to	-1	1													down
+curry_favor_with,suck_up_to											1				cycle of behavior
+work_for,labor_for,work_under,work_with							1								connection through work
+resent,are_resented_by			-1	1											frontally push away
+look_up_to	1														
+are_dismissed_by,dismiss	-1	1													let down
+rise_against,rebel_against	1														rise up
+pander_to													1		approach someone
+silence,are_silenced_by	-1	1													force voice down
+promote,are_promoted_by	1														up
+are_pitied_by,pity							1								touched by
+undermine,are_undermined_by										1					undermine in a topological sense
+hate			1												frontally pushing away
+pine_for,are_missed_by											1				cycle of thoughts
+eject,are_ejected_by								-1	1						
+sympathize_with					1										taking into close circle
+are_concerned_about											1				cycle of thoughts
+cheat,are_cheated_by,cheat_on,cheat_with											1				negative process
+are_entertained_by,entertain	1														raising joy
+praise	1														praising up to someone
+are_distrusted_by,distrust			-1	1											backing off
+are_toppled_by,topple,are_subdued_by,subdue												1			
+are_refused_payment_by,refuse_to_pay,withold_payment_from,withhold_payment_from			-1	1											backing off
+are_attracted_by,attract													1		attraction draws close
+release,are_released_by,break_free_of,free,are_freed_by,cast_off								-1	1						get out
+are_defeated_by,defeat,lose_to	-1	1													turned down
+bribe,pay_off,are_bought_off_by,buy_off								-1	1						give money out
+hide_from								1							get in cover
+are_cursed_by,curse											1				harmful process
+subjugate,are_subjugated_by	-1	1													down under control
+lose_control_over					-1	1									loose
+are_embarrassed_by,embarrass			-1	1											backing off from someone
+chastise,are_chastised_by							1								strong physical / mental contact
+are_forgotten_by													-1	1	being far away
+obtain_sympathy_from,flirt_with,compliment,are_complimented_by													1		close with someone
+punish,are_punished_by							1								strong physical / mental contact
+disfigure,are_disfigured_by											1				harmful process
+take_up_with	1														
+are_driven_mad_by											1				harmful process
+let_in								1							
+interview,are_interviewed_by,answer_questions_from,ask_questions_for,respond_to,answer,are_answered_by,answer_to								1							take information in
+are_hardened_by,harden_toward										1					create hard surface
+are_incarcerated_by,incarcerate								1							
+appeal_to	1														directed upwards
+support,are_supported_by										1					foundation, structure, support
+repay,are_repaid_by								1							take money in
+are_copied_by,copy											1				recycle behavior
+negotiate_with,negotiate_for					1										converging interests
+are_banished_by													-1	1	send off
+are_intrigued_by					1										being the centre of attention
+are_heckled_by,heckle											1				being continuously pushed
+seek_advice_from								1							take advice in
+overwork,are_overworked_by											1				harmful process
+hire,are_hired_by								1							taken in
+are_ruled_by,rule,rule_over,dominate,are_dominated_by,oppress,are_oppressed_by,are_suppressed_by,suppress,govern,govern_for,govern_via,repress	-1	1													treat from above
+observe										1					surface observing
+are_deflowered_by							1								strong physical contact
+are_forgiven_by,forgive													1		closing a gap
+appoint,are_appointed_by	1														mostly upwards in hierarchy
+imitate,are_imitated_by,mimic,impersonate,are_impersonated_by								-1	1						showing/expressing someone else
+track_down,find,are_found_by												1			follow thorugh multiple steps
+are_molded_by										1					work on surface
+are_enslaved_by,enslave	-1	1													working under
+grow_suspicious_of											1				developing process
+sacrifice_to,sacrifice	-1	1													let down take down
+take_aim_at,target,are_targeted_by												1			follow thorugh multiple steps
+elude,are_eluded_by,avoid			-1	1											backing off
+are_divorced_by,divorce								-1	1						getting out of marriage
+summon,are_summoned_by								1							being called in
+die_for	-1	1													going down for someone
+starve											1				harmful process
+are_supplanted_by,supplant					-1	1									push away from centre of focus
+are_challenged_by,challenge							1								
+are_uncovered_by								-1	1						being taken out of cover
+disobey,are_disobeyed_by			1												frontally against
+conspire_with,collude_with											1				process
+are_criticized_by,criticize,are_censured_by,censure			-1	1											being pushed back
+overthrow,are_overthrown_by,are_deposed_by	-1	1													take down
+are_abducted_by,abduct,are_kidnapped_by,kidnap								1							take in posession
+are_snatched_by,snatch,catch,are_caught_by,capture,are_captured_by								1							take in posession
+save,are_saved_by,rescue,are_rescued_by,help,are_helped_by,assist,are_assisted_by,are_facilitated_by,facilitate								1							take in care
+are_scolded_by	-1	1													treat someone from higher position
+date							1								
+are_mistaken_for										1					something went wrong on surface
+commit_to							1								
+condemn	-1	1													treat someone from higher position
+destroy							1								strong physical contact
+enchant,are_enchanted_by					-1	1									loosing the center of focus
+interrogate,are_interrogated_by,are_questioned_by,question,cross_examine								-1	1						take information out
+lie_for					-1	1									spread lies
+admire,are_admired_by,charm,are_charmed_by	1														look up
+travel_with												1			
+trick,are_tricked_by,defraud,are_defrauded_by					-1	1									changing attention to periphery
+are_handled_by,handle,deal_with											1				process
+enlist,are_enlisted_by								1							take in to a list
+are_investigated_by,examine,are_examined_by										1					observe on surface
+are_evaluated_by,evaluate,evaluate_with											1				process
+fail_to_reward	-1	1													let down
+are_recruited_by,recruit								1							take in 
+are_cut_off_by													-1	1	being far off
+are_imprisoned_by,imprison,are_detained_by,detain,take_as_prisoner,arrest,are_arrested_for_killing,are_arrested_for_hurting								1							take in custody
+are_welcomed_by,welcome,are_greeted_by								1							take in home
+complain_to													1		bring arguments near
+compete_with,compete_against,run_against							1								
+follow,are_followed_by,are_escorted_by,are_accompanied_by,accompany												1			follow multiple steps
+campaign_for,propagandize_for	1														raise awarness up
+advise,are_advised_by,counsel,are_counseled_by,are_counselled_by											1				process
+are_mistreated_by	-1	1													being treated downwards
+vote_for								1							take in the vote
+search_for,look_for,are_sought_by,seek,are_tracked_by,hunt,are_hunted_by												1			follow multiple steps
+control,are_controlled_by,are_used_by,act_for	-1	1													put control down on someone
+diagnose,are_diagnosed_by,are_treated_by,treat											1				process
+torture,are_tortured_by,torment,are_tormented_by							1								strong physical contact
+sign_up	1														
+watch_over,look_after,supervise,are_supervised_by,monitor,are_monitored_by												1			follow multiple steps
+are_chosen_by								1							take someone in favor
+are_excommunicated_by,excommunicate,are_defrocked_by													-1	1	send off
+are_expelled_by													-1	1	send off
+share_stories_with					-1	1									spread stories
+love,are_loved_by							1								
+read_the_works_of,read_about,are_read_by								1							take information in
+are_booed_by	-1	1													look down on
+are_photographed_by,photograph					1										capture an image
+drink_with								1							taking the liquid in
+play_with								1							include
+struggle_against,struggle_with											1				harmful process
+break_up_with								-1	1						get out of relationship
+evict,are_evicted_by								1							taken in by sb
+visit,are_visited_by													1		come near sb
+are_funded_by,fund,are_paid_by,pay,are_financed_by,finance,invest_in										1					build the ground the foundation
+play_for					-1	1									extending for sb
+cry_for	-1	1													being down 
+guard,are_guarded_by,defend,are_defended_by,protect,are_protected_by,are_shielded_by			1												to be in front of sb
+brief_against			-1	1											against
+sing_with					-1	1									expand voice with sb
+are_hindered_by			-1	1											hold back
+are_enticed_by,entice,are_wooed_by,woo	1														look up
+are_painted_by,paint					-1	1									expressed outside, expanding
+are_savaged_by							1								strong physical contact
+are_healed_by,heal,cure								1							taken in care
+delegate_to					-1	1									send orders out
+are_persecuted_by,persecute												1			following multiple steps
+appease	-1	1													calm down
+are_dispatched_by,dispatch													-1	1	send far away
+are_reported_by,report_to,are_informed_by,inform								1							take information in
+sweat_for											1				harmful process
+care_for,are_cared_for_by,tend,are_tended_by								1							take in care
+supply,are_supplied_by,supply_to												1			deliver from to
+command,are_commanded_by					-1	1									expanding actions
+are_thanked_by	1														look up to
+are_disqualified_by,disqualify								-1	1						taken out of a group
+consult,consult_with					1										converging discussion
+debate,are_debated_by,debate_with,argue_with											1				
+deploy,are_deployed_by,are_fielded_by								1							put in a position
+lead,are_led_by,guide,are_guided_by													-1	1	set far goals
+are_conquered_by,conquer								1							take in a region
+receive,are_received_by,give_birth_to								-1	1						
+encourage,are_encouraged_by											1				process
+are_represented_by,represent										1					show at surface
+are_persuaded_by,persuade			1												push own ideas to front
+wait_on,are_waited_upon_by													1		attend 
+rank												1			put into a sequence of things
+are_served_by,serve													1		attend 
+manage,are_managed_by											1				recurring provess
+pamper,indulge							1								
+send													-1	1	send far off
+lose_interest_in	-1	1													let interest down
+sign_with,are_signed_by								1							sign in
+resemble										1					show on surface
+intimidate,are_intimidated_by,intimidate_with,threaten_with,threaten,are_threatened_by			1												frontally approach
+perform_with,perform_for					-1	1									expanding expression
+are_rebuked_by			1												frontally approach
+are_failed_by	-1	1													look down to
+propose_to	1														from one to another
+satirize					-1	1									emphasize and exaggerate one detail
+agree_with										1					on the same level
+speak_through													1		from few to much detail
+are_baptized_by,baptize,baptise								1							being made a small part of large group
+are_marketed_by					-1	1									advertise someone
+fight_for					-1	1									express a big frustration
+chat_with,talk_to,debrief,speak_with,communicate_with,speak_to													1		short lasting conversation of unimportance
+are_blessed_by			1												blessing from self to another
+reach_out_to			1												
+sell_to,buy_from,sell_through,sell_via												1			
+are_tipped_by,tip								-1	1						from me to them
+whip,are_whipped_by,hit							1								
+are_drilled_by											1				
+are_trained_by,train,train_with	1														raised while instructed
+review,are_reviewed_by												1			as a step in a process
+operate_on								-1	1						working precisely / taking something out
+are_converted_by,convert											1				turned around
+fight,are_fought_by,fight_with,fight_against							1								
+are_accommodated_by,accommodate,host								1							take someone in
+are_exorcized_by,exorcise								-1	1						take something out of someone
+devour			-1	1											take something back
+terrorize											1				act after act after act...
+nominate,are_nominated_by	1														put someone up for a position
+cater_to												1			from A to B
+massage							1								
+reject,are_rejected_by			1												push away
+are_studied_by,study								1							take in information
+cast_out													-1	1	push far away
+are_spoiled_by,spoil					1										self centered
+dislike	-1	1													
+deliver_for												1			brought from A to B
+apprehend					1										converge to understanding
+pick_on	-1	1													make them feel smaller
+experiment_on											1				process
+translate_for											1				rotate / switch from one language to another
+are_radicalized_by					-1	1									expand specific characteristics
+tower_over	1														to expand till above someone
+are_published_by					-1	1									expand specific characteristics
+write_about										1					describe a scene
+overcome								-1	1						break out of something
+snitch_to													1		move information
+tip_off													-1	1	pushing too far
+prosecute,are_prosecuted_by												1			examined over multiple instances
+are_remembered_by,remember,recall,are_recalled_by													1		draw information from the past / far away
+are_energized_by	1														brought up again
+hurt,are_hurt_by	-1	1													bring down
+snitch_on													1		move information
+vote_against	-1	1													turn down vote
+build_for										1					building a foundation
+are_mystified_by,mystify											1				process
+are_accused_by,accuse								1							put someone in doubts
+are_championed_by,champion			1												put you in front of someone
+are_driven_around_by,are_transported_by,transport,are_driven_by,drive_for												1			
+design_for					-1	1									expanding someones values
+confess_to								-1	1						unpacking sins
+inherit_from	-1	1													pass value down
+beautify										1					superficial operation
+enhance	1														help someone grow (up)
+style_for										1					superficial operation
+are_venerated_by	1														look up to someone
+leak_to								-1	1						give information out
+are_introduced_by								1							in - troduced
+are_named_by	-1	1													put a name down on someone
+live_with					1										converge to one location
+provide_for								1							take in care
+renounce	-1	1													letting down
+consort_with													1		close conversation
+are_rewarded_with								1							take in possession
+ordain,are_ordained_by					-1	1									extend own actions
+are_appreciated_by													1		bring someone closer
+are_sickened_by	-1	1													being pulled down
+are_victimized_by													-1	1	being isolated
+navigate_for												1			
+become_dependent_upon							1								being very close
+are_frustrated_by			-1	1											backing off
+lease_to,lease_from,rent_to,rent_from								-1	1						give out to someone
+are_motivated_by	1														rise motivation up
+model_for,pose_for					-1	1									express outwards
+are_guaranteed_by,guarantee								1							take in guarantee
+are_chronicled_by												1			mulitple things after another
+are_graded_by					1										summarize in one central grade
+are_overrun_by										1					go across surface
+are_scripted_by												1			follow steps
+are_picked_by,pick,select,are_selected_by								1							put someone in a list
+decapitate	1														take head up
+are_discovered_by								-1	1						being cast out of hiding
+play_against							1								against
+are_insured_by										1					cover
+act_via					-1	1									express outwards
+communicate_through,speak_for					-1	1									express outwards
+communicate_via					-1	1									express outwards
+are_usurped_by	1														take someone up
+talk_through					-1	1									express outwards
+leave_behind			-1	1											behind / back
+dress										1					superficial change
+are_judged_by					1										summarize one central judgement
+seek_sympathy_from													1		seeking to be near
+are_retained_by			-1	1											holding back
+are_traumatized_by											1				harmful process
+pitch_at	1														
+sire								1							take someone in inner circle
+are_ennobled_by								1							take someone in inner circle
+argue_before			1												in front of
+unleash													-1	1	send far
+discipline	-1	1													speak down 
+minister_to								1							take in care
+raise,are_raised_by,nurture,are_nurtured_by	1														
+round_up	1														
+pick_up	1														
+chase,are_chased_by,chase_after												1			follow multiple steps
+commission													1		bring something near
+are_roused_by,rouse	1														
+create_for					-1	1									express outwards
+write_for					-1	1									express outwards
+compose_with					-1	1									express outwards
+take_messages_for								1							take in the messages
+are_charged_by,charge											1				process
+advocate_for,testify_for,testify_against,testify_before			1												in front of, expressing, externalising
+are_owed_by,owe,owe_to								1							take in / possess
+are_profiled_by										1					superficial act
+write_to													-1	1	write to someone far
+interpret_for											1				it's a cyclic process
+are_probed_by													1		get closer
+anger							1								
+borrow_from,lend_to								-1	1						give out to
+are_elected_by,elect	1														up voted
+cause_trouble_for											1				start a process
+are_overwhelmed_by	1														over up
+molest,harass							1								
+assassinate							1								
+blow_up	1														
+beat_up							1								
+mourn_for	-1	1													feeling down
+joke_about	-1	1													look down on
+identify											1				
+interact_with							1								
+descend_from	-1	1													
+are_wanted_by													-1	1	
+are_bullied_by,bully											1				
+breastfeed			1												
+attend_to,are_attended_by,attend													1		
+cook_for,cook_for								-1	1						sharing, providing
+farm_for										1					
+export_to												1			
+order_from												1			
+popularize,are_popularized_by	1														
+deliver_to												1			
+carry_for												1			
+please													1		getting close
+shill_for					-1	1									reach out for someone
+are_overshadowed_by,overshadow	1														
+are_overlooked_by	1														

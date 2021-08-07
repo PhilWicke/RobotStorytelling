@@ -1,0 +1,413 @@
+gesture	time	strong	moderate 	weak
+animations/Stand/BodyTalk/Listening/Listening_2	5.455447197	stand_up_to,are_energized_by 	guard,defend,protect,overshadow,debate,debate_with,argue_with,*are_guarded_by,*are_defended_by,*are_protected_by,*are_shielded_by,*are_overshadowed_by,*are_debated_by	condescend_to
+animations/Stand/BodyTalk/Listening/ListeningLeft_1	4.725594044	model_for,pose_for	resist,*are_resisted_by	
+animations/Stand/BodyTalk/Listening/ListeningRight_3	6.234023094		surrender_to 	confess_to 
+animations/Stand/BodyTalk/Listening/ListeningRight_1	3.946917772	model_for,pose_for	resist,*are_resisted_by	
+animations/Stand/BodyTalk/Listening/ListeningLeft_3	4.625261068		surrender_to 	confess_to 
+animations/Stand/BodyTalk/Thinking/Remember_3	1.540712118	pick,select,*are_picked_by,*are_selected_by	condemn,remember,recall	
+animations/Stand/BodyTalk/Thinking/Remember_2	1.661787987	deliver_for,deliver_to	send,build_for,pick_up,carry_for	
+animations/Stand/BodyTalk/Thinking/Remember_1	1.60609293		dispatch, pick, select,*are_dispatched_by,*are_picked_by,*are_selected_by	steal_from,rob,*are_robbed_by
+animations/Stand/BodyTalk/Speaking/BodyTalk_19	2.852967024			reach_out_to,sell_to,*buy_from,sell_through,sell_via
+animations/Stand/BodyTalk/Speaking/BodyTalk_17	1.865433931	surrender_to,resemble	are_defeated_by,*defeat,lose_to, are_released_by,*release,break_free_of,*free,are_freed_by,*cast_off	
+animations/Stand/BodyTalk/Speaking/BodyTalk_22	2.321147919			vote_for 
+animations/Stand/BodyTalk/Speaking/BodyTalk_12	3.126847029		lose_control_over 	refuse_to_pay,*are_refused_payment_by,withold_payment_from,withhold_payment_from
+animations/Stand/BodyTalk/Speaking/BodyTalk_4	2.167912006	beautify,enhance,admire,*are_admired_by,charm,*are_charmed_by,sing_with	*are_judged_by,talk_through,act_via,resemble,praise	create_for 
+animations/Stand/BodyTalk/Speaking/BodyTalk_18	3.434212208	silence,*are_silenced_by,undermine,*are_undermined_by,refuse_to_pay,*are_refused_payment_by,withold_payment_from,withhold_payment_from,appease	are_disappointed_by,*disappoint,lose_faith_in,are_pushed_too_far_by,lay_a_trap_for	
+animations/Stand/BodyTalk/Speaking/BodyTalk_9	2.377050877			operate_on,propose_to
+animations/Stand/BodyTalk/Speaking/BodyTalk_10	2.339206934			consort_with 
+animations/Stand/BodyTalk/Speaking/BodyTalk_15	2.420405865	steal_from,rob,*are_robbed_by,*are_snatched_by,snatch,catch,*are_caught_by,capture,*are_captured_by		
+animations/Stand/BodyTalk/Speaking/BodyTalk_6	1.492846012	deliver_to,deliver_for,export_from,*borrow_from,lend_to,deploy,*are_deployed_by,*are_fielded_by	carry_for,translate_for	fail_to_deliver_for
+animations/Stand/BodyTalk/Speaking/BodyTalk_13	1.152378082	disrespect,*are_disrespected_by,offend,*are_offended_by,insult,*are_insulted_by,mock,*are_mocked_by		
+animations/Stand/BodyTalk/Speaking/BodyTalk_21	2.852624893	unleash	give_birth_to,receive,*are_received_by,pitch_at 	cater_to,cede_power_to,spread_lies_about
+animations/Stand/BodyTalk/Speaking/BodyTalk_5	2.012665033	enlist,*are_enlisted_by	*are_lectured_by,lecture_to,coach,*are_coached_by,teach,*are_taught_by,mentor,*are_mentored_by,*are_tutored_by,educate,*are_educated_by,instruct,*are_instructed_by,*study_under,evaluate,evaluate_with,*are_evaluated_by	
+animations/Stand/BodyTalk/Speaking/BodyTalk_11	3.197165966		compose_with	convert,*are_converted_by
+animations/Stand/BodyTalk/Speaking/BodyTalk_1	2.433320045	consult,consult_with,persuade,*are_persuaded_by,advise,*are_advised_by,counsel,*are_counseled_by,*are_counselled_by	*are_probed_by,consort_with	negotiate_with,negotiate_for
+animations/Stand/BodyTalk/Speaking/BodyTalk_14	2.114847898			interpret_for,interact_with
+animations/Stand/BodyTalk/Speaking/BodyTalk_8	1.828917027		pick_up	*are_hardened_by,harden_toward
+animations/Stand/BodyTalk/Speaking/BodyTalk_2	2.317667961		perform_for,perform_with,create_for,unleash	
+animations/Stand/BodyTalk/Speaking/BodyTalk_3	1.756840944		perform_for,perform_with,create_for,unleash	
+animations/Stand/BodyTalk/Speaking/BodyTalk_20	2.561001062	carry_for 	deliver_to	
+animations/Stand/Reactions/SeeSomething_5	7.367270947	search_for,look_for,*are_sought_by,seek,*are_tracked_by 	track_down,hunt,*are_hunted_by 	
+animations/Stand/Reactions/LightShine_2	4.918115854	fear,*are_feared_by,are_disgusted_by,*disgust	are_shocked_by,are_haunted_by,*haunt,*terrorize,are_hurt_by,*hurt	blow_up 
+animations/Stand/Reactions/SeeSomething_1	17.90327621	track_down 	*are_investigated_by,examine,are_examined_by	
+animations/Stand/Reactions/TouchHead_3	3.288229942	are_manipulated_by,*manipulate,are_brainwashed_by,*brainwash,*abet,are_influenced_by,*influence,*indoctrinate,are_indoctrinated_by,are_traumatized_by		
+animations/Stand/Reactions/SeeSomething_8	5.206896067		appease,delegate_to,watch_over,look_after,_supervise,*are_supervised_by,monitor,*are_monitored_by	
+animations/Stand/Reactions/BumperRight_1	3.276921034		*are_overlooked_by,confess_to,are_disgusted_by,*disgust	
+animations/Stand/Reactions/TouchHead_2	3.995671034	are_manipulated_by,*manipulate,are_brainwashed_by,*brainwash,*abet,are_influenced_by,*influence,*indoctrinate,are_indoctrinated_by,are_traumatized_by		
+animations/Stand/Reactions/EthernetOff_1	5.730695009	show_loyalty_to	bow_down_to,confess_to,obey,*are_obeyed_by	are_disillusioned_by,*disillusion
+animations/Stand/Reactions/SeeSomething_3	9.407363892	track_down 	*are_investigated_by,examine,are_examined_by	
+animations/Stand/Reactions/LightShine_3	4.316397905		are_overlooked_by,are_frustrated_by	are_overwhelmed_by
+animations/Stand/Reactions/SeeSomething_7	4.246856928	are_embarrassed_by,*embarrass	are_rebuffed_by,*rebuff,are_rebuked_by	
+animations/Stand/Reactions/SeeSomething_4	6.390993118	are_enslaved_by,*enslave,are_imprisoned_by,*imprison,are_detained_by,*detain,*take_as_prisoner,*arrest,are_arrested_for_killing,are_arrested_for_hurting,are_ennobled_by	surrender_to,bow_down_to,are_evicted_by,*evict	
+animations/Stand/Reactions/LightShine_1	7.577645063	fear,*are_feared_by,are_disgusted_by,*disgust	are_shocked_by,are_haunted_by,*haunt,*terrorize,are_hurt_by,*hurt	blow_up 
+animations/Stand/Reactions/SeeColor_1	4.972965002	are_inspired_by,*inspire,grow_suspicious_of	are_impressed_by,*impress,examine,*are_investigated_by,*are_examined_by	
+animations/Stand/Reactions/SeeSomething_6	3.141307116		*are_overlooked_by,confess_to,are_disgusted_by,*disgust	
+animations/Stand/Reactions/BumperLeft_1	3.246583939		*are_overlooked_by,confess_to,are_disgusted_by,*disgust	
+animations/Stand/Reactions/TouchHead_1	3.092010975	are_disappointed_by,*disappoint,disagree_with	*are_disqualified_by,disqualify	
+animations/Stand/Reactions/Bumpers_1	3.550976992		*are_overlooked_by,confess_to,are_disgusted_by,*disgust	
+animations/Stand/Reactions/ShakeBody_3	4.965138197		are_shocked_by,are_driven_mad_by,are_traumatized_by	are_impressed_by,*impress,alienate
+animations/Stand/Reactions/EthernetOn_1	#N/A			are_traumatized_by,are_inspired_by,*inspire
+animations/Stand/Reactions/SeeColor_2	5.440299034	are_inspired_by,*inspire,grow_suspicious_of	are_impressed_by,*impress,examine,*are_investigated_by,*are_examined_by	
+animations/Stand/Reactions/Heat_2	5.270565987	are_defeated_by,*defeat,lose_to	are_exploited_by,*exploit,are_abused_by,*abuse,*prey_on,*coerce,are_humiliated_by,*humiliate,are_denounced_by,*denounce,are_taunted_by,*taunt,*laugh_at	are_overrun_by,are_traumatized_by
+animations/Stand/Reactions/ShakeBody_2	6.768774986		mourn_for,are_overwhelmed_by	
+animations/Stand/Reactions/SeeColor_3	4.51772809		steal_from,rob,*are_robbed_by	
+animations/Stand/Reactions/Bumpers_3	3.50353694		*are_overlooked_by,confess_to,are_disgusted_by,*disgust	
+animations/Stand/Reactions/LightShine_4	4.927451849	fear,*are_feared_by,are_disgusted_by,*disgust	are_shocked_by,are_haunted_by,*haunt,*terrorize,are_hurt_by,*hurt	blow_up 
+animations/Stand/Reactions/ShakeBody_1	2.782225132	disagree_with,*are_contradicted_by	dislike,disqualify,*are_disqualified_by	
+animations/Stand/Reactions/Heat_1	4.892328024	are_defeated_by,*defeat,lose_to	are_exploited_by,*exploit,are_abused_by,*abuse,*prey_on,*coerce,are_humiliated_by,*humiliate,are_denounced_by,*denounce,are_taunted_by,*taunt,*laugh_at	are_overrun_by,are_traumatized_by
+animations/Stand/Reactions/Bumpers_2	3.409882069		*are_overlooked_by,confess_to,are_disgusted_by,*disgust	
+animations/Stand/Reactions/TouchHead_4	2.720969915			are_traumatized_by,are_inspired_by,*inspire
+*animations/Stand/Emotions/Negative/Fear_2	9.812753916	are_shocked_by 	are_uncovered_by 	
+animations/Stand/Emotions/Negative/Late_1	9.640611172	wait_on,*are_waited_upon_by		
+animations/Stand/Emotions/Negative/Fearful_1	6.508034945	fear,*are_feared_by,are_disgusted_by,*disgust	are_shocked_by,are_haunted_by,*haunt,*terrorize,are_hurt_by,*hurt	blow_up 
+animations/Stand/Emotions/Negative/Sorry_1	#N/A		beg_forgiveness_from,*are_begged_by,seek_forgiveness_from 	
+*animations/Stand/Emotions/Negative/Angry_3	3.569354057		are_frustrated_by 	*are_cut_off_by
+animations/Stand/Emotions/Negative/Bored_1	6.035137892	are_bored_by,are_bored_with,are_humiliated_by,*humiliate,are_denounced_by,*denounce	are_disappointed_by,*disappoint,are_unimpressed_by,*are_unimpressed_with,*fail_to_impress,are_embarrassed_by,*embarrass	
+animations/Stand/Emotions/Negative/Sad_2	5.289283991			are_disappointed_by,*disappoint,are_unimpressed_by,*are_unimpressed_with,*fail_to_impress,are_embarrassed_by,*embarrass
+animations/Stand/Emotions/Negative/Shocked_1	4.354683876	*impress,are_impressed_by,are_shocked_by 		
+animations/Stand/Emotions/Negative/Disappointed_1	4.886038065		are_disappointed_by,*disappoint,are_unimpressed_by,*are_unimpressed_with,*fail_to_impress,are_embarrassed_by,*embarrass	are_frustrated_by 
+*animations/Stand/Emotions/Negative/Surprise_1	3.532563925	are_shocked_by 	are_uncovered_by 	
+*animations/Stand/Emotions/Negative/Sad_1	9.649086952	cry_for,mourn_for 	are_abandoned_by,*abandon	
+*animations/Stand/Emotions/Negative/Fear_1	4.205783844	are_shocked_by,fear,*are_feared_by 		are_uncovered_by 
+*animations/Stand/Emotions/Negative/Surprise_3	2.138776064	are_shocked_by,fear,*are_feared_by 		are_uncovered_by 
+*animations/Stand/Emotions/Negative/Angry_2	6.369749069	anger,are_driven_mad_by 		*cause_trouble_for 
+*animations/Stand/Emotions/Negative/Angry_4	3.155070066	anger,are_driven_mad_by,campaign_against,rise_against,rebel_against,*are_booed_by	overthrow,*are_overthrown_by,*are_deposed_by 	fight,*are_fought_by,fight_with,fight_against
+animations/Stand/Emotions/Negative/Humiliated_1	9.624843836		dislike,are_intimidated_by,*intimidate,*intimidate_with,*threaten_with,*threaten,are_threatened_by 	reject,*are_rejected_by 
+animations/Stand/Emotions/Negative/Hurt_1	2.237934828	anger,are_driven_mad_by 		*cause_trouble_for,*terrorize 
+animations/Stand/Emotions/Negative/Bored_2	11.63758802	are_bored_by,are_bored_with,are_humiliated_by,*humiliate,are_denounced_by,*denounce	are_disappointed_by,*disappoint,are_unimpressed_by,*are_unimpressed_with,*fail_to_impress,are_embarrassed_by,*embarrass	
+*animations/Stand/Emotions/Negative/Surprise_2	#N/A	are_shocked_by,fear,*are_feared_by 		are_uncovered_by 
+*animations/Stand/Emotions/Negative/Exhausted_2	9.113406897		are_pushed_too_far_by,are_disappointed_by,*disappoint,lose_faith_in,are_bored_by,are_bored_with,are_humiliated_by,*humiliate,are_denounced_by,*denounce	are_disillusioned_by,*disillusion,are_excommunicated_by,*excommunicate,are_defrocked_by 
+animations/Stand/Emotions/Negative/Exhausted_1	6.763907909		are_pushed_too_far_by,are_disappointed_by,*disappoint,lose_faith_in,are_bored_by,are_bored_with,are_humiliated_by,*humiliate,are_denounced_by,*denounce	are_disillusioned_by,*disillusion,are_excommunicated_by,*excommunicate,are_defrocked_by 
+*animations/Stand/Emotions/Negative/Hurt_2	4.59426713	are_overwhelmed_by,are_traumatized_by,are_driven_mad_by	are_overrun_by 	
+*animations/Stand/Emotions/Negative/Frustrated_1	3.742273092	are_disappointed_by,*disappoint,are_unimpressed_by,are_unimpressed_with,*fail_to_impress 	are_rejected_by,*reject	
+animations/Stand/Emotions/Negative/Anxious_1	5.884389877	fear,*are_feared_by,are_haunted_by,*haunt	are_intrigued_by,are_intimidated_by,*intimidate,intimidate_with,are_threatened_by,*threaten	
+*animations/Stand/Emotions/Negative/Angry_1	8.224815845	anger,are_driven_mad_by 		*cause_trouble_for,*terrorize 
+animations/Stand/Emotions/Positive/Peaceful_1	5.650494099		silence,*are_silenced_by 	leave_behind 
+animations/Stand/Emotions/Positive/Interested_1	5.371028185		sing_with 	
+animations/Stand/Emotions/Positive/Enthusiastic_1	3.354640007	are_energized_by	are_drilled_by 	
+animations/Stand/Emotions/Positive/Proud_2	5.857445002		are_energized_by,model_for,pose_for 	
+animations/Stand/Emotions/Positive/Proud_1	5.914580107		are_energized_by,model_for,pose_for 	
+*animations/Stand/Emotions/Positive/Hungry_1	6.892673016		are_disgusted_by,*disgust	
+animations/Stand/Emotions/Positive/Happy_4	2.351964951	agree_with,encourage,*are_encouraged_by 		
+animations/Stand/Emotions/Positive/Relieved_1	4.491667032	sweat_for 	are_saved_by,*save,*rescue,are_rescued_by,are_helped_by,*help	
+*animations/Stand/Emotions/Positive/Laugh_2	2.813610077	laugh_at,joke_about 		
+animations/Stand/Emotions/Positive/Excited_2	#N/A	promote,*are_promoted_by,are_entertained_by,*entertain,popularize,*are_popularized_by 		
+*animations/Stand/Emotions/Positive/Mocker_1	4.159111023	laugh_at,joke_about,lead_astray,lead,*are_led_by,guide,*are_guided_by 		
+animations/Stand/Emotions/Positive/Ecstatic_1	#N/A		*impress,are_impressed_by 	
+*animations/Stand/Emotions/Positive/Happy_1	4.396276951	praise 		
+*animations/Stand/Emotions/Positive/Amused_1	2.397043943		laugh_at,joke_about	
+animations/Stand/Emotions/Positive/Confident_1	5.142564058	agree_with,support,*are_supported_by 	*are_appreciated_by 	
+animations/Stand/Emotions/Positive/Excited_3	#N/A	are_impressed_by,*impress	profit_from 	show_loyalty_to,*are_thanked_by 
+animations/Stand/Emotions/Positive/Hysterical_1	2.391167164	entertain,*are_entertained_by 	encourage,*are_encouraged_by,*are_overrun_by 	
+animations/Stand/Emotions/Positive/Optimistic_1	6.808026791	agree_with 	trust,*are_trusted_by,believe_in,confide_in,rely_on,are_moved_by,feel_sorry_for	
+animations/Stand/Emotions/Positive/Shy_1	7.899564981	are_intimidated_by,*intimidate,*intimidate_with,*threaten_with,*threaten,are_threatened_by,are_booed_by 		
+*animations/Stand/Emotions/Positive/Laugh_1	6.729378939	laugh_at,joke_about 	humiliate,*are_humiliated_by	
+*animations/Stand/Emotions/Positive/Winner_2	6.870208979	popularize,are_popularized_by,champion,*are_championed_by	are_elected_by,*elect	praise 
+animations/Stand/Emotions/Positive/Proud_3	5.969486952	resist,*are_resisted_by,are_summoned_by,*summon	stand_up_to 	ignore,*are_ignored_by,tune_out  
+*animations/Stand/Emotions/Positive/Interested_2	2.543410063	attend_to,*are_attended_by,attend,serve,*are_served_by	minister_to 	propose_to 
+animations/Stand/Emotions/Positive/Excited_1	#N/A		are_impressed_by,*impress	
+*animations/Stand/Emotions/Positive/Happy_2	1.815334082		abduct,*are_abducted_by,kidnap,*are_kidnapped_by,snatch,*are_snatched_by,catch,*are_caught_by,capture,*are_captured_by	agree_with 
+animations/Stand/Emotions/Positive/Shy_2	7.793303013	are_intimidated_by,*intimidate,*intimidate_with,*threaten_with,*threaten,are_threatened_by,are_booed_by 		
+*animations/Stand/Emotions/Positive/Laugh_3	1.762395144		laugh_at,joke_about	humiliate,*are_humiliated_by
+*animations/Stand/Emotions/Positive/Happy_3	1.848618031		praise,popularize,are_popularized_by,campaign_for,propagandize_for 	
+animations/Stand/Emotions/Positive/Sure_1	8.539632082	guard,*are_guarded_by,defend,*are_defended_by,protect,*are_protected_by	are_shielded_by 	
+*animations/Stand/Emotions/Positive/Winner_1	5.151293993	campaign_for,propagandize_for ,champion,are_championed_by 	campaign_against 	
+animations/Stand/Emotions/Neutral/Hello_1	4.797866106	welcome,*are_welcomed_by,*are_greeted_by 		
+*animations/Stand/Emotions/Neutral/AskForAttention_3	4.084889174	heckle,*are_heckled_by 	*are_cut_off_by 	disagree_with, confer_with
+animations/Stand/Emotions/Neutral/Innocent_1	7.926376104	are_intimidated_by,*intimidate	are_abandoned_by,*abandon,*alienate,are_silenced_by,*silence,are_embarrassed_by,*embarrass	fear,*are_feared_by,listen_to 
+*animations/Stand/Emotions/Neutral/Hesitation_1	9.07832098			grow_suspicious_of 
+*animations/Stand/Emotions/Neutral/AskForAttention_1	4.56328392	heckle,*are_heckled_by 	*are_cut_off_by 	disagree_with, confer_with
+animations/Stand/Emotions/Neutral/Confused_1	6.665616989	are_driven_mad_by 	*cause_trouble_for,	
+*animations/Stand/Emotions/Neutral/Sneeze	3.027025938		are_sickened_by 	
+animations/Stand/Emotions/Neutral/Cautious_1	4.65240407	grow_suspicious_of 	are_uncovered_by 	
+animations/Stand/Emotions/Neutral/Determined_1	3.873946905	delegate_to	control,*are_controlled_by,command,*are_commanded_by 	
+animations/Stand/Emotions/Neutral/Annoyed_1	5.577128887		disagree_with 	are_disappointed_by,*disappoint 
+animations/Stand/Emotions/Neutral/Lonely_1	7.245751143	are_abandoned_by,*abandon,*disappoint, are_disappointed_by,*leave_behind 	are_silenced_by,*silence,are_embarrassed_by,*embarrass	
+*animations/Stand/Emotions/Neutral/AskForAttention_2	4.423243999	welcome,*are_welcomed_by,*are_greeted_by,heckle,*are_heckled_by 		
+animations/Stand/Emotions/Neutral/Stubborn_1	3.835860968		debate,*are_debated_by,debate_with,argue_with	manipulate,*are_manipulated_by
+animations/Stand/Emotions/Neutral/Suspicious_1	7.086642027		grow_suspicious_of,mystify,*are_mystified_by,hide_from 	
+animations/Stand/Emotions/Neutral/Mischievous_1	6.084840059	lay_a_trap_for,manipulate,*are_manipulated_by	*are_lured_by,seduce,*are_seduced_by,brainwash,*are_brainwashed_by,influence,*are_influenced_by,indoctrinate,*are_indoctrinated_by	
+animations/Stand/Emotions/Neutral/Puzzled_1	6.181187868	are_inspired_by,*inspire,grow_suspicious_of	are_impressed_by,*impress,examine,*are_investigated_by,*are_examined_by	
+animations/Stand/Emotions/Neutral/Alienated_1	10.58615398	*alienate 	*impress,are_impressed_by 	
+animations/Stand/Emotions/Neutral/Embarrassed_1	7.615257025	are_embarrassed_by,*embarass		
+animations/Stand/Waiting/Relaxation_3	4.354755878			are_overthrown_by,*overthrow 
+animations/Stand/Waiting/ScratchTorso_1	4.524940968		breastfeed,impersonate,*are_impersonated_by 	
+animations/Stand/Waiting/LookHand_1	7.586081982		*enchant,are_enchanted_by,are_inspired_by,*inspire	
+*animations/Stand/Waiting/CallSomeone_1	8.48542285		*are_lured_by	
+*animations/Stand/Waiting/WakeUp_1	#N/A			are_healed_by,*heal,*cure
+animations/Stand/Waiting/Innocent_1	6.646052837	confess_to 	beg_forgiveness_from,*are_begged_by,seek_forgiveness_from 	
+animations/Stand/Waiting/ShowMuscles_5	5.296987057	fight_with,fight,*are_fought_by,fight_against 	taunt,are_taunted_by 	
+animations/Stand/Waiting/Relaxation_2	6.745934963	share_stories_with 	praise 	
+animations/Stand/Waiting/Waddle_1	5.89366293		*are_usurped_by 	cede_power_to 
+animations/Stand/Waiting/Binoculars_1	8.373539925	watch_over,look_after,search_for,look_for,seek,*are_sought_by,hunt,*are_hunted_by	cry_for 	
+animations/Stand/Waiting/ScratchBack_1	6.853368998			conspire_with,collude_with
+*animations/Stand/Waiting/TakePicture_1	#N/A	photograph,*are_photographed_by 		
+*animations/Stand/Waiting/ShowMuscles_4	3.978971004	fight_with,fight,*are_fought_by,fight_against 	taunt,are_taunted_by 	
+animations/Stand/Waiting/FunnyDancer_1	#N/A		mimic 	
+animations/Stand/Waiting/ShowMuscles_1	8.696393013			are_hardened_by
+animations/Stand/Waiting/Fitness_3	14.54256082			pick_up 
+animations/Stand/Waiting/Think_4	6.41150403		are_impressed_by,*impress,examine,*are_investigated_by,*are_examined_byare_inspired_by,*inspire,grow_suspicious_of	are_impressed_by,*impress,examine,*are_investigated_by,*are_examined_by
+*animations/Stand/Waiting/DriveCar_1	15.30147886	*are_driven_around_by,*are_driven_by,drive_for 		
+animations/Stand/Waiting/Stretch_1	8.341037989		bow_down_to 	
+animations/Stand/Waiting/LookHand_2	5.519006968		*enchant,are_enchanted_by,are_inspired_by,*inspire	
+animations/Stand/Waiting/ShowSky_2	7.272589207	look_up_to 	inspire,*are_inspired_by	
+animations/Stand/Waiting/Think_1	5.891208172		are_impressed_by,*impress,examine,*are_investigated_by,*are_examined_byare_inspired_by,*inspire,grow_suspicious_of	are_impressed_by,*impress,examine,*are_investigated_by,*are_examined_by
+animations/Stand/Waiting/Knight_1	9.681134939		fight_for,fight,*are_fought_by,fight_with,fight_against	
+animations/Stand/Waiting/FunnySlide_1	#N/A		entertain,*are_entertained_by 	joke_about 
+animations/Stand/Waiting/Headbang_1	12.80774188	rebel_against 	campaign_against,rise_against 	
+animations/Stand/Waiting/HideHands_1	#N/A	break_free_of,*free,are_freed_by,*release,are_released_by		
+animations/Stand/Waiting/Fitness_2	14.19114113	*train,are_trained_by,train_with 	are_drilled_by	
+*animations/Stand/Waiting/MysticalPower_1	1.121188879	mystify,*are_mystified_by 		
+animations/Stand/Waiting/ScratchHand_1	5.476279974			write_for,create_for,translate_for 
+animations/Stand/Waiting/ShowMuscles_2	5.700977087	*train,are_trained_by,train_with 		
+animations/Stand/Waiting/Fitness_1	14.28285909	*train,are_trained_by,train_with 		
+animations/Stand/Waiting/BackRubs_1	10.04858184			are_enslaved_by,*enslave
+animations/Stand/Waiting/ShowMuscles_3	8.449163914	are_championed_by,*champion,model_for,pose_for 		
+animations/Stand/Waiting/Stretch_3	7.289125919			are_toppled_by,*topple
+*animations/Stand/Waiting/Monster_1	8.740505934		fear,*are_feared_by,threaten,*are_threatened_by 	
+animations/Stand/Waiting/Think_3	5.591422081	are_inspired_by,*inspire,grow_suspicious_of	are_impressed_by,*impress,examine,*are_investigated_by,*are_examined_by	
+animations/Stand/Waiting/Think_2	5.187454224	are_inspired_by,*inspire,grow_suspicious_of	are_impressed_by,*impress,examine,*are_investigated_by,*are_examined_by	
+animations/Stand/Waiting/Waddle_2	8.865579128		are_unimpressed_by,are_unimpressed_with,*fail_to_impress 	wait_on,*are_waited_upon_by 
+*animations/Stand/Waiting/Helicopter_1	17.57082701			are_hunted_by,*hunt 
+animations/Stand/Waiting/Zombie_1	21.37945414		are_controlled_by,*control 	are_brainwashed_by,brainwash 
+animations/Stand/Waiting/LoveYou_1	9.012315035	propose_to,fall_in_love_with,love ,*are_loved_by 		
+animations/Stand/Waiting/Bandmaster_1	15.59987998		manage,*are_managed_by 	command,*are_commanded_by 
+*animations/Stand/Waiting/KnockEye_1	5.574020863		are_ruined_by,are_corrupted_by,*corrupt	
+animations/Stand/Waiting/ScratchHead_1	#N/A	remember,are_remembered_by,recall,*are_recalled_by		
+animations/Stand/Waiting/Drink_1	7.674293041	drink_with 		
+animations/Stand/Waiting/Relaxation_1	7.802534103		welcome,*are_welcomed_by,*are_greeted_by 	
+animations/Stand/Waiting/Stretch_2	7.334137201		*train,are_trained_by,train_with 	
+animations/Stand/Waiting/HideEyes_1	13.09980392	are_overlooked_by 	hide_from 	
+animations/Stand/Waiting/ScratchEye_1	1.220846176			are_bored_by,are_bored_with,sweat_for 
+animations/Stand/Waiting/ScratchLeg_1	5.931726933		operate_on 	
+animations/Stand/Waiting/PlayHands_1	6.094956875	create_for 		
+animations/Stand/Waiting/KungFu_1	5.938392878		challenge,are_challenged_by 	
+animations/Stand/Waiting/ScratchBottom_1	#N/A			are_unimpressed_by,are_unimpressed_with,are_bored_by,are_bored_with 
+animations/Stand/Waiting/PlayHands_3	9.427125931	create_for 		
+animations/Stand/Waiting/PlayHands_2	7.198199987	create_for 		
+animations/Stand/Waiting/Relaxation_4	7.311990023			are_unimpressed_by,are_unimpressed_with,are_bored_by,are_bored_with 
+animations/Stand/Waiting/ShowSky_1	6.299517155	look_up_to,*are_venerated_by 	inspire,*are_inspired_by	
+animations/Stand/Waiting/Rest_1	4.933438063		agree_with 	
+*animations/Stand/Waiting/Taxi_1	4.410907984		heckle,_are_heckled_by	
+animations/Stand/Gestures/Yes_1	1.801734924		agree_with 	
+animations/Stand/Gestures/Me_7	2.6454041	identify_with 	steal_from,rob,*are_robbed_by,borrow_from,*lend_to	trust ,*are_trusted_by,believe_in,confide_in,rely_on
+animations/Stand/Gestures/But_1	1.31843996		disrespect,offend,*are_disrespected_by,*are_offended_by 	
+animations/Stand/Gestures/Yes_2	1.251710892		agree_with 	*are_judged_by 
+animations/Stand/Gestures/JointHands_3	4.01315999	conspire_with,collude_with	manipulate,*are_manipulated_by,indoctrinate,*are_indoctrinated_by	lay_a_trap_for,fool 
+animations/Stand/Gestures/Thinking_6	#N/A			wait_on,*are_waited_upon_by 
+animations/Stand/Gestures/WhatSThis_6	1.787229061		release,*are_released_by,confess_to,deliver_for,sell_to 	lose_control_over,sacrifice_to,
+animations/Stand/Gestures/ShowSky_12	3.64231801	sing_with,perform_with,perform_for,propose_to,*are_venerated_by 	appeal_to,speak_through 	
+animations/Stand/Gestures/Enthusiastic_1	2.198173046		are_energized_by 	
+animations/Stand/Gestures/Everything_4	2.379426003	settle_with,are_silenced_by,silence 	dismiss,*are_dismissed_by 	*are_refused_payment_by,refuse_to_pay,withold_payment_from,withhold_payment_from 
+animations/Stand/Gestures/Explain_11	3.469496965			seek_advice_from,complain_to 
+animations/Stand/Gestures/Thinking_5	#N/A			wait_on,*are_waited_upon_by,model_for,pose_for 
+animations/Stand/Gestures/Thinking_8	#N/A		resist,*are_resisted_by,guard,*are_guarded_by,defend,*are_defended_by,protect,*are_protected_by,*are_shielded_by 	
+animations/Stand/Gestures/Yum_1	2.995183945		receive,*are_received_by,give_birth_to 	are_healed_by,*heal,*cure,mate_with,sleep_with,are_deflowered_by 
+animations/Stand/Gestures/Me_1	1.960700035	snatch,*are_snatched_by,catch,*are_caught_by,capture,are_captured_by	steal_from,rob,*are_robbed_by 	identify_with 
+animations/Stand/Gestures/Far_3	4.139055967	command,*are_commanded_by,lead,*are_led_by	lead_astray,guide,*are_guided_by 	conquer,*are_conquered_by 
+animations/Stand/Gestures/Explain_8	2.517756939		argue_before,debate_with,argue_with,negotiate_with,confer_with	talk_through,communicate_through,communicate_via
+animations/Stand/Gestures/WhatSThis_14	2.285604954		argue_before,debate_with,argue_with,appeal_to,negotiate_with 	seek_advice_from 
+animations/Stand/Gestures/Reject_5	2.417640924	deploy,*are_deployed_by,*are_fielded_by,dispatch,*are_dispatched_by 	eject,*are_ejected_by ,supplant,*are_supplanted_by 	inherit_from 
+animations/Stand/Gestures/CalmDown_6	2.337027788		silence,*are_silenced_by 	take_aim_at,target,*are_targeted_by
+animations/Stand/Gestures/IDontKnow_6	2.404610157		praise	confess_to,deliver_to 
+animations/Stand/Gestures/Salute_3	5.924679995	are_ennobled_by,obey,*are_obeyed_by	welcome,*are_greeted_by,*are_welcomed_by,respect,*are_respected_by 	
+animations/Stand/Gestures/No_2	3.269211769	disagree_with,*are_contradicted_by 	reject,*are_rejected_by 	
+animations/Stand/Gestures/This_7	3.016218901	*are_judged_by 	*are_lectured_by,lecture_to,coach,*are_coached_by,instruct ,*are_instructed_by 	
+animations/Stand/Gestures/Thinking_7	#N/A	breastfeed 	deliver_to,borrow_from,lend_to	owe,*are_owed_by 
+animations/Stand/Gestures/ShowSky_8	1.212336063	*are_blessed_by,blow_up,praise 	inspire,*are_inspired_by,design_for 	
+animations/Stand/Gestures/Hungry_1	2.73191309	are_sickened_by,*starve 		
+animations/Stand/Gestures/This_6	1.518028975	*are_judged_by 	*are_lectured_by,lecture_to,coach,*are_coached_by,instruct ,*are_instructed_by 	
+animations/Stand/Gestures/Kisses_1	5.762225151	kiss_up_to,*are_kissed_by 		
+animations/Stand/Gestures/Please_3	2.354260921		operate_on,massage 	*are_scripted_by
+animations/Stand/Gestures/Me_8	2.589684963		identify_with 	steal_from,rob,*are_robbed_by,borrow_from,*lend_to
+animations/Stand/Gestures/CatchFly_2	3.560389042	snatch,*are_snatched_by,catch,*are_caught_by,capture,are_captured_by	steal_from,rob,*are_robbed_by 	
+animations/Stand/Gestures/Next_1	3.057820082			agree_with,inherit_from 
+animations/Stand/Gestures/Far_1	3.139340878	*are_introduced_by	propagandize_for 	campaign_for 
+animations/Stand/Gestures/Surprised_1	5.052848101		spy_on,hide_from,are_intimidated_by,*intimidate,*intimidate_with,*threaten_with,*threaten,are_threatened_by 	are_shocked_by 
+animations/Stand/Gestures/Give_4	3.925915003	deliver_to,export_to 	deliver_for,eject,*are_ejected_by 	unleash,send 
+animations/Stand/Gestures/Wings_4	3.571660995	appease 		silence,*are_silenced_by,travel_with 
+animations/Stand/Gestures/Mime_1	2.192128181		imitate,*are_imitated_by,mimic	impersonate,*are_impersonated_by 
+animations/Stand/Gestures/Hey_3	3.733034134	welcome,*are_welcomed_by,*are_greeted_by,		
+animations/Stand/Gestures/Explain_4	2.891483068		*listen_to,appeal_to,negotiate_with,negotiate_for,share_stories_with,debate,are_debated_by,debate_with,argue_with,talk_to,speak_with,communicate_with,speak_to,debrief,chat_with,confer_with	disagree_with 
+animations/Stand/Gestures/Enthusiastic_3	2.59416914	disagree_with 	dislike,ignore,*are_ignored_by	are_disappointed_by,*disappoint,lose_faith_in 
+animations/Stand/Gestures/Maybe_1	1.649633884		are_unimpressed_by,are_unimpressed_with,*fail_to_impress 	are_bored_by,are_bored_with 
+animations/Stand/Gestures/ShowSky_3	#N/A		appeal_to,seek_advice_from,propose_to,pitch_at  	reward,*are_rewarded_by 
+animations/Stand/Gestures/Angry_3	3.57791996	are_disappointed_by,*disappoint 	are_disrespected_by,*disrespect,are_offended_by,*offend,struggle_against,struggle_with 	are_rebuffed_by,*rebuff,are_disillusioned_by,*disillusion,are_dumped_by,*dump
+animations/Stand/Gestures/Wings_1	7.574549913		perform_for,imitate,*are_imitated_by,mimic,*dress 	perform_with 
+animations/Stand/Gestures/WhatSThis_15	1.636027098		encourage,*are_encouraged_by 	complain_to,are_thanked_by 
+animations/Stand/Gestures/OnTheEvening_1	2.061666965			reject,*are_rejected_by 
+animations/Stand/Gestures/This_1	2.547032118		speak_through,communicate_through,speak_for,talk_through,communicate_via 	propose_to,*are_named_by 
+animations/Stand/Gestures/CountTwo_1	2.610907078		train_with	farm_for,pick_up  
+animations/Stand/Gestures/Hey_7	3.572549105	reach_out_to,heckle,*are_heckled_by 	silence,*are_silenced_by 	
+animations/Stand/Gestures/Coaxing_1	3.590945005	owe,*are_owed_by,kidnap,*are_kidnapped_by,abduct ,*are_abducted_by 	catch,*are_caught_by,snatch,are_snatched_by	
+animations/Stand/Gestures/Give_3	2.115581036		*free,are_freed_by,*release,are_released_by	reject,*are_rejected_by 
+animations/Stand/Gestures/This_9	2.596640825		let_go_of 	dump,are_dumped_by 
+animations/Stand/Gestures/CountOne_1	1.70738101		agree_with 	fight_for 
+animations/Stand/Gestures/Desperate_2	1.784626007		are_disappointed_by,*disappoint,lose_faith_in 	let_go_of 
+animations/Stand/Gestures/CountFive_1	3.979106188	*are_lectured_by,lecture_to,teach,*are_taught_by,instruct,*are_instructed_by	coach,*are_coached_by,mentor,*are_mentored_by,*are_tutored_by,educate,*are_educated_by,*study_under,evaluate,evaluate_with,*are_evaluated_by	
+animations/Stand/Gestures/Far_2	2.887409925		*are_introduced_by,pitch_at 	advocate_for 
+animations/Stand/Gestures/Explain_9	2.910163164	counsel,advise,*are_advised_by,*are_counseled_by,*are_counselled_by 	advocate_for 	
+animations/Stand/Gestures/Me_2	1.901625156	identify_with,represent,*are_represented_by 	trust,*are_trusted_by 	
+animations/Stand/Gestures/Please_1	3.245223999	confess_to,beg_forgiveness_from,*are_begged_by,seek_forgiveness_from		
+animations/Stand/Gestures/No_5	2.950011015			disagree_with,confer_with,*are_contradicted_by,operate_on 
+animations/Stand/Gestures/Caress_2	3.183699131	send 	massage,deliver_for,cast_out 	
+animations/Stand/Gestures/Stretch_1	6.21431613		entertain,*are_entertained_by 	lead_astray 
+animations/Stand/Gestures/Claw_2	#N/A	*are_scripted_by,massage 	write_about,translate_for,*are_published_by,write_to,write_for 	compose_with 
+animations/Stand/Gestures/ShowSky_2	#N/A		sacrifice_to 	appeal_to,send 
+animations/Stand/Gestures/Desperate_4	1.799706936		are_disappointed_by,*disappoint,lose_faith_in,are_bored_by,are_bored_with 	are_unimpressed_by,are_unimpressed_with,*fail_to_impress 
+animations/Stand/Gestures/YouKnowWhat_1	2.821493864		are_impressed_by,*impress,	guard,*are_guarded_by,defend,*are_defended_by,protect,*are_protected_by,are_shielded_by 
+animations/Stand/Gestures/Take_1	#N/A		steal_from,rob,*are_robbed_by,topple,*are_toppled_by,subdue,*are_subdued_by 	
+animations/Stand/Gestures/Explain_10	2.168097973			unleash,cede_power_to 
+animations/Stand/Gestures/Thinking_3 	#N/A		ignore,*are_ignored_by,despise,*are_despised_by 	are_bored_by,are_bored_with 
+animations/Stand/Gestures/Hide_1	3.384362936		deceive,are_deceived_by,tune_out,ignore,*are_ignored_by 	mystify,*are_mystified_by 
+animations/Stand/Gestures/This_15	2.153643131			interact_with,lend_to
+animations/Stand/Gestures/Wings_3	3.215279102		compose_with 	perform_with,perform_for 
+animations/Stand/Gestures/Thinking_2	#N/A	look_for 	seek,*are_sought_by,search_for 	*are_tracked_by 
+animations/Stand/Gestures/Explain_3	3.181647062	debate,*are_debated_by,argue_with,debate_with 	disagree_with 	
+animations/Stand/Gestures/No_1	2.575654984	disagree_with	rebuff,*are_rebuffed_by,dismiss,*are_dismissed_by,disqualify,*are_disqualified_by,reject,*are_rejected_by,dislike  	silence,*are_silenced_by,*are_cut_off_by 
+animations/Stand/Gestures/Explain_6    	1.381006956			carry_for,debate,*are_debated_by,argue_with,debate_with 
+animations/Stand/Gestures/Caress_1	4.751456976	pamper 	tend,*are_tended_by ,care_for,*are_cared_for_by	massage 
+animations/Stand/Gestures/OnTheEvening_4	2.778476		silence,are_silenced_by,*are_cut_off_by 	
+animations/Stand/Gestures/OnTheEvening_2 	2.848512888	spread_lies_about 	cede_power_to,appease 	
+animations/Stand/Gestures/Hey_1   	4.585111856	welcome,*are_welcomed_by,*are_greeted_by 		
+animations/Stand/Gestures/Wings_2	3.166661024		appease 	silence,*are_silenced_by
+animations/Stand/Gestures/CalmDown_2	2.044029951		disagree_with,appease,	silence,*are_silenced_by,*are_cut_off_by 
+animations/Stand/Gestures/IDontKnow_5	2.308527946		break_with 	*are_uncovered_by,teach,*are_taught_by
+animations/Stand/Gestures/This_12	1.853384972			*are_introduced_by,advise,*are_advised_by 
+animations/Stand/Gestures/Wings_5	1.668817997		appease,heckle,*are_heckled_by	silence,*are_silenced_by
+animations/Stand/Gestures/This_4	1.973330975		counsel,advise,*are_advised_by,*are_counseled_by,*are_counselled_by,argue_with,debate_with,*are_debated_by,debate 	disagree_with
+animations/Stand/Gestures/This_2	3.072375059		are_toppled_by,topple	overthrow,*are_overthrown_by
+animations/Stand/Gestures/You_5	2.906728029	lead,*are_led_by,guide,*are_guided_by,send 	command,*are_commanded_by 	
+animations/Stand/Gestures/ShowFloor_2  	2.917550087		appease 	*are_rebuked_by 
+animations/Stand/Gestures/This_5	1.753200054		*are_rebuked_by	appoint,*are_appointed_by 
+animations/Stand/Gestures/CalmDown_5	2.821330071	appease 	silence,*are_silenced_by	
+animations/Stand/Gestures/Reject_1	2.334619999		dump,*are_dumped_by,reject,*are_rejected_by 	dismiss,*are_dismissed_by 
+animations/Stand/Gestures/ShowSky_7	#N/A		raise,are_raised_by,nurture,are_nurtured_by,build_for 	interpret_for,create_for,enhance 
+animations/Stand/Gestures/Confused_1	1.800595045		are_impressed_by,*impress,*release,are_released_by,are_freed_by,*free	
+animations/Stand/Gestures/IDontKnow_2	2.972368002			*fail_to_impress,are_unimpressed_with,are_unimpressed_by 
+animations/Stand/Gestures/Shy_1	3.05638504		sing_with,are_intimidated_by,*intimidate,are_threatened_by,*threaten	breastfeed 
+animations/Stand/Gestures/WhatSThis_4	1.701910019		let_go_of 	cede_power_to,leave_behind 
+animations/Stand/Gestures/Mime_2	2.251814842		spread_lies_about,imitate,*are_imitated_by,mimic	impersonate,*are_impersonated_by 
+animations/Stand/Gestures/OnTheEvening_5 	2.159255981		appease 	silence,*are_silenced_by
+animations/Stand/Gestures/WhatSThis_3	2.42200613		deliver_for,deliver_to	operate_on,build_for 
+animations/Stand/Gestures/This_13	1.530797958		rebuff,*are_rebuffed_by,dismiss,*are_dismissed_by 	
+animations/Stand/Gestures/Enthusiastic_5	1.116617918	deliver_for,deliver_to 	run_away_from,are_energized_by 	
+animations/Stand/Gestures/Hey_5	3.577232838	welcome,*are_welcomed_by,*are_greeted_by         	are_introduced_by 	
+animations/Stand/Gestures/Yes_3	1.241127014		agree_with	*are_appreciated_by 
+animations/Stand/Gestures/CalmDown_4	2.710297108	appease,settle_with 	silence,*are_silenced_by,spread_lies_about 	
+animations/Stand/Gestures/CatchFly_1	2.572758913	snatch,*are_snatched_by,catch,*are_caught_by,capture,*are_captured_by		reach_out_to 
+animations/Stand/Gestures/WhatSThis_2	1.948341846		deliver_for,deliver_to,sacrifice_to,supply_to,lend_to	share_stories_with,sell_to,cater_to 
+animations/Stand/Gestures/Angry_2	2.515398979	mate_with,sleep_with 		
+animations/Stand/Gestures/CountFour_2  	4.337553024	instruct,*are_instructed_by 	command,are_commanded_by ,compose_with 	
+animations/Stand/Gestures/YouKnowWhat_5	2.78186202		disagree_with,preach_to 	
+animations/Stand/Gestures/Explain_1	2.082682133		appeal_to 	negotiate_with,negotiate_for,advise,*are_advised_by  
+animations/Stand/Gestures/No_3	2.502971888	disagree_with,*are_contradicted_by 	are_cut_off_by,break_with,let_go_of,*lose_favor_with,rebuff,*are_rebuffed_by,dismiss,*are_dismissed_by 	
+animations/Stand/Gestures/This_3	1.949701071		order_from	vote_for,appeal_to 
+animations/Stand/Gestures/Hey_6	3.051981211		inspire,*are_inspired_by,disillusion,*are_disillusioned_by 	
+animations/Stand/Gestures/Give_1	2.488099813	deliver_to,deliver_for	carry_for,leak_to,sell_to,release,*are_released_by,free,*are_freed_by,cast_off 	*are_rewarded_with,send,*are_expelled_by 
+animations/Stand/Gestures/Joy_1	3.522591114	release,*are_released_by,free,*are_freed_by,cast_off,welcome,*are_welcomed_by 	deliver_to,deliver_for,leak_to,sell_to	
+animations/Stand/Gestures/ShowFloor_3	3.383652925			handle,*are_handled_by,deal_with
+animations/Stand/Gestures/CalmDown_1	2.894753933	appease,settle_with 	silence,*are_silenced_by	
+animations/Stand/Gestures/Follow_1   	4.388972998	write_about,write_for,write_to 	build_for 	
+animations/Stand/Gestures/Explain_7	1.944380999		appeal_to 	negotiate_with,negotiate_for,advise,*are_advised_by  
+animations/Stand/Gestures/Hey_2	5.254935026	welcome,*are_welcomed_by,*are_greeted_by         	are_introduced_by 	
+animations/Stand/Gestures/Me_6	3.833732128	identify_with,represent,*are_represented_by 	owe,*are_owed_by,impersonate,*are_impersonated_by 	trust,*are_trusted_by 
+animations/Stand/Gestures/You_1	2.143141031	select,*are_selected_by,pick,*are_picked_by,*are_chosen_by 	appoint,are_appointed_by,lead,*are_led_by,guide,*are_guided_by 	take_aim_at,target,*are_targeted_by 
+animations/Stand/Gestures/Excited_1	#N/A		negotiate_with,negotiate_for 	spread_lies_about,cheat,*are_cheated_by,cheat_on,cheat_with 
+animations/Stand/Gestures/ShowSky_9	1.215490103		look_up_to,praise 	pray_for,worship_with,worship,are_worshipped_by,pray_to,pray_with
+animations/Stand/Gestures/JointHands_2	2.022706032		*are_retained_by 	beg_forgiveness_from,*are_begged_by,seek_forgiveness_from,encourage,are_encouraged_by 
+animations/Stand/Gestures/ShowSky_5	#N/A	lead,are_led_by,guide,are_guided_by 	conquer,*are_conquered_by,command,*are_commanded_by	
+animations/Stand/Gestures/CountMore_1    	2.666105032		welcome,*are_welcomed_by,*are_appreciated_by 	
+animations/Stand/Gestures/Give_2	3.444699049		lend_to,*borrow_from 	answer_to,answer,*are_answered_by
+animations/Stand/Gestures/WhatSThis_11	1.736746073		argue_with,debate_with,*are_debated_by,debate,ask_questions_for,*answer_questions_from	propose_to 
+animations/Stand/Gestures/Choice_1	1.708668947	negotiate_with,negotiate_for,confer_with	evaluate,*are_evaluated_by,evaluate_with	
+animations/Stand/Gestures/Thinking_4	#N/A			challenge,*are_challenged_by 
+animations/Stand/Gestures/You_2	2.556559801	select,*are_selected_by,pick,are_picked_by,*are_chosen_by 	appoint,are_appointed_by,lead,*are_led_by,guide,*are_guided_by 	take_aim_at,target,*are_targeted_by 
+animations/Stand/Gestures/Everything_6	2.463544846	appease,settle_with 	are_silenced_by,silence	dismiss,*are_dismissed_by 
+animations/Stand/Gestures/Enthusiastic_2	2.046926975		agree_with 	argue_with,debate_with,debate_with,debate 
+animations/Stand/Gestures/WhatSThis_5	2.517814875		fail_to_deliver_for,let_go_of 	
+animations/Stand/Gestures/Enthusiastic_4	2.976154804			sing_with,catch,*are_caught_by,capture,*are_captured_by,snatch,*are_snatched_by,love,*are_loved_by 
+animations/Stand/Gestures/Salute_1       	6.108914137	are_ennobled_by,show_loyalty_to,bow_down_to 	welcome,*are_welcomed_by,*promote,are_promoted_by 	
+animations/Stand/Gestures/HeSays_2	2.030773163		translate_for 	talk_through 
+animations/Stand/Gestures/WhatSThis_7	2.572973967		are_disappointed_by,*disappoint	
+animations/Stand/Gestures/No_9	3.01396203	disagree_with,are_contradicted_by 	rebuff,are_rebuffed_by,dismiss,*are_dismissed_by,*are_rebuked_by 	refuse_to_pay,*are_refused_payment_by,withold_payment_from,withhold_payment_from 
+animations/Stand/Gestures/Freeze_1	3.062237978	are_haunted_by,*haunt 	*starve 	
+animations/Stand/Gestures/Reject_3	2.619718075	reject,*are_rejected_by 	leave_behind 	renounce 
+animations/Stand/Gestures/Reject_4	2.004567862	rebuff,*are_rebuffed_by,dump,*are_dumped_by,*are_expelled_by,cast_out 	reject,*are_rejected_by 	
+animations/Stand/Gestures/WhatSThis_9	2.632377148		are_disappointed_by,*disappoint	
+animations/Stand/Gestures/Give_6	2.665616989		pitch_at,sell_to,deliver_to 	
+animations/Stand/Gestures/This_8	1.330858946		argue_before,argue_with,debate_with,debate,are_debated_by	
+animations/Stand/Gestures/WhatSThis_1   	3.563036203		are_disappointed_by,*disappoint,let_go_of,respect,are_respected_by,*are_introduced_by 	feel_sorry_for 
+animations/Stand/Gestures/CalmDown_3	2.314500093	appease,settle_with 	are_silenced_by,silence	
+animations/Stand/Gestures/Give_5	3.186055899	lend_to,deliver_to,deliver_for,lease_to,*lease_from,rent_to,*rent_from	*borrow_from,leak_to 	inherit_from,descend_from,confess_to 
+animations/Stand/Gestures/Stretch_2	7.50572896		are_roused_by,*rouse,are_impressed_by,*impress	
+animations/Stand/Gestures/ShowSky_4	3.391040087		impress,propagandize_for,campaign_for,praise 	*are_blessed_by 
+animations/Stand/Gestures/Nothing_1	2.60864687		break_up_with,divorce,*are_divorced_by 	defeat,*are_defeated_by,lose_to,silence,*are_silenced_by 
+animations/Stand/Gestures/Explain_2	2.366450071			negotiate_with,negotiate_for,advise,*are_advised_by,argue_with 
+animations/Stand/Gestures/CountThree_1	3.359297991	argue_with,negotiate_with,negotiate_for,confer_with	debate,*are_debated_by,debate_with,convert,*are_converted_by,translate_for,inherit_from 	
+animations/Stand/Gestures/WhatSThis_12	2.650218964		are_unimpressed_by,are_unimpressed_with,*fail_to_impress 	
+animations/Stand/Gestures/Look_1	#N/A		fear,*are_feared_by,look_for	
+animations/Stand/Gestures/CountFour_1    	4.299021006	argue_with,negotiate_with,negotiate_for,confer_with	debate,*are_debated_by,debate_with,convert,*are_converted_by,translate_for,lecture_to,*are_lectured_by,teach,*are_taught_by,educate,*are_educated_by,instruct,*are_instructed_by	rank 
+animations/Stand/Gestures/HeSays_1	2.089204073			argue_with,debate,*are_debated_by,debate_with,consult,consult_with
+animations/Stand/Gestures/Me_5	3.632987022	owe,*are_owed_by 	represent,*are_represented_by 	catch,*are_caught_by,capture,*are_captured_by 
+animations/Stand/Gestures/BowShort_1	4.447517157	bow_down_to 	show_loyalty_to 	respect,*are_respected_by 
+animations/Stand/Gestures/You_3	2.668388844	accuse,*are_accused_by 	*are_judged_by,select,*are_selected_by,pick,*are_picked_by,*are_chosen_by  	
+animations/Stand/Gestures/CountFive_2	4.007743835	*are_lectured_by,lecture_to,teach,*are_taught_by,instruct,*are_instructed_by	coach,*are_coached_by,mentor,*are_mentored_by,*are_tutored_by,educate,*are_educated_by,*study_under,evaluate,evaluate_with,*are_evaluated_by	
+animations/Stand/Gestures/CountMore_2	2.706836939	release,*are_released_by,free,*are_freed_by	welcome,*are_welcomed_by 	spread_lies_about 
+animations/Stand/Gestures/This_14	1.768827915		propose_to 	argue_before,argue_with 
+animations/Stand/Gestures/Choice_2	1.794613123		propose_to 	argue_before,argue_with 
+animations/Stand/Gestures/Nothing_2	2.715588093	destroy 	silence,*are_silenced_by	disagree_with,confer_with,are_contradicted_by,dismiss,*are_dismissed_by 
+animations/Stand/Gestures/Applause_1    	4.347826958		popularize,*are_popularized_by,are_entertained_by,*entertain  	are_overwhelmed_by,are_thanked_by 
+animations/Stand/Gestures/Me_4	2.083295822	owe,*are_owed_by 	represent,*are_represented_by 	catch,*are_caught_by,capture,*are_captured_by 
+animations/Stand/Gestures/Please_2	3.14229393		fear,are_feared_by,beg_forgiveness_from,*are_begged_by,seek_forgiveness_from,hide_from 	mourn_for 
+animations/Stand/Gestures/You_4	2.984133959		accuse,*are_accused_by,select,*are_selected_by,pick,*are_picked_by,*are_chosen_by  	
+animations/Stand/Gestures/No_7	2.100419044			disagree_with,release,*are_released_by,let_go_of 
+animations/Stand/Gestures/Thinking_1	#N/A		agree_with,are_marketed_by 	persuade,*are_persuaded_by 
+animations/Stand/Gestures/Everything_1	3.613157988	overshadow,*are_overshadowed_by,destroy 	are_pushed_too_far_by,dismiss,*are_dismissed_by,silence,*are_silenced_by,break_up_with,are_refused_payment_by,refuse_to_pay 	execute,settle_with,defeat,are_defeated_by,lose_to 
+animations/Stand/Gestures/HeSays_3	2.056154013			debate,*are_debated_by,debate_with,lecture_to,*are_lectured_by,teach,*are_taught_by,educate,*are_educated_by,instruct,*are_instructed_by
+animations/Stand/Gestures/WhatSThis_8	1.652343988			are_disappointed_by,argue_with,debate_with,*are_debated_by,debate
+animations/Stand/Gestures/YouKnowWhat_2 	2.746107101		stand_up_to,resist,*are_resisted_by,guard,*are_guarded_by,defend,*are_defended_by,protect,*are_protected_by,*are_shielded_by 	despise,*are_despised_by 
+animations/Stand/Gestures/ShowSky_6	#N/A	command,*are_commanded_by,lead,*are_led_by,guide,*are_guided_by 	*are_expelled_by,cast_out 	
+animations/Stand/Gestures/Confused_2	2.765007019		seek_advice_from 	beg_forgiveness_from,are_begged_by,seek_forgiveness_from  
+animations/Stand/Gestures/No_4	2.308509827	*are_rebuked_by	denounce,*are_denounced_by,sue,*are_sued_by,countersue,threaten,*are_threatened_by,threaten_with	condescend_to 
+animations/Stand/Gestures/This_10	2.860975981			let_go_of,sacrifice_to,delegate_to,deliver_for 
+animations/Stand/Gestures/YouKnowWhat_3	3.958626986		disagree_with,pander_to 	*are_rebuked_by 
+animations/Stand/Gestures/No_8	1.906965971	disagree_with,dislike 	*are_contradicted_by 	are_disappointed_by,*disappoint,lose_faith_in 
+animations/Stand/Gestures/WhatSThis_10	2.263547182			are_disappointed_by,argue_with,debate_with,*are_debated_by,debate
+animations/Stand/Gestures/ShowFloor_5	1.637301922		let_go_of,release,*are_released_by,free,*are_freed_by	
+animations/Stand/Gestures/Claw_1	#N/A	appease,settle_with 	*are_silenced_by,silence	
+animations/Stand/Gestures/Everything_5	2.672108889		settle_with	overcome,are_overrun_by 
+animations/Stand/Gestures/No_6                	2.280722141	are_disappointed_by,*disappoint,lose_faith_in 	*fail_to_impress,*lose_favor_with,disagree_with,despise,*are_despised_by,dislike 	
+animations/Stand/Gestures/ShowSky_11	2.786406994		look_up_to,promote,*are_promoted_by,praise,pray_to,preach_to,worship,*are_worshipped_by 	
+animations/Stand/Gestures/CountOne_2	1.811995029			cede_power_to,repay,*are_repaid_by 
+animations/Stand/Gestures/WhatSThis_13	1.641541004		are_unimpressed_by,are_unimpressed_with 	are_shocked_by,are_disillusioned_by,*disillusion 
+animations/Stand/Gestures/JointHands_1	2.17541194	create_for 	conspire_with,collude_with	pray_to,pray_with,preach_to,pray_for
+animations/Stand/Gestures/OnTheEvening_3	3.027607918		appease 	silence,*are_silenced_by
+animations/Stand/Gestures/ComeOn_1	#N/A	entice,*are_enticed_by,woo,*are_wooed_by 	dominate,*are_dominated_by 	
+animations/Stand/Gestures/Great_1	2.765898943		steal_from,rob,*are_robbed_by,snatch,*are_snatched_by 	agree_with,are_appreciated_by 
+animations/Stand/Gestures/ShowSky_1	1.23368907		look_up_to,praise,pray_to,preach_to,worship,*are_worshipped_by 	promote,*are_promoted_by
+animations/Stand/Gestures/Coaxing_2	2.622501135		catch,*are_caught_by	capture,*are_captured_by 
+animations/Stand/Gestures/WhatSThis_16 	2.655307055			are_unimpressed_by,are_unimpressed_with,fail_to_reward,reject,*are_rejected_by,unleash 
+animations/Stand/Gestures/Reject_2	2.246280193		oppress,*are_oppressed_by,suppress,*are_suppressed_by 	reject,*are_rejected_by,subjugate,*are_subjugated_by 
+animations/Stand/Gestures/This_11	2.455739021			guide,*are_guided_by,lead,*are_led_by,argue_with,debate_with 
+animations/Stand/Gestures/CountTwo_2	2.623230934		*are_lectured_by,lecture_to,coach,*are_coached_by,teach,*are_taught_by,mentor,*are_mentored_by,*are_tutored_by,educate,*are_educated_by,instruct,*are_instructed_by,*study_under,evaluate,evaluate_with,*are_evaluated_by	negotiate_with,negotiate_for 
+animations/Stand/Gestures/Explain_5 	2.979443073		argue_with,debate_with	agree_with 
+animations/Stand/Gestures/Reject_6    	2.287753105	reject,*are_rejected_by,dismiss,are_dismissed_by 	let_go_of,dump,*are_dumped_by 	
+animations/Stand/Gestures/YouKnowWhat_4	2.359077215		wait_on,*are_waited_upon_by 	are_unimpressed_by,are_unimpressed_with 
+animations/Stand/Gestures/IDontKnow_4	2.340084076		are_disappointed_by,*disappoint,disagree_with,abandon,*are_abandoned_by	
+animations/Stand/Gestures/Everything_2	2.350804091		appease	*are_silenced_by,silence
+animations/Stand/Gestures/Everything_3 	3.419906139		break_up_with,divorce,*are_divorced_by,blow_up 	are_uncovered_by 
+animations/Stand/Gestures/IDontKnow_3	1.788256884			are_bored_with,are_bored_by,are_unimpressed_by,are_unimpressed_with,*fail_to_impress 
+animations/Stand/Gestures/IDontKnow_1	3.215595961	fail_to_deliver_for,fail_to_reward 	*fail_to_impress,*are_failed_by  	
+animations/Stand/Gestures/CountThree_2	3.31188488		*are_lectured_by,lecture_to,coach,*are_coached_by,teach,*are_taught_by,mentor,*are_mentored_by,*are_tutored_by,educate,*are_educated_by,instruct,*are_instructed_by,*study_under,evaluate,evaluate_with,*are_evaluated_by,inherit_from,descend_from 	
+animations/Stand/Gestures/Me_3    	1.763317108	are_named_by 	are_introduced_by 	
+animations/Stand/Gestures/Desperate_5	3.380501986	are_disappointed_by,*disappoint,lose_faith_in 	despise,*are_despised_by,dislike 	
+animations/Stand/Gestures/Look_2	#N/A		spy_on,fear,*are_feared_by,hide_from 	obey,*are_obeyed_by,conspire_with,collude_with
+animations/Stand/Gestures/ShowSky_10	3.140946865		look_up_to,praise,pray_for,worship_with,worship,are_worshipped_by,pray_to,pray_with	
+animations/Stand/Gestures/Salute_2	3.73095417	show_loyalty_to,are_ennobled_by 	bow_down_to ,welcome,*are_welcomed_by 	
+animations/Stand/Gestures/Desperate_1	2.544054031	are_disappointed_by,*disappoint,lose_faith_in 	despise,*are_despised_by,dislike 	
+animations/Stand/Gestures/YouKnowWhat_6	2.635972977		*are_lectured_by,lecture_to,coach,*are_coached_by,teach,*are_taught_by,mentor,*are_mentored_by,*are_tutored_by,educate,*are_educated_by,instruct,*are_instructed_by,*study_under,evaluate,evaluate_with,*are_evaluated_by,*are_rebuked_by 	
+animations/Stand/Gestures/Angry_1	1.432957888		hate	dump,are_dumped_by,resist,*are_resisted_by 
+animations/Stand/Gestures/ShowFloor_1	3.420892		let_go_of,release,*are_released_by,free,*are_freed_by	
+animations/Stand/Gestures/Hey_4	3.423553944	welcome,*are_welcomed_by,*are_greeted_by 		are_introduced_by 	
+animations/Stand/Gestures/Desperate_3   	2.61252594	are_disappointed_by,*disappoint,lose_faith_in,despise,*are_despised_by,dislike	*fail_to_impress,*lose_favor_with,disagree_with 	

@@ -1,0 +1,619 @@
+action	A (strong, medium, weak)	A (strong, medium, weak)
+stand_up_to	animations/Stand/BodyTalk/Listening/Listening_2	animations/Stand/BodyTalk/Listening/Listening_2
+are_energized_by	animations/Stand/BodyTalk/Listening/Listening_2, animations/Stand/Emotions/Positive/Enthusiastic_1, animations/Stand/Emotions/Positive/Proud_2, animations/Stand/Emotions/Positive/Proud_1	animations/Stand/BodyTalk/Listening/Listening_2, animations/Stand/Emotions/Positive/Enthusiastic_1, animations/Stand/Emotions/Positive/Proud_2, animations/Stand/Emotions/Positive/Proud_1
+guard	animations/Stand/BodyTalk/Listening/Listening_2, animations/Stand/Gestures/YouKnowWhat_1	animations/Stand/BodyTalk/Listening/Listening_2, animations/Stand/Gestures/YouKnowWhat_1
+defend	animations/Stand/BodyTalk/Listening/Listening_2, animations/Stand/Gestures/YouKnowWhat_1	animations/Stand/BodyTalk/Listening/Listening_2, animations/Stand/Gestures/YouKnowWhat_1
+protect	animations/Stand/BodyTalk/Listening/Listening_2, animations/Stand/Gestures/YouKnowWhat_1	animations/Stand/BodyTalk/Listening/Listening_2, animations/Stand/Gestures/YouKnowWhat_1
+overshadow	animations/Stand/BodyTalk/Listening/Listening_2	animations/Stand/BodyTalk/Listening/Listening_2
+debate	animations/Stand/BodyTalk/Listening/Listening_2, animations/Stand/Gestures/WhatSThis_8	animations/Stand/BodyTalk/Listening/Listening_2, animations/Stand/Gestures/WhatSThis_8
+debate_with	animations/Stand/BodyTalk/Listening/Listening_2, animations/Stand/Gestures/WhatSThis_8, animations/Stand/Gestures/This_11	animations/Stand/BodyTalk/Listening/Listening_2, animations/Stand/Gestures/WhatSThis_8, animations/Stand/Gestures/This_11
+argue_with	animations/Stand/BodyTalk/Listening/Listening_2, animations/Stand/Gestures/WhatSThis_8, animations/Stand/Gestures/This_11	animations/Stand/BodyTalk/Listening/Listening_2, animations/Stand/Gestures/WhatSThis_8, animations/Stand/Gestures/This_11
+are_guarded_by		
+are_defended_by		
+are_protected_by		
+are_shielded_by	animations/Stand/Gestures/YouKnowWhat_1	animations/Stand/Gestures/YouKnowWhat_1
+are_overshadowed_by		
+are_debated_by		
+condescend_to	iconic_actions-4373e0/condescend	iconic_actions-4373e0/condescend
+condescend	iconic_actions-4373e0/condescend	iconic_actions-4373e0/condescend
+model_for	animations/Stand/BodyTalk/Listening/ListeningLeft_1, animations/Stand/BodyTalk/Listening/ListeningRight_1, animations/Stand/Emotions/Positive/Proud_2, animations/Stand/Emotions/Positive/Proud_1, animations/Stand/Waiting/ShowMuscles_3, animations/Stand/Gestures/Thinking_5	animations/Stand/BodyTalk/Listening/ListeningLeft_1, animations/Stand/BodyTalk/Listening/ListeningRight_1, animations/Stand/Emotions/Positive/Proud_2, animations/Stand/Emotions/Positive/Proud_1, animations/Stand/Waiting/ShowMuscles_3, animations/Stand/Gestures/Thinking_5
+pose_for	animations/Stand/BodyTalk/Listening/ListeningLeft_1, animations/Stand/BodyTalk/Listening/ListeningRight_1, animations/Stand/Emotions/Positive/Proud_2, animations/Stand/Emotions/Positive/Proud_1, animations/Stand/Waiting/ShowMuscles_3, animations/Stand/Gestures/Thinking_5	animations/Stand/BodyTalk/Listening/ListeningLeft_1, animations/Stand/BodyTalk/Listening/ListeningRight_1, animations/Stand/Emotions/Positive/Proud_2, animations/Stand/Emotions/Positive/Proud_1, animations/Stand/Waiting/ShowMuscles_3, animations/Stand/Gestures/Thinking_5
+resist	animations/Stand/BodyTalk/Listening/ListeningLeft_1, animations/Stand/BodyTalk/Listening/ListeningRight_1	animations/Stand/BodyTalk/Listening/ListeningLeft_1, animations/Stand/BodyTalk/Listening/ListeningRight_1
+are_resisted_by		
+surrender_to	animations/Stand/BodyTalk/Listening/ListeningRight_3, animations/Stand/BodyTalk/Listening/ListeningLeft_3, animations/Stand/BodyTalk/Speaking/BodyTalk_17, animations/Stand/Reactions/SeeSomething_4	animations/Stand/BodyTalk/Listening/ListeningRight_3, animations/Stand/BodyTalk/Listening/ListeningLeft_3, animations/Stand/BodyTalk/Speaking/BodyTalk_17, animations/Stand/Reactions/SeeSomething_4
+confess_to	animations/Stand/BodyTalk/Listening/ListeningRight_3, animations/Stand/BodyTalk/Listening/ListeningLeft_3, animations/Stand/Reactions/BumperRight_1, animations/Stand/Reactions/EthernetOff_1, animations/Stand/Reactions/SeeSomething_6, animations/Stand/Reactions/BumperLeft_1, animations/Stand/Reactions/Bumpers_1, animations/Stand/Reactions/Bumpers_3, animations/Stand/Reactions/Bumpers_2, animations/Stand/Waiting/Innocent_1	animations/Stand/BodyTalk/Listening/ListeningRight_3, animations/Stand/BodyTalk/Listening/ListeningLeft_3, animations/Stand/Reactions/BumperRight_1, animations/Stand/Reactions/EthernetOff_1, animations/Stand/Reactions/SeeSomething_6, animations/Stand/Reactions/BumperLeft_1, animations/Stand/Reactions/Bumpers_1, animations/Stand/Reactions/Bumpers_3, animations/Stand/Reactions/Bumpers_2, animations/Stand/Waiting/Innocent_1
+pick		
+select		
+are_picked_by		
+are_selected_by		
+condemn		
+remember		
+recall		
+deliver_for	animations/Stand/Gestures/This_10	animations/Stand/Gestures/This_10
+deliver_to	animations/Stand/BodyTalk/Speaking/BodyTalk_20	animations/Stand/BodyTalk/Speaking/BodyTalk_20
+send		
+build_for		
+pick_up		
+carry_for	animations/Stand/BodyTalk/Speaking/BodyTalk_20	animations/Stand/BodyTalk/Speaking/BodyTalk_20
+dispatch		
+are_dispatched_by		
+steal_from	animations/Stand/Gestures/Me_8, animations/Stand/Gestures/Great_1	animations/Stand/Gestures/Me_8, animations/Stand/Gestures/Great_1
+rob	animations/Stand/Gestures/Me_8, animations/Stand/Gestures/Great_1	animations/Stand/Gestures/Me_8, animations/Stand/Gestures/Great_1
+are_robbed_by		
+reach_out_to		
+sell_to		
+buy_from		
+sell_through		
+sell_via		
+resemble	animations/Stand/BodyTalk/Speaking/BodyTalk_17	animations/Stand/BodyTalk/Speaking/BodyTalk_17
+are_defeated_by	animations/Stand/BodyTalk/Speaking/BodyTalk_17, animations/Stand/Reactions/Heat_2, animations/Stand/Reactions/Heat_1	animations/Stand/BodyTalk/Speaking/BodyTalk_17, animations/Stand/Reactions/Heat_2, animations/Stand/Reactions/Heat_1
+defeat		
+lose_to	animations/Stand/BodyTalk/Speaking/BodyTalk_17, animations/Stand/Reactions/Heat_2, animations/Stand/Reactions/Heat_1	animations/Stand/BodyTalk/Speaking/BodyTalk_17, animations/Stand/Reactions/Heat_2, animations/Stand/Reactions/Heat_1
+are_released_by	animations/Stand/BodyTalk/Speaking/BodyTalk_17, animations/Stand/Waiting/HideHands_1, animations/Stand/Gestures/Confused_1	animations/Stand/BodyTalk/Speaking/BodyTalk_17, animations/Stand/Waiting/HideHands_1, animations/Stand/Gestures/Confused_1
+release	animations/Stand/Gestures/ShowFloor_5, animations/Stand/Gestures/ShowFloor_1	animations/Stand/Gestures/ShowFloor_5, animations/Stand/Gestures/ShowFloor_1
+break_free_of	animations/Stand/BodyTalk/Speaking/BodyTalk_17, animations/Stand/Waiting/HideHands_1	animations/Stand/BodyTalk/Speaking/BodyTalk_17, animations/Stand/Waiting/HideHands_1
+free	animations/Stand/Gestures/ShowFloor_5, animations/Stand/Gestures/ShowFloor_1	animations/Stand/Gestures/ShowFloor_5, animations/Stand/Gestures/ShowFloor_1
+are_freed_by	animations/Stand/BodyTalk/Speaking/BodyTalk_17, animations/Stand/Waiting/HideHands_1, animations/Stand/Gestures/Confused_1	animations/Stand/BodyTalk/Speaking/BodyTalk_17, animations/Stand/Waiting/HideHands_1, animations/Stand/Gestures/Confused_1
+cast_off		
+vote_for		
+lose_control_over		
+refuse_to_pay		
+are_refused_payment_by		
+withold_payment_from		
+withhold_payment_from		
+beautify		
+enhance		
+admire		
+are_admired_by		
+charm		
+are_charmed_by		
+sing_with		
+are_judged_by		
+talk_through	animations/Stand/Gestures/HeSays_2	animations/Stand/Gestures/HeSays_2
+act_via		
+praise		
+create_for		
+silence	animations/Stand/Emotions/Positive/Peaceful_1, animations/Stand/Gestures/Everything_6, animations/Stand/Gestures/Everything_2	animations/Stand/Emotions/Positive/Peaceful_1, animations/Stand/Gestures/Everything_6, animations/Stand/Gestures/Everything_2
+are_silenced_by	animations/Stand/Emotions/Neutral/Innocent_1, animations/Stand/Emotions/Neutral/Lonely_1, animations/Stand/Gestures/Everything_6	animations/Stand/Emotions/Neutral/Innocent_1, animations/Stand/Emotions/Neutral/Lonely_1, animations/Stand/Gestures/Everything_6
+undermine		
+are_undermined_by		
+appease	animations/Stand/Reactions/SeeSomething_8, animations/Stand/Gestures/Everything_6, animations/Stand/Gestures/Everything_2	animations/Stand/Reactions/SeeSomething_8, animations/Stand/Gestures/Everything_6, animations/Stand/Gestures/Everything_2
+are_disappointed_by	animations/Stand/Reactions/TouchHead_1, animations/Stand/Emotions/Negative/Bored_1, animations/Stand/Emotions/Negative/Sad_2, animations/Stand/Emotions/Negative/Disappointed_1, animations/Stand/Emotions/Negative/Exhausted_1, animations/Stand/Emotions/Neutral/Lonely_1, animations/Stand/Gestures/Desperate_4, animations/Stand/Gestures/WhatSThis_8, animations/Stand/Gestures/No_8, animations/Stand/Gestures/No_6, animations/Stand/Gestures/IDontKnow_4, animations/Stand/Gestures/Desperate_5	animations/Stand/Reactions/TouchHead_1, animations/Stand/Emotions/Negative/Bored_1, animations/Stand/Emotions/Negative/Sad_2, animations/Stand/Emotions/Negative/Disappointed_1, animations/Stand/Emotions/Negative/Exhausted_1, animations/Stand/Emotions/Neutral/Lonely_1, animations/Stand/Gestures/Desperate_4, animations/Stand/Gestures/WhatSThis_8, animations/Stand/Gestures/No_8, animations/Stand/Gestures/No_6, animations/Stand/Gestures/IDontKnow_4, animations/Stand/Gestures/Desperate_5
+disappoint		
+lose_faith_in	animations/Stand/Emotions/Negative/Exhausted_1, animations/Stand/Gestures/Desperate_4, animations/Stand/Gestures/No_8, animations/Stand/Gestures/No_6, animations/Stand/Gestures/Desperate_5	animations/Stand/Emotions/Negative/Exhausted_1, animations/Stand/Gestures/Desperate_4, animations/Stand/Gestures/No_8, animations/Stand/Gestures/No_6, animations/Stand/Gestures/Desperate_5
+are_pushed_too_far_by	animations/Stand/Emotions/Negative/Exhausted_1	animations/Stand/Emotions/Negative/Exhausted_1
+lay_a_trap_for		
+operate_on	animations/Stand/BodyTalk/Speaking/BodyTalk_9, animations/Stand/Waiting/ScratchLeg_1	animations/Stand/BodyTalk/Speaking/BodyTalk_9, animations/Stand/Waiting/ScratchLeg_1
+propose_to		
+marry	animations/Stand/BodyTalk/Speaking/BodyTalk_9	animations/Stand/BodyTalk/Speaking/BodyTalk_9
+consort_with		
+are_snatched_by		
+snatch	animations/Stand/Gestures/Great_1	animations/Stand/Gestures/Great_1
+catch		
+are_caught_by		
+capture		
+are_captured_by		
+export_from		
+borrow_from	animations/Stand/Gestures/Me_8	animations/Stand/Gestures/Me_8
+lend_to	animations/Stand/Gestures/Give_2	animations/Stand/Gestures/Give_2
+deploy		
+are_deployed_by		
+are_fielded_by		
+translate_for	animations/Stand/Gestures/HeSays_2	animations/Stand/Gestures/HeSays_2
+fail_to_deliver_for	animations/Stand/Gestures/WhatSThis_5, animations/Stand/Gestures/IDontKnow_1	animations/Stand/Gestures/WhatSThis_5, animations/Stand/Gestures/IDontKnow_1
+disrespect		
+are_disrespected_by		
+offend		
+are_offended_by		
+insult		
+are_insulted_by		
+mock		
+are_mocked_by		
+unleash	animations/Stand/Gestures/WhatSThis_16	animations/Stand/Gestures/WhatSThis_16
+give_birth_to	animations/Stand/Gestures/Yum_1	animations/Stand/Gestures/Yum_1
+receive	animations/Stand/Gestures/Yum_1	animations/Stand/Gestures/Yum_1
+are_received_by		
+pitch_at		
+cater_to		
+cede_power_to		
+spread_lies_about		
+enlist		
+are_enlisted_by		
+are_lectured_by		
+lecture_to		
+coach		
+are_coached_by		
+teach		
+are_taught_by		
+mentor		
+are_mentored_by		
+are_tutored_by		
+educate		
+are_educated_by		
+instruct		
+are_instructed_by		
+study_under		
+evaluate		
+evaluate_with		
+are_evaluated_by		
+compose_with		
+convert		
+are_converted_by		
+consult		
+consult_with		
+persuade	animations/Stand/Gestures/Thinking_1	animations/Stand/Gestures/Thinking_1
+are_persuaded_by		
+advise	animations/Stand/Gestures/Explain_1	animations/Stand/Gestures/Explain_1
+are_advised_by		
+counsel		
+are_counseled_by		
+are_counselled_by		
+are_probed_by		
+negotiate_with	animations/Stand/Gestures/Explain_1	animations/Stand/Gestures/Explain_1
+negotiate_for	animations/Stand/Gestures/Explain_1	animations/Stand/Gestures/Explain_1
+interpret_for		
+interact_with		
+are_hardened_by		
+harden_toward		
+perform_for		
+perform_with		
+search_for	animations/Stand/Reactions/SeeSomething_5, animations/Stand/Gestures/Thinking_2	animations/Stand/Reactions/SeeSomething_5, animations/Stand/Gestures/Thinking_2
+look_for	animations/Stand/Reactions/SeeSomething_5, animations/Stand/Gestures/Thinking_2	animations/Stand/Reactions/SeeSomething_5, animations/Stand/Gestures/Thinking_2
+are_sought_by		
+seek	animations/Stand/Reactions/SeeSomething_5, animations/Stand/Gestures/Thinking_2	animations/Stand/Reactions/SeeSomething_5, animations/Stand/Gestures/Thinking_2
+are_tracked_by		
+track_down	animations/Stand/Reactions/SeeSomething_5	animations/Stand/Reactions/SeeSomething_5
+hunt	animations/Stand/Reactions/SeeSomething_5	animations/Stand/Reactions/SeeSomething_5
+are_hunted_by		
+fear	animations/Stand/Emotions/Neutral/Innocent_1	animations/Stand/Emotions/Neutral/Innocent_1
+are_feared_by		
+are_disgusted_by	animations/Stand/Reactions/BumperRight_1, animations/Stand/Reactions/SeeSomething_6, animations/Stand/Reactions/BumperLeft_1, animations/Stand/Reactions/Bumpers_1, animations/Stand/Reactions/Bumpers_3, animations/Stand/Reactions/Bumpers_2	animations/Stand/Reactions/BumperRight_1, animations/Stand/Reactions/SeeSomething_6, animations/Stand/Reactions/BumperLeft_1, animations/Stand/Reactions/Bumpers_1, animations/Stand/Reactions/Bumpers_3, animations/Stand/Reactions/Bumpers_2
+disgust		
+are_shocked_by	animations/Stand/Emotions/Negative/Shocked_1, animations/Stand/Gestures/WhatSThis_13	animations/Stand/Emotions/Negative/Shocked_1, animations/Stand/Gestures/WhatSThis_13
+are_haunted_by		
+haunt		
+terrorize		
+are_hurt_by		
+hurt		
+blow_up		
+are_investigated_by		
+examine		
+are_examined_by		
+are_manipulated_by		
+manipulate		
+are_brainwashed_by		
+brainwash		
+abet		
+baptise		
+baptize		
+point		
+are_baptized_by		
+are_influenced_by		
+hit		
+whip		
+are_whipped_by		
+influence		
+indoctrinate		
+are_indoctrinated_by		
+are_traumatized_by	animations/Stand/Reactions/Heat_2, animations/Stand/Reactions/Heat_1	animations/Stand/Reactions/Heat_2, animations/Stand/Reactions/Heat_1
+delegate_to	animations/Stand/Reactions/SeeSomething_8, animations/Stand/Gestures/This_10	animations/Stand/Reactions/SeeSomething_8, animations/Stand/Gestures/This_10
+watch_over	animations/Stand/Reactions/SeeSomething_8	animations/Stand/Reactions/SeeSomething_8
+look_after	animations/Stand/Reactions/SeeSomething_8	animations/Stand/Reactions/SeeSomething_8
+_supervise	animations/Stand/Reactions/SeeSomething_8	animations/Stand/Reactions/SeeSomething_8
+are_supervised_by		
+monitor	animations/Stand/Reactions/SeeSomething_8	animations/Stand/Reactions/SeeSomething_8
+are_monitored_by		
+are_overlooked_by		
+show_loyalty_to	animations/Stand/Reactions/EthernetOff_1, animations/Stand/Gestures/BowShort_1, animations/Stand/Gestures/Salute_2	animations/Stand/Reactions/EthernetOff_1, animations/Stand/Gestures/BowShort_1, animations/Stand/Gestures/Salute_2
+bow_down_to	animations/Stand/Reactions/EthernetOff_1, animations/Stand/Reactions/SeeSomething_4, animations/Stand/Gestures/BowShort_1, animations/Stand/Gestures/Salute_2	animations/Stand/Reactions/EthernetOff_1, animations/Stand/Reactions/SeeSomething_4, animations/Stand/Gestures/BowShort_1, animations/Stand/Gestures/Salute_2
+obey	animations/Stand/Reactions/EthernetOff_1	animations/Stand/Reactions/EthernetOff_1
+are_obeyed_by		
+are_disillusioned_by	animations/Stand/Reactions/EthernetOff_1, animations/Stand/Emotions/Negative/Exhausted_1, animations/Stand/Gestures/WhatSThis_13	animations/Stand/Reactions/EthernetOff_1, animations/Stand/Emotions/Negative/Exhausted_1, animations/Stand/Gestures/WhatSThis_13
+disillusion		
+are_frustrated_by	animations/Stand/Emotions/Negative/Disappointed_1	animations/Stand/Emotions/Negative/Disappointed_1
+are_overwhelmed_by		
+are_embarrassed_by	animations/Stand/Reactions/SeeSomething_7, animations/Stand/Emotions/Negative/Bored_1, animations/Stand/Emotions/Negative/Sad_2, animations/Stand/Emotions/Negative/Disappointed_1, animations/Stand/Emotions/Neutral/Innocent_1, animations/Stand/Emotions/Neutral/Lonely_1, animations/Stand/Emotions/Neutral/Embarrassed_1	animations/Stand/Reactions/SeeSomething_7, animations/Stand/Emotions/Negative/Bored_1, animations/Stand/Emotions/Negative/Sad_2, animations/Stand/Emotions/Negative/Disappointed_1, animations/Stand/Emotions/Neutral/Innocent_1, animations/Stand/Emotions/Neutral/Lonely_1, animations/Stand/Emotions/Neutral/Embarrassed_1
+embarrass		
+are_rebuffed_by	animations/Stand/Reactions/SeeSomething_7	animations/Stand/Reactions/SeeSomething_7
+rebuff		
+are_rebuked_by	animations/Stand/Reactions/SeeSomething_7	animations/Stand/Reactions/SeeSomething_7
+are_enslaved_by	animations/Stand/Reactions/SeeSomething_4, animations/Stand/Waiting/BackRubs_1	animations/Stand/Reactions/SeeSomething_4, animations/Stand/Waiting/BackRubs_1
+enslave		
+are_imprisoned_by	animations/Stand/Reactions/SeeSomething_4	animations/Stand/Reactions/SeeSomething_4
+imprison		
+are_detained_by	animations/Stand/Reactions/SeeSomething_4	animations/Stand/Reactions/SeeSomething_4
+detain		
+take_as_prisoner		
+arrest		
+decapitate		
+murder		
+kill_for		
+kill		
+are_killed_by		
+are_arrested_for_killing	animations/Stand/Reactions/SeeSomething_4	animations/Stand/Reactions/SeeSomething_4
+are_arrested_for_hurting	animations/Stand/Reactions/SeeSomething_4	animations/Stand/Reactions/SeeSomething_4
+are_ennobled_by	animations/Stand/Reactions/SeeSomething_4, animations/Stand/Gestures/Salute_2	animations/Stand/Reactions/SeeSomething_4, animations/Stand/Gestures/Salute_2
+are_evicted_by	animations/Stand/Reactions/SeeSomething_4	animations/Stand/Reactions/SeeSomething_4
+evict		
+are_inspired_by		
+inspire		
+grow_suspicious_of	animations/Stand/Emotions/Neutral/Cautious_1	animations/Stand/Emotions/Neutral/Cautious_1
+are_impressed_by	animations/Stand/Emotions/Negative/Shocked_1, animations/Stand/Emotions/Positive/Ecstatic_1, animations/Stand/Emotions/Neutral/Alienated_1, animations/Stand/Gestures/YouKnowWhat_1, animations/Stand/Gestures/Confused_1	animations/Stand/Emotions/Negative/Shocked_1, animations/Stand/Emotions/Positive/Ecstatic_1, animations/Stand/Emotions/Neutral/Alienated_1, animations/Stand/Gestures/YouKnowWhat_1, animations/Stand/Gestures/Confused_1
+impress		
+are_examined_by		
+disagree_with	animations/Stand/Reactions/TouchHead_1, animations/Stand/Reactions/ShakeBody_1, animations/Stand/Gestures/No_8, animations/Stand/Gestures/No_6, animations/Stand/Gestures/IDontKnow_4	animations/Stand/Reactions/TouchHead_1, animations/Stand/Reactions/ShakeBody_1, animations/Stand/Gestures/No_8, animations/Stand/Gestures/No_6, animations/Stand/Gestures/IDontKnow_4
+are_disqualified_by		
+disqualify	animations/Stand/Reactions/TouchHead_1, animations/Stand/Reactions/ShakeBody_1	animations/Stand/Reactions/TouchHead_1, animations/Stand/Reactions/ShakeBody_1
+are_driven_mad_by		
+alienate		
+are_exploited_by	animations/Stand/Reactions/Heat_2, animations/Stand/Reactions/Heat_1	animations/Stand/Reactions/Heat_2, animations/Stand/Reactions/Heat_1
+exploit		
+are_abused_by	animations/Stand/Reactions/Heat_2, animations/Stand/Reactions/Heat_1	animations/Stand/Reactions/Heat_2, animations/Stand/Reactions/Heat_1
+abuse		
+prey_on		
+coerce		
+are_humiliated_by	animations/Stand/Reactions/Heat_2, animations/Stand/Reactions/Heat_1, animations/Stand/Emotions/Negative/Bored_1, animations/Stand/Emotions/Negative/Exhausted_1	animations/Stand/Reactions/Heat_2, animations/Stand/Reactions/Heat_1, animations/Stand/Emotions/Negative/Bored_1, animations/Stand/Emotions/Negative/Exhausted_1
+humiliate		
+are_denounced_by	animations/Stand/Reactions/Heat_2, animations/Stand/Reactions/Heat_1, animations/Stand/Emotions/Negative/Bored_1, animations/Stand/Emotions/Negative/Exhausted_1	animations/Stand/Reactions/Heat_2, animations/Stand/Reactions/Heat_1, animations/Stand/Emotions/Negative/Bored_1, animations/Stand/Emotions/Negative/Exhausted_1
+denounce		
+are_taunted_by	animations/Stand/Reactions/Heat_2, animations/Stand/Reactions/Heat_1, animations/Stand/Waiting/ShowMuscles_5	animations/Stand/Reactions/Heat_2, animations/Stand/Reactions/Heat_1, animations/Stand/Waiting/ShowMuscles_5
+taunt	animations/Stand/Waiting/ShowMuscles_5	animations/Stand/Waiting/ShowMuscles_5
+laugh_at		
+are_overrun_by	animations/Stand/Reactions/Heat_2, animations/Stand/Reactions/Heat_1	animations/Stand/Reactions/Heat_2, animations/Stand/Reactions/Heat_1
+mourn_for		
+are_contradicted_by		
+dislike	animations/Stand/Reactions/ShakeBody_1, animations/Stand/Gestures/No_8, animations/Stand/Gestures/No_6, animations/Stand/Gestures/Desperate_5	animations/Stand/Reactions/ShakeBody_1, animations/Stand/Gestures/No_8, animations/Stand/Gestures/No_6, animations/Stand/Gestures/Desperate_5
+are_uncovered_by	animations/Stand/Emotions/Neutral/Cautious_1	animations/Stand/Emotions/Neutral/Cautious_1
+wait_on	animations/Stand/Waiting/Waddle_2, animations/Stand/Gestures/Thinking_6, animations/Stand/Gestures/Thinking_5, animations/Stand/Gestures/YouKnowWhat_4	animations/Stand/Waiting/Waddle_2, animations/Stand/Gestures/Thinking_6, animations/Stand/Gestures/Thinking_5, animations/Stand/Gestures/YouKnowWhat_4
+are_waited_upon_by		
+paint		
+are_painted_by		
+beg_forgiveness_from	animations/Stand/Waiting/Innocent_1	animations/Stand/Waiting/Innocent_1
+are_begged_by		
+seek_forgiveness_from	animations/Stand/Waiting/Innocent_1	animations/Stand/Waiting/Innocent_1
+are_cut_off_by		
+are_bored_by	animations/Stand/Emotions/Negative/Bored_1, animations/Stand/Emotions/Negative/Exhausted_1, animations/Stand/Waiting/ScratchBottom_1, animations/Stand/Gestures/Maybe_1, animations/Stand/Gestures/Desperate_4, animations/Stand/Gestures/Thinking_3, animations/Stand/Gestures/IDontKnow_3	animations/Stand/Emotions/Negative/Bored_1, animations/Stand/Emotions/Negative/Exhausted_1, animations/Stand/Waiting/ScratchBottom_1, animations/Stand/Gestures/Maybe_1, animations/Stand/Gestures/Desperate_4, animations/Stand/Gestures/Thinking_3, animations/Stand/Gestures/IDontKnow_3
+are_bored_with	animations/Stand/Emotions/Negative/Bored_1, animations/Stand/Emotions/Negative/Exhausted_1, animations/Stand/Waiting/ScratchBottom_1, animations/Stand/Gestures/Maybe_1, animations/Stand/Gestures/Desperate_4, animations/Stand/Gestures/Thinking_3, animations/Stand/Gestures/IDontKnow_3	animations/Stand/Emotions/Negative/Bored_1, animations/Stand/Emotions/Negative/Exhausted_1, animations/Stand/Waiting/ScratchBottom_1, animations/Stand/Gestures/Maybe_1, animations/Stand/Gestures/Desperate_4, animations/Stand/Gestures/Thinking_3, animations/Stand/Gestures/IDontKnow_3
+are_unimpressed_by	animations/Stand/Emotions/Negative/Bored_1, animations/Stand/Emotions/Negative/Sad_2, animations/Stand/Emotions/Negative/Disappointed_1, animations/Stand/Waiting/Waddle_2, animations/Stand/Waiting/ScratchBottom_1, animations/Stand/Gestures/Maybe_1, animations/Stand/Gestures/Desperate_4, animations/Stand/Gestures/IDontKnow_2, animations/Stand/Gestures/WhatSThis_13, animations/Stand/Gestures/WhatSThis_16, animations/Stand/Gestures/YouKnowWhat_4, animations/Stand/Gestures/IDontKnow_3	animations/Stand/Emotions/Negative/Bored_1, animations/Stand/Emotions/Negative/Sad_2, animations/Stand/Emotions/Negative/Disappointed_1, animations/Stand/Waiting/Waddle_2, animations/Stand/Waiting/ScratchBottom_1, animations/Stand/Gestures/Maybe_1, animations/Stand/Gestures/Desperate_4, animations/Stand/Gestures/IDontKnow_2, animations/Stand/Gestures/WhatSThis_13, animations/Stand/Gestures/WhatSThis_16, animations/Stand/Gestures/YouKnowWhat_4, animations/Stand/Gestures/IDontKnow_3
+are_unimpressed_with	animations/Stand/Waiting/Waddle_2, animations/Stand/Waiting/ScratchBottom_1, animations/Stand/Gestures/Maybe_1, animations/Stand/Gestures/Desperate_4, animations/Stand/Gestures/IDontKnow_2, animations/Stand/Gestures/WhatSThis_13, animations/Stand/Gestures/WhatSThis_16, animations/Stand/Gestures/YouKnowWhat_4, animations/Stand/Gestures/IDontKnow_3	animations/Stand/Waiting/Waddle_2, animations/Stand/Waiting/ScratchBottom_1, animations/Stand/Gestures/Maybe_1, animations/Stand/Gestures/Desperate_4, animations/Stand/Gestures/IDontKnow_2, animations/Stand/Gestures/WhatSThis_13, animations/Stand/Gestures/WhatSThis_16, animations/Stand/Gestures/YouKnowWhat_4, animations/Stand/Gestures/IDontKnow_3
+fail_to_impress		
+cry_for		
+are_abandoned_by	animations/Stand/Emotions/Neutral/Innocent_1, animations/Stand/Emotions/Neutral/Lonely_1	animations/Stand/Emotions/Neutral/Innocent_1, animations/Stand/Emotions/Neutral/Lonely_1
+abandon	animations/Stand/Gestures/IDontKnow_4	animations/Stand/Gestures/IDontKnow_4
+anger		
+cause_trouble_for		
+campaign_against		
+rise_against		
+rebel_against		
+are_booed_by	animations/Stand/Emotions/Positive/Shy_2	animations/Stand/Emotions/Positive/Shy_2
+overthrow		
+are_overthrown_by		
+are_deposed_by		
+fight	animations/Stand/Waiting/ShowMuscles_5	animations/Stand/Waiting/ShowMuscles_5
+are_fought_by		
+fight_with	animations/Stand/Waiting/ShowMuscles_5	animations/Stand/Waiting/ShowMuscles_5
+fight_against	animations/Stand/Waiting/ShowMuscles_5	animations/Stand/Waiting/ShowMuscles_5
+are_intimidated_by	animations/Stand/Emotions/Positive/Shy_2, animations/Stand/Emotions/Neutral/Innocent_1	animations/Stand/Emotions/Positive/Shy_2, animations/Stand/Emotions/Neutral/Innocent_1
+intimidate		
+intimidate_with		
+threaten_with		
+threaten		
+are_threatened_by	animations/Stand/Emotions/Positive/Shy_2	animations/Stand/Emotions/Positive/Shy_2
+reject	animations/Stand/Gestures/WhatSThis_16	animations/Stand/Gestures/WhatSThis_16
+are_rejected_by		
+are_excommunicated_by	animations/Stand/Emotions/Negative/Exhausted_1	animations/Stand/Emotions/Negative/Exhausted_1
+excommunicate		
+are_defrocked_by	animations/Stand/Emotions/Negative/Exhausted_1	animations/Stand/Emotions/Negative/Exhausted_1
+reject	animations/Stand/Gestures/WhatSThis_16	animations/Stand/Gestures/WhatSThis_16
+are_intrigued_by		
+leave_behind	animations/Stand/Emotions/Positive/Peaceful_1	animations/Stand/Emotions/Positive/Peaceful_1
+are_drilled_by	animations/Stand/Emotions/Positive/Enthusiastic_1, animations/Stand/Waiting/Fitness_2	animations/Stand/Emotions/Positive/Enthusiastic_1, animations/Stand/Waiting/Fitness_2
+agree_with	animations/Stand/Emotions/Positive/Confident_1, animations/Stand/Emotions/Positive/Optimistic_1, animations/Stand/Gestures/Yes_1, animations/Stand/Gestures/Yes_2, animations/Stand/Gestures/Yes_3, animations/Stand/Gestures/Thinking_1, animations/Stand/Gestures/Great_1	animations/Stand/Emotions/Positive/Confident_1, animations/Stand/Emotions/Positive/Optimistic_1, animations/Stand/Gestures/Yes_1, animations/Stand/Gestures/Yes_2, animations/Stand/Gestures/Yes_3, animations/Stand/Gestures/Thinking_1, animations/Stand/Gestures/Great_1
+encourage	animations/Stand/Emotions/Positive/Hysterical_1	animations/Stand/Emotions/Positive/Hysterical_1
+are_encouraged_by		
+sweat_for		
+are_saved_by		
+save		
+rescue		
+are_rescued_by		
+are_helped_by		
+help		
+joke_about		
+promote		
+are_promoted_by		
+are_entertained_by		
+entertain	animations/Stand/Emotions/Positive/Hysterical_1	animations/Stand/Emotions/Positive/Hysterical_1
+popularize		
+are_popularized_by		
+lead_astray		
+lead	animations/Stand/Gestures/This_11	animations/Stand/Gestures/This_11
+are_led_by		
+guide	animations/Stand/Gestures/This_11	animations/Stand/Gestures/This_11
+are_guided_by		
+support	animations/Stand/Emotions/Positive/Confident_1	animations/Stand/Emotions/Positive/Confident_1
+are_supported_by		
+are_appreciated_by	animations/Stand/Gestures/Great_1	animations/Stand/Gestures/Great_1
+profit_from		
+are_thanked_by		
+are_entertained_by		
+are_overrun_by	animations/Stand/Reactions/Heat_2, animations/Stand/Reactions/Heat_1	animations/Stand/Reactions/Heat_2, animations/Stand/Reactions/Heat_1
+trust	animations/Stand/Emotions/Positive/Optimistic_1	animations/Stand/Emotions/Positive/Optimistic_1
+are_trusted_by		
+believe_in	animations/Stand/Emotions/Positive/Optimistic_1	animations/Stand/Emotions/Positive/Optimistic_1
+confide_in	animations/Stand/Emotions/Positive/Optimistic_1	animations/Stand/Emotions/Positive/Optimistic_1
+rely_on	animations/Stand/Emotions/Positive/Optimistic_1	animations/Stand/Emotions/Positive/Optimistic_1
+are_moved_by	animations/Stand/Emotions/Positive/Optimistic_1	animations/Stand/Emotions/Positive/Optimistic_1
+feel_sorry_for	animations/Stand/Emotions/Positive/Optimistic_1	animations/Stand/Emotions/Positive/Optimistic_1
+are_humiliated_by	animations/Stand/Reactions/Heat_2, animations/Stand/Reactions/Heat_1, animations/Stand/Emotions/Negative/Bored_1, animations/Stand/Emotions/Negative/Exhausted_1	animations/Stand/Reactions/Heat_2, animations/Stand/Reactions/Heat_1, animations/Stand/Emotions/Negative/Bored_1, animations/Stand/Emotions/Negative/Exhausted_1
+champion		
+are_championed_by	animations/Stand/Waiting/ShowMuscles_3	animations/Stand/Waiting/ShowMuscles_3
+are_elected_by		
+elect		
+are_summoned_by		
+summon		
+ignore	animations/Stand/Gestures/Thinking_3	animations/Stand/Gestures/Thinking_3
+are_ignored_by		
+tune_out		
+attend_to		
+are_attended_by		
+attend		
+serve		
+are_served_by		
+minister_to		
+abduct		
+are_abducted_by		
+assault		
+are_assaulted_by		
+attack		
+are_attacked_by		
+kidnap		
+are_kidnapped_by		
+campaign_for		
+propagandize_for		
+welcome	animations/Stand/Gestures/Salute_2	animations/Stand/Gestures/Salute_2
+are_welcomed_by		
+are_greeted_by		
+heckle		
+are_heckled_by		
+confer_with		
+alienate		
+silence	animations/Stand/Emotions/Positive/Peaceful_1, animations/Stand/Gestures/Everything_6, animations/Stand/Gestures/Everything_2	animations/Stand/Emotions/Positive/Peaceful_1, animations/Stand/Gestures/Everything_6, animations/Stand/Gestures/Everything_2
+listen_to	animations/Stand/Emotions/Neutral/Innocent_1	animations/Stand/Emotions/Neutral/Innocent_1
+	animations/Stand/Gestures/YouKnowWhat_1	animations/Stand/Gestures/YouKnowWhat_1
+are_sickened_by	animations/Stand/Gestures/Hungry_1	animations/Stand/Gestures/Hungry_1
+control		
+are_controlled_by		
+command		
+are_commanded_by		
+leave_behind	animations/Stand/Emotions/Positive/Peaceful_1	animations/Stand/Emotions/Positive/Peaceful_1
+are_manipulated_by		
+mystify		
+are_mystified_by		
+hide_from		
+are_lured_by		
+seduce		
+are_seduced_by		
+are_brainwashed_by		
+are_influenced_by		
+are_indoctrinated_by		
+embarass		
+overthrow		
+breastfeed		
+impersonate		
+are_impersonated_by		
+enchant		
+are_enchanted_by		
+are_healed_by	animations/Stand/Gestures/Yum_1	animations/Stand/Gestures/Yum_1
+heal		
+cure		
+share_stories_with		
+are_usurped_by		
+conspire_with	animations/Stand/Waiting/ScratchBack_1	animations/Stand/Waiting/ScratchBack_1
+collude_with	animations/Stand/Waiting/ScratchBack_1	animations/Stand/Waiting/ScratchBack_1
+photograph		
+are_photographed_by		
+mimic		
+are_driven_around_by		
+are_driven_by		
+drive_for		
+look_up_to		
+are_inspired_by		
+are_examined_byare_inspired_by		
+fight_for		
+train		
+are_trained_by	animations/Stand/Waiting/Fitness_2	animations/Stand/Waiting/Fitness_2
+train_with	animations/Stand/Waiting/Fitness_2	animations/Stand/Waiting/Fitness_2
+write_for		
+champion		
+are_toppled_by		
+topple		
+are_threatened_by	animations/Stand/Emotions/Positive/Shy_2	animations/Stand/Emotions/Positive/Shy_2
+hunt	animations/Stand/Reactions/SeeSomething_5	animations/Stand/Reactions/SeeSomething_5
+control		
+fall_in_love_with		
+love		
+are_loved_by		
+manage		
+are_managed_by		
+are_ruined_by		
+are_corrupted_by		
+corrupt		
+are_remembered_by		
+are_recalled_by		
+drink_with		
+challenge	animations/Stand/Gestures/Thinking_4	animations/Stand/Gestures/Thinking_4
+are_challenged_by		
+are_venerated_by		
+_are_heckled_by		
+identify_with	animations/Stand/Gestures/Me_8	animations/Stand/Gestures/Me_8
+lend_to	animations/Stand/Gestures/Give_2	animations/Stand/Gestures/Give_2
+fool		
+are_released_by	animations/Stand/BodyTalk/Speaking/BodyTalk_17, animations/Stand/Waiting/HideHands_1, animations/Stand/Gestures/Confused_1	animations/Stand/BodyTalk/Speaking/BodyTalk_17, animations/Stand/Waiting/HideHands_1, animations/Stand/Gestures/Confused_1
+sacrifice_to	animations/Stand/Gestures/This_10	animations/Stand/Gestures/This_10
+appeal_to	animations/Stand/Gestures/Explain_1	animations/Stand/Gestures/Explain_1
+speak_through		
+settle_with	animations/Stand/Gestures/Everything_6	animations/Stand/Gestures/Everything_6
+dismiss	animations/Stand/Gestures/Everything_6	animations/Stand/Gestures/Everything_6
+are_dismissed_by		
+seek_advice_from		
+complain_to		
+mate_with	animations/Stand/Gestures/Yum_1	animations/Stand/Gestures/Yum_1
+sleep_with	animations/Stand/Gestures/Yum_1	animations/Stand/Gestures/Yum_1
+are_deflowered_by	animations/Stand/Gestures/Yum_1	animations/Stand/Gestures/Yum_1
+conquer		
+are_conquered_by		
+argue_before		
+communicate_through		
+communicate_via		
+eject		
+are_ejected_by		
+supplant		
+are_supplanted_by		
+inherit_from		
+take_aim_at		
+target		
+are_targeted_by		
+respect	animations/Stand/Gestures/BowShort_1	animations/Stand/Gestures/BowShort_1
+are_respected_by		
+owe		
+are_owed_by		
+are_spurned_by		
+spurn		
+are_blessed_by		
+design_for		
+starve		
+kiss_up_to		
+are_kissed_by		
+massage		
+are_scripted_by		
+are_introduced_by		
+spy_on		
+export_to		
+travel_with		
+imitate		
+are_imitated_by		
+listen_to	animations/Stand/Emotions/Neutral/Innocent_1	animations/Stand/Emotions/Neutral/Innocent_1
+talk_to		
+speak_with		
+communicate_with		
+speak_to		
+debrief		
+chat_with		
+reward		
+are_rewarded_by		
+disrespect		
+offend		
+struggle_against		
+struggle_with		
+are_dumped_by		
+dump		
+dress		
+speak_for		
+are_named_by		
+farm_for		
+let_go_of	animations/Stand/Gestures/WhatSThis_5, animations/Stand/Gestures/This_10, animations/Stand/Gestures/ShowFloor_5, animations/Stand/Gestures/ShowFloor_1	animations/Stand/Gestures/WhatSThis_5, animations/Stand/Gestures/This_10, animations/Stand/Gestures/ShowFloor_5, animations/Stand/Gestures/ShowFloor_1
+advocate_for		
+represent		
+are_represented_by		
+cast_out		
+write_about		
+are_published_by		
+write_to		
+are_toppled_by		
+subdue		
+are_subdued_by		
+despise	animations/Stand/Gestures/Thinking_3, animations/Stand/Gestures/No_6, animations/Stand/Gestures/Desperate_5	animations/Stand/Gestures/Thinking_3, animations/Stand/Gestures/No_6, animations/Stand/Gestures/Desperate_5
+are_despised_by		
+deceive		
+are_deceived_by		
+are_rebuffed_by	animations/Stand/Reactions/SeeSomething_7	animations/Stand/Reactions/SeeSomething_7
+pamper		
+tend		
+are_tended_by		
+care_for		
+are_cared_for_by		
+break_with		
+are_uncovered_by	animations/Stand/Emotions/Neutral/Cautious_1	animations/Stand/Emotions/Neutral/Cautious_1
+are_rebuked_by	animations/Stand/Reactions/SeeSomething_7	animations/Stand/Reactions/SeeSomething_7
+appoint		
+are_appointed_by		
+are_dumped_by		
+raise		
+are_raised_by		
+nurture		
+are_nurtured_by		
+run_away_from		
+supply_to		
+preach_to		
+lose_favor_with		
+order_from		
+are_disillusioned_by	animations/Stand/Reactions/EthernetOff_1, animations/Stand/Emotions/Negative/Exhausted_1, animations/Stand/Gestures/WhatSThis_13	animations/Stand/Reactions/EthernetOff_1, animations/Stand/Emotions/Negative/Exhausted_1, animations/Stand/Gestures/WhatSThis_13
+leak_to		
+are_freed_by	animations/Stand/BodyTalk/Speaking/BodyTalk_17, animations/Stand/Waiting/HideHands_1, animations/Stand/Gestures/Confused_1	animations/Stand/BodyTalk/Speaking/BodyTalk_17, animations/Stand/Waiting/HideHands_1, animations/Stand/Gestures/Confused_1
+are_rewarded_with		
+are_expelled_by		
+handle		
+are_handled_by		
+deal_with		
+are_chosen_by		
+cheat		
+are_cheated_by		
+cheat_on		
+cheat_with		
+pray_for		
+worship_with		
+worship		
+are_worshipped_by		
+pray_to		
+pray_with		
+are_retained_by		
+answer_to	animations/Stand/Gestures/Give_2	animations/Stand/Gestures/Give_2
+answer	animations/Stand/Gestures/Give_2	animations/Stand/Gestures/Give_2
+are_answered_by		
+ask_questions_for		
+answer_questions_from		
+are_challenged_by		
+promote		
+renounce		
+lease_to		
+lease_from		
+rent_to		
+rent_from		
+descend_from		
+are_roused_by		
+rouse		
+break_up_with		
+divorce		
+are_divorced_by		
+are_defeated_by	animations/Stand/BodyTalk/Speaking/BodyTalk_17, animations/Stand/Reactions/Heat_2, animations/Stand/Reactions/Heat_1	animations/Stand/BodyTalk/Speaking/BodyTalk_17, animations/Stand/Reactions/Heat_2, animations/Stand/Reactions/Heat_1
+rank		
+accuse		
+are_accused_by		
+destroy		
+are_marketed_by	animations/Stand/Gestures/Thinking_1	animations/Stand/Gestures/Thinking_1
+execute		
+are_denounced_by	animations/Stand/Reactions/Heat_2, animations/Stand/Reactions/Heat_1, animations/Stand/Emotions/Negative/Bored_1, animations/Stand/Emotions/Negative/Exhausted_1	animations/Stand/Reactions/Heat_2, animations/Stand/Reactions/Heat_1, animations/Stand/Emotions/Negative/Bored_1, animations/Stand/Emotions/Negative/Exhausted_1
+sue		
+are_sued_by		
+countersue		
+pander_to		
+overcome		
+are_worshipped_by		
+repay		
+are_repaid_by		
+entice		
+are_enticed_by		
+woo		
+are_wooed_by		
+dominate		
+are_dominated_by		
+fail_to_reward	animations/Stand/Gestures/WhatSThis_16, animations/Stand/Gestures/IDontKnow_1	animations/Stand/Gestures/WhatSThis_16, animations/Stand/Gestures/IDontKnow_1
+oppress		
+are_oppressed_by		
+suppress		
+are_suppressed_by		
+subjugate		
+are_subjugated_by		
+are_abandoned_by	animations/Stand/Emotions/Neutral/Innocent_1, animations/Stand/Emotions/Neutral/Lonely_1	animations/Stand/Emotions/Neutral/Innocent_1, animations/Stand/Emotions/Neutral/Lonely_1
+are_failed_by		
+hate		
